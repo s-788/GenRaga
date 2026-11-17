@@ -1,0 +1,78 @@
+{
+  "abstract_words": 224,
+  "section_count": 8,
+  "subsection_count": 33,
+  "figure_count": 5,
+  "reference_count": 40,
+  "citations_in_first_appearance_order": true,
+  "undefined_citations": [],
+  "undefined_cross_references": [],
+  "duplicate_labels": false,
+  "numerical_source_hashes_unchanged": true,
+  "pdf_pages": 8,
+  "page_words": [
+    712,
+    854,
+    678,
+    729,
+    671,
+    823,
+    547,
+    1069
+  ],
+  "page_sizes_points": [
+    [
+      0.0,
+      0.0,
+      612.0,
+      792.0
+    ],
+    [
+      0.0,
+      0.0,
+      612.0,
+      792.0
+    ],
+    [
+      0.0,
+      0.0,
+      612.0,
+      792.0
+    ],
+    [
+      0.0,
+      0.0,
+      612.0,
+      792.0
+    ],
+    [
+      0.0,
+      0.0,
+      612.0,
+      792.0
+    ],
+    [
+      0.0,
+      0.0,
+      612.0,
+      792.0
+    ],
+    [
+      0.0,
+      0.0,
+      612.0,
+      792.0
+    ],
+    [
+      0.0,
+      0.0,
+      612.0,
+      792.0
+    ]
+  ],
+  "page_text_beyond_edges": [],
+  "unresolved_pdf_markers": false,
+  "pdf_sha256": "ee9affbc13b562db9f5a085f300ace14410cb55ce17f010303f65c11e2047ada",
+  "tex_overfull_boxes": [],
+  "tex_undefined_warnings": []
+}

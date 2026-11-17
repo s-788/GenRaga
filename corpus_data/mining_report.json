@@ -1,0 +1,65 @@
+{
+ "mohanam": {
+  "own_recordings": 16,
+  "own_compositions": 13,
+  "null_recordings": 80,
+  "candidates": 3300,
+  "kept": 17,
+  "expert_mean_support": 11.846153846153847,
+  "expert_mean_surrogate": 11.973846153846155,
+  "kept_by_source": {
+   "varnam": 0,
+   "expert": 0,
+   "ngram": 17
+  },
+  "cand_by_source": {
+   "varnam": 81,
+   "expert": 13,
+   "ngram": 3257
+  },
+  "mean_len_kept": 4.9411764705882355,
+  "note_rate_own": 1858.25
+ },
+ "kalyani": {
+  "own_recordings": 16,
+  "own_compositions": 11,
+  "null_recordings": 80,
+  "candidates": 4441,
+  "kept": 160,
+  "expert_mean_support": 8.5,
+  "expert_mean_surrogate": 8.2,
+  "kept_by_source": {
+   "varnam": 0,
+   "expert": 0,
+   "ngram": 160
+  },
+  "cand_by_source": {
+   "varnam": 105,
+   "expert": 10,
+   "ngram": 4377
+  },
+  "mean_len_kept": 4.85625,
+  "note_rate_own": 1435.6875
+ },
+ "abhogi": {
+  "own_recordings": 2,
+  "own_compositions": 2,
+  "null_recordings": 80,
+  "candidates": 86,
+  "kept": 0,
+  "expert_mean_support": null,
+  "expert_mean_surrogate": null,
+  "kept_by_source": {
+   "varnam": 0,
+   "expert": 0,
+   "ngram": 0
+  },
+  "cand_by_source": {
+   "varnam": 86,
+   "expert": 0,
+   "ngram": 0
+  },
+  "mean_len_kept": null,
+  "note_rate_own": 563.5
+ }
+}

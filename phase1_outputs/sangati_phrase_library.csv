@@ -1,0 +1,1245 @@
+raga,level,id,tokens,count,first_swara,last_swara,contour_ordinals
+abhogi,cell,abh_c000,M1 G1 R2 S,5,M1,S,0 -1 -2 -3
+abhogi,cell,abh_c001,", M1 D2 M1",3,M1,M1,", 0 1 0"
+abhogi,cell,abh_c002,R2 G1 M1 G1,2,R2,G1,0 1 2 1
+abhogi,cell,abh_c003,S R2 G1 M1,2,S,M1,0 1 2 3
+abhogi,cell,abh_c004,G1 R2 G1 M1,2,G1,M1,0 -1 0 1
+abhogi,cell,abh_c005,"D2 D2 S^ ,",2,D2,S^,"0 0 1 ,"
+abhogi,cell,abh_c006,S^ D2 M1 D2,2,S^,D2,0 -1 -2 -1
+abhogi,cell,abh_c007,"R2^ S^ , D2",2,R2^,D2,"0 -1 , -2"
+abhogi,cell,abh_c008,D2 S^ D2 M1,2,D2,M1,0 1 0 -1
+abhogi,cell,abh_c009,M1 D2 S^ D2,2,M1,D2,0 1 2 1
+abhogi,cell,abh_c010,R2 S R2 G1,2,R2,G1,0 -1 0 1
+abhogi,cell,abh_c011,R2 G1 M1 D2,2,R2,D2,0 1 2 3
+abhogi,cell,abh_c012,", S^ R2^ G1^",2,S^,G1^,", 0 1 2"
+abhogi,cell,abh_c013,"R2 , G1 ,",1,R2,G1,"0 , 1 ,"
+abhogi,cell,abh_c014,"G1 R2 S ,",1,G1,S,"0 -1 -2 ,"
+abhogi,cell,abh_c015,S R2 S S,1,S,S,0 1 0 0
+abhogi,cell,abh_c016,"D2 M1 D2 ,",1,D2,D2,"0 -1 0 ,"
+abhogi,cell,abh_c017,M1 D2 S D2,1,M1,D2,0 1 -3 1
+abhogi,cell,abh_c018,", S D2 S",1,S,S,", 0 4 0"
+abhogi,cell,abh_c019,"R2 G1 , M1",1,R2,M1,"0 1 , 2"
+abhogi,cell,abh_c020,G1 G1 R2 S,1,G1,S,0 0 -1 -2
+abhogi,cell,abh_c021,", M1 R2 G1",1,M1,G1,", 0 -2 -1"
+abhogi,cell,abh_c022,"S R2 , D2",1,S,D2,"0 1 , 4"
+abhogi,cell,abh_c023,D2 M1 D2 S^,1,D2,S^,0 -1 0 1
+abhogi,cell,abh_c024,", S^ D2 S^",1,S^,S^,", 0 -1 0"
+abhogi,cell,abh_c025,"D2 M1 , G1",1,D2,G1,"0 -1 , -2"
+abhogi,cell,abh_c026,S^ S^ D2 D2,1,S^,D2,0 0 -1 -1
+abhogi,cell,abh_c027,", M1 D2 D2",1,M1,D2,", 0 1 1"
+abhogi,cell,abh_c028,"M1 G1 , R2",1,M1,R2,"0 -1 , -2"
+abhogi,cell,abh_c029,G1 M1 R2 G1,1,G1,G1,0 1 -1 0
+abhogi,cell,abh_c030,D2 S^ R2^ S^,1,D2,S^,0 1 2 1
+abhogi,cell,abh_c031,", R2^ G1 M1^",1,R2^,M1^,", 0 -4 2"
+abhogi,cell,abh_c032,"R2^ G1^ , M1",1,R2^,M1,"0 1 , -3"
+abhogi,cell,abh_c033,G1^ G1^ R2^ S^,1,G1^,S^,0 0 -1 -2
+abhogi,cell,abh_c034,R2^ G1^ R2^ S^,1,R2^,S^,0 1 0 -1
+abhogi,cell,abh_c035,R2^ D2 R2^ S^,1,R2^,S^,0 -2 0 -1
+abhogi,cell,abh_c036,R2 G1 M1 R2,1,R2,R2,0 1 2 0
+abhogi,cell,abh_c037,", G1 S R2",1,G1,R2,", 0 -2 -1"
+abhogi,cell,abh_c038,"G1 S , R2",1,G1,R2,"0 -2 , -1"
+abhogi,cell,abh_c039,S D2 M1 D2,1,S,D2,0 4 3 4
+abhogi,cell,abh_c040,S D2 S R2,1,S,R2,0 4 0 1
+abhogi,cell,abh_c041,", R2 G1 S",1,R2,S,", 0 1 -1"
+abhogi,cell,abh_c042,"R2 M1 , D2",1,R2,D2,"0 2 , 3"
+abhogi,cell,abh_c043,"D2 S^ , R2^",1,D2,R2^,"0 1 , 2"
+abhogi,cell,abh_c044,G1^ S^ R2^ G1^,1,G1^,G1^,0 -2 -1 0
+abhogi,cell,abh_c045,M1^ G1^ R2^ G1^,1,M1^,G1^,0 -1 -2 -1
+abhogi,cell,abh_c046,", R2^ S^ D2",1,R2^,D2,", 0 -1 -2"
+abhogi,cell,abh_c047,"M1 , D2 M1",1,M1,M1,"0 , 1 0"
+abhogi,cell,abh_c048,"D2 , , ,",1,D2,D2,"0 , , ,"
+abhogi,cell,abh_c049,D2 S^ D2 D2,1,D2,D2,0 1 0 0
+abhogi,cell,abh_c050,"M1 , G1 M1",1,M1,M1,"0 , -1 0"
+abhogi,cell,abh_c051,G1 R2 S R2,1,G1,R2,0 -1 -2 -1
+abhogi,cell,abh_c052,G1 S R2 G1,1,G1,G1,0 -2 -1 0
+abhogi,cell,abh_c053,"M1 , , ,",1,M1,M1,"0 , , ,"
+abhogi,cell,abh_c054,", , D2 ,",1,D2,D2,", , 0 ,"
+abhogi,cell,abh_c055,"M1 , D2 ,",1,M1,D2,"0 , 1 ,"
+abhogi,cell,abh_c056,", , S^ ,",1,S^,S^,", , 0 ,"
+abhogi,cell,abh_c057,"D2 , M1 ,",1,D2,M1,"0 , -1 ,"
+abhogi,cell,abh_c058,", , G1 ,",1,G1,G1,", , 0 ,"
+abhogi,cell,abh_c059,"R2 , S ,",1,R2,S,"0 , -1 ,"
+abhogi,cell,abh_c060,", R2 , G1",1,R2,G1,", 0 , 1"
+abhogi,cell,abh_c061,"G1 R2 , G1",1,G1,G1,"0 -1 , 0"
+abhogi,cell,abh_c062,"D2 S , R2",1,D2,R2,"0 -4 , -3"
+abhogi,cell,abh_c063,G1 M1 D2 S^,1,G1,S^,0 1 2 3
+abhogi,cell,abh_c064,", D2 M1 G1",1,D2,G1,", 0 -1 -2"
+abhogi,cell,abh_c065,D2 M1 G1 R2,1,D2,R2,0 -1 -2 -3
+abhogi,cell,abh_c066,G1 S R2 S,1,G1,S,0 -2 -1 -2
+abhogi,cell,abh_c067,S^ R2^ G1^ R2^,1,S^,R2^,0 1 2 1
+abhogi,cell,abh_c068,S^ D2 M1 G1,1,S^,G1,0 -1 -2 -3
+abhogi,cell,abh_c069,"S , , S^",1,S,S^,"0 , , 5"
+abhogi,cell,abh_c070,"S^ R2^ , R2^",1,S^,R2^,"0 1 , 1"
+abhogi,cell,abh_c071,"S^ , , S^",1,S^,S^,"0 , , 0"
+abhogi,cell,abh_c072,D2 R2^ S^ D2,1,D2,D2,0 2 1 0
+abhogi,cell,abh_c073,", S^ D2 M1",1,S^,M1,", 0 -1 -2"
+abhogi,cell,abh_c074,", G1 R2 S",1,G1,S,", 0 -1 -2"
+abhogi,cell,abh_c075,"M1^ R2^ , G1^",1,M1^,G1^,"0 -2 , -1"
+abhogi,cell,abh_c076,R2^ S^ D2 S^,1,R2^,S^,0 -1 -2 -1
+abhogi,cell,abh_c077,", M1 G1 R2",1,M1,R2,", 0 -1 -2"
+abhogi,cell,abh_c078,"S , R2 G1",1,S,G1,"0 , 1 2"
+abhogi,pair,abh_p000,"R2 , G1 , G1 R2 S ,",1,R2,S,"0 , 1 , 1 0 -1 ,"
+abhogi,pair,abh_p001,"S R2 S S D2 M1 D2 ,",1,S,D2,"0 1 0 0 4 3 4 ,"
+abhogi,pair,abh_p002,"M1 D2 S D2 , S D2 S",1,M1,S,"0 1 -3 1 , -3 1 -3"
+abhogi,pair,abh_p003,"R2 G1 , M1 G1 G1 R2 S",1,R2,S,"0 1 , 2 1 1 0 -1"
+abhogi,pair,abh_p004,"R2 G1 M1 G1 , M1 R2 G1",1,R2,G1,"0 1 2 1 , 2 0 1"
+abhogi,pair,abh_p005,"S R2 , D2 S R2 G1 M1",1,S,M1,"0 1 , 4 0 1 2 3"
+abhogi,pair,abh_p006,"D2 M1 D2 S^ , S^ D2 S^",1,D2,S^,"0 -1 0 1 , 1 0 1"
+abhogi,pair,abh_p007,"D2 M1 , G1 M1 G1 R2 S",1,D2,S,"0 -1 , -2 -1 -2 -3 -4"
+abhogi,pair,abh_p008,"S^ S^ D2 D2 , M1 D2 D2",1,S^,D2,"0 0 -1 -1 , -2 -1 -1"
+abhogi,pair,abh_p009,"M1 G1 , R2 G1 M1 R2 G1",1,M1,G1,"0 -1 , -2 -1 0 -2 -1"
+abhogi,pair,abh_p010,"S R2 G1 M1 , M1 D2 M1",1,S,M1,"0 1 2 3 , 3 4 3"
+abhogi,pair,abh_p011,"G1 R2 G1 M1 D2 D2 S^ ,",1,G1,S^,"0 -1 0 1 2 2 3 ,"
+abhogi,pair,abh_p012,"D2 S^ R2^ S^ , R2^ G1 M1^",1,D2,M1^,"0 1 2 1 , 2 -2 4"
+abhogi,pair,abh_p013,"R2^ G1^ , M1 G1^ G1^ R2^ S^",1,R2^,S^,"0 1 , -3 1 1 0 -1"
+abhogi,pair,abh_p014,R2^ G1^ R2^ S^ R2^ D2 R2^ S^,1,R2^,S^,0 1 0 -1 0 -2 0 -1
+abhogi,pair,abh_p015,S^ D2 M1 D2 M1 G1 R2 S,1,S^,S,0 -1 -2 -1 -2 -3 -4 -5
+abhogi,pair,abh_p016,"R2 G1 M1 R2 , G1 S R2",1,R2,R2,"0 1 2 0 , 1 -1 0"
+abhogi,pair,abh_p017,"G1 S , R2 S D2 M1 D2",1,G1,D2,"0 -2 , -1 -2 2 1 2"
+abhogi,pair,abh_p018,"S D2 S R2 , R2 G1 S",1,S,S,"0 4 0 1 , 1 2 0"
+abhogi,pair,abh_p019,"R2 M1 , D2 M1 G1 R2 S",1,R2,S,"0 2 , 3 2 1 0 -1"
+abhogi,pair,abh_p020,"R2 G1 M1 G1 , M1 D2 M1",1,R2,M1,"0 1 2 1 , 2 3 2"
+abhogi,pair,abh_p021,"D2 S^ , R2^ G1^ S^ R2^ G1^",1,D2,G1^,"0 1 , 2 3 1 2 3"
+abhogi,pair,abh_p022,"M1^ G1^ R2^ G1^ , R2^ S^ D2",1,M1^,D2,"0 -1 -2 -1 , -2 -3 -4"
+abhogi,pair,abh_p023,"R2^ S^ , D2 M1 G1 R2 S",1,R2^,S,"0 -1 , -2 -3 -4 -5 -6"
+abhogi,pair,abh_p024,"M1 , D2 M1 D2 , , ,",1,M1,D2,"0 , 1 0 1 , , ,"
+abhogi,pair,abh_p025,"D2 S^ D2 M1 D2 D2 S^ ,",1,D2,S^,"0 1 0 -1 0 0 1 ,"
+abhogi,pair,abh_p026,"D2 S^ D2 D2 M1 , G1 M1",1,D2,M1,"0 1 0 0 -1 , -2 -1"
+abhogi,pair,abh_p027,G1 R2 S R2 G1 S R2 G1,1,G1,G1,0 -1 -2 -1 0 -2 -1 0
+abhogi,pair,abh_p028,"M1 , , , , , D2 ,",1,M1,D2,"0 , , , , , 1 ,"
+abhogi,pair,abh_p029,"M1 , D2 , , , S^ ,",1,M1,S^,"0 , 1 , , , 2 ,"
+abhogi,pair,abh_p030,"D2 , M1 , , , G1 ,",1,D2,G1,"0 , -1 , , , -2 ,"
+abhogi,pair,abh_p031,"R2 , S , , R2 , G1",1,R2,G1,"0 , -1 , , 0 , 1"
+abhogi,pair,abh_p032,"M1 D2 S^ D2 , M1 D2 M1",1,M1,M1,"0 1 2 1 , 0 1 0"
+abhogi,pair,abh_p033,"G1 R2 , G1 M1 G1 R2 S",1,G1,S,"0 -1 , 0 1 0 -1 -2"
+abhogi,pair,abh_p034,"D2 S , R2 G1 M1 D2 S^",1,D2,S^,"0 -4 , -3 -2 -1 0 1"
+abhogi,pair,abh_p035,", D2 M1 G1 R2 S R2 G1",1,D2,G1,", 0 -1 -2 -3 -4 -3 -2"
+abhogi,pair,abh_p036,D2 S^ D2 M1 G1 R2 G1 M1,1,D2,M1,0 1 0 -1 -2 -3 -2 -1
+abhogi,pair,abh_p037,D2 M1 G1 R2 G1 S R2 S,1,D2,S,0 -1 -2 -3 -2 -4 -3 -4
+abhogi,pair,abh_p038,R2 G1 M1 D2 S^ R2^ G1^ R2^,1,R2,R2^,0 1 2 3 4 5 6 5
+abhogi,pair,abh_p039,S^ D2 M1 G1 R2 S R2 G1,1,S^,G1,0 -1 -2 -3 -4 -5 -4 -3
+abhogi,pair,abh_p040,"S , , S^ , S^ R2^ G1^",1,S,G1^,"0 , , 5 , 5 6 7"
+abhogi,pair,abh_p041,"S^ R2^ , R2^ S^ D2 M1 D2",1,S^,D2,"0 1 , 1 0 -1 -2 -1"
+abhogi,pair,abh_p042,"S^ , , S^ D2 R2^ S^ D2",1,S^,D2,"0 , , 0 -1 1 0 -1"
+abhogi,pair,abh_p043,", S^ D2 M1 , G1 R2 S",1,S^,S,", 0 -1 -2 , -3 -4 -5"
+abhogi,pair,abh_p044,"R2 G1 M1 D2 , S^ R2^ G1^",1,R2,G1^,"0 1 2 3 , 4 5 6"
+abhogi,pair,abh_p045,"M1^ R2^ , G1^ R2^ S^ D2 S^",1,M1^,S^,"0 -2 , -1 -2 -3 -4 -3"
+abhogi,pair,abh_p046,"R2^ S^ , D2 M1 D2 S^ D2",1,R2^,D2,"0 -1 , -2 -3 -2 -1 -2"
+abhogi,pair,abh_p047,", M1 G1 R2 S , R2 G1",1,M1,G1,", 0 -1 -2 -3 , -2 -1"
+abhogi,half,abh_h000,"R2 , G1 , G1 R2 S , S R2 S S D2 M1 D2 ,",1,R2,D2,"0 , 1 , 1 0 -1 , -1 0 -1 -1 3 2 3 ,"
+abhogi,half,abh_h001,"M1 D2 S D2 , S D2 S R2 G1 , M1 G1 G1 R2 S",1,M1,S,"0 1 -3 1 , -3 1 -3 -2 -1 , 0 -1 -1 -2 -3"
+abhogi,half,abh_h002,"R2 G1 M1 G1 , M1 R2 G1 S R2 , D2 S R2 G1 M1",1,R2,M1,"0 1 2 1 , 2 0 1 -1 0 , 3 -1 0 1 2"
+abhogi,half,abh_h003,"D2 M1 D2 S^ , S^ D2 S^ D2 M1 , G1 M1 G1 R2 S",1,D2,S,"0 -1 0 1 , 1 0 1 0 -1 , -2 -1 -2 -3 -4"
+abhogi,half,abh_h004,"S^ S^ D2 D2 , M1 D2 D2 M1 G1 , R2 G1 M1 R2 G1",1,S^,G1,"0 0 -1 -1 , -2 -1 -1 -2 -3 , -4 -3 -2 -4 -3"
+abhogi,half,abh_h005,"S R2 G1 M1 , M1 D2 M1 G1 R2 G1 M1 D2 D2 S^ ,",1,S,S^,"0 1 2 3 , 3 4 3 2 1 2 3 4 4 5 ,"
+abhogi,half,abh_h006,"D2 S^ R2^ S^ , R2^ G1 M1^ R2^ G1^ , M1 G1^ G1^ R2^ S^",1,D2,S^,"0 1 2 1 , 2 -2 4 2 3 , -1 3 3 2 1"
+abhogi,half,abh_h007,R2^ G1^ R2^ S^ R2^ D2 R2^ S^ S^ D2 M1 D2 M1 G1 R2 S,1,R2^,S,0 1 0 -1 0 -2 0 -1 -1 -2 -3 -2 -3 -4 -5 -6
+abhogi,half,abh_h008,"R2 G1 M1 R2 , G1 S R2 G1 S , R2 S D2 M1 D2",1,R2,D2,"0 1 2 0 , 1 -1 0 1 -1 , 0 -1 3 2 3"
+abhogi,half,abh_h009,"S D2 S R2 , R2 G1 S R2 M1 , D2 M1 G1 R2 S",1,S,S,"0 4 0 1 , 1 2 0 1 3 , 4 3 2 1 0"
+abhogi,half,abh_h010,"R2 G1 M1 G1 , M1 D2 M1 D2 S^ , R2^ G1^ S^ R2^ G1^",1,R2,G1^,"0 1 2 1 , 2 3 2 3 4 , 5 6 4 5 6"
+abhogi,half,abh_h011,"M1^ G1^ R2^ G1^ , R2^ S^ D2 R2^ S^ , D2 M1 G1 R2 S",1,M1^,S,"0 -1 -2 -1 , -2 -3 -4 -2 -3 , -4 -5 -6 -7 -8"
+abhogi,half,abh_h012,"M1 , D2 M1 D2 , , , D2 S^ D2 M1 D2 D2 S^ ,",1,M1,S^,"0 , 1 0 1 , , , 1 2 1 0 1 1 2 ,"
+abhogi,half,abh_h013,"D2 S^ D2 D2 M1 , G1 M1 G1 R2 S R2 G1 S R2 G1",1,D2,G1,"0 1 0 0 -1 , -2 -1 -2 -3 -4 -3 -2 -4 -3 -2"
+abhogi,half,abh_h014,"M1 , , , , , D2 , M1 , D2 , , , S^ ,",1,M1,S^,"0 , , , , , 1 , 0 , 1 , , , 2 ,"
+abhogi,half,abh_h015,"D2 , M1 , , , G1 , R2 , S , , R2 , G1",1,D2,G1,"0 , -1 , , , -2 , -3 , -4 , , -3 , -2"
+abhogi,half,abh_h016,"M1 D2 S^ D2 , M1 D2 M1 G1 R2 , G1 M1 G1 R2 S",1,M1,S,"0 1 2 1 , 0 1 0 -1 -2 , -1 0 -1 -2 -3"
+abhogi,half,abh_h017,"D2 S , R2 G1 M1 D2 S^ , D2 M1 G1 R2 S R2 G1",1,D2,G1,"0 -4 , -3 -2 -1 0 1 , 0 -1 -2 -3 -4 -3 -2"
+abhogi,half,abh_h018,D2 S^ D2 M1 G1 R2 G1 M1 D2 M1 G1 R2 G1 S R2 S,1,D2,S,0 1 0 -1 -2 -3 -2 -1 0 -1 -2 -3 -2 -4 -3 -4
+abhogi,half,abh_h019,R2 G1 M1 D2 S^ R2^ G1^ R2^ S^ D2 M1 G1 R2 S R2 G1,1,R2,G1,0 1 2 3 4 5 6 5 4 3 2 1 0 -1 0 1
+abhogi,half,abh_h020,"S , , S^ , S^ R2^ G1^ S^ R2^ , R2^ S^ D2 M1 D2",1,S,D2,"0 , , 5 , 5 6 7 5 6 , 6 5 4 3 4"
+abhogi,half,abh_h021,"S^ , , S^ D2 R2^ S^ D2 , S^ D2 M1 , G1 R2 S",1,S^,S,"0 , , 0 -1 1 0 -1 , 0 -1 -2 , -3 -4 -5"
+abhogi,half,abh_h022,"R2 G1 M1 D2 , S^ R2^ G1^ M1^ R2^ , G1^ R2^ S^ D2 S^",1,R2,S^,"0 1 2 3 , 4 5 6 7 5 , 6 5 4 3 4"
+abhogi,half,abh_h023,"R2^ S^ , D2 M1 D2 S^ D2 , M1 G1 R2 S , R2 G1",1,R2^,G1,"0 -1 , -2 -3 -2 -1 -2 , -3 -4 -5 -6 , -5 -4"
+begada,cell,beg_c000,G2 R2 G2 M1,4,G2,M1,0 -1 0 1
+begada,cell,beg_c001,D2 P S^ N2,4,D2,N2,0 -1 2 1
+begada,cell,beg_c002,G2 M1 P D2,4,G2,D2,0 1 2 3
+begada,cell,beg_c003,R2 G2 M1 P,3,R2,P,0 1 2 3
+begada,cell,beg_c004,"P , , M1",3,P,M1,"0 , , -1"
+begada,cell,beg_c005,", M1 G2 R2",3,M1,R2,", 0 -1 -2"
+begada,cell,beg_c006,"D2 P M1 ,",2,D2,M1,"0 -1 -2 ,"
+begada,cell,beg_c007,"G2 R2 S ,",2,G2,S,"0 -1 -2 ,"
+begada,cell,beg_c008,"R2^ S^ , N2",2,R2^,N2,"0 -1 , -2"
+begada,cell,beg_c009,D2 P M1 G2,2,D2,G2,0 -1 -2 -3
+begada,cell,beg_c010,", D2 P M1",2,D2,M1,", 0 -1 -2"
+begada,cell,beg_c011,", M1 P D2",2,M1,D2,", 0 1 2"
+begada,cell,beg_c012,S N2 R2 S,2,S,S,0 6 1 0
+begada,cell,beg_c013,", R2 N2 D2",2,R2,D2,", 0 5 4"
+begada,cell,beg_c014,P D2 P S,2,P,S,0 1 0 -4
+begada,cell,beg_c015,P M1 G2 R2,2,P,R2,0 -1 -2 -3
+begada,cell,beg_c016,"G2 R2 , S",2,G2,S,"0 -1 , -2"
+begada,cell,beg_c017,"P D2 N2 ,",2,P,N2,"0 1 2 ,"
+begada,cell,beg_c018,M1 G2 R2 S,2,M1,S,0 -1 -2 -3
+begada,cell,beg_c019,S N2 G2 R2,2,S,R2,0 6 2 1
+begada,cell,beg_c020,R2 N2 D2 D2,1,R2,D2,0 5 4 4
+begada,cell,beg_c021,"P P S ,",1,P,S,"0 0 -4 ,"
+begada,cell,beg_c022,"S , N2 S",1,S,S,"0 , 6 0"
+begada,cell,beg_c023,"G2 R2 G2 ,",1,G2,G2,"0 -1 0 ,"
+begada,cell,beg_c024,"M1 , M1 ,",1,M1,M1,"0 , 0 ,"
+begada,cell,beg_c025,"P , M1 D2",1,P,D2,"0 , -1 1"
+begada,cell,beg_c026,", P S^ N2",1,P,N2,", 0 3 2"
+begada,cell,beg_c027,"D2 R2^ S^ ,",1,D2,S^,"0 3 2 ,"
+begada,cell,beg_c028,P D2 P N2,1,P,N2,0 1 0 2
+begada,cell,beg_c029,", D2 , P",1,D2,P,", 0 , -1"
+begada,cell,beg_c030,"M1 , G2 ,",1,M1,G2,"0 , -1 ,"
+begada,cell,beg_c031,"S , D2 D2",1,S,D2,"0 , 5 5"
+begada,cell,beg_c032,P N2 N2 D2,1,P,D2,0 2 2 1
+begada,cell,beg_c033,M1 P D2 N2,1,M1,N2,0 1 2 3
+begada,cell,beg_c034,G2 R2 S M1,1,G2,M1,0 -1 -2 1
+begada,cell,beg_c035,G2 M1 R2 G2,1,G2,G2,0 1 -1 0
+begada,cell,beg_c036,M1 P P D2,1,M1,D2,0 1 1 2
+begada,cell,beg_c037,"M1 , , ,",1,M1,M1,"0 , , ,"
+begada,cell,beg_c038,"P D2 , D2",1,P,D2,"0 1 , 1"
+begada,cell,beg_c039,P M1 M1 P,1,P,P,0 -1 -1 0
+begada,cell,beg_c040,", P M1 G2",1,P,G2,", 0 -1 -2"
+begada,cell,beg_c041,"M1 D2 , P",1,M1,P,"0 2 , 1"
+begada,cell,beg_c042,S^ N2 D2 P,1,S^,P,0 -1 -2 -3
+begada,cell,beg_c043,S^ N2 D2 R2^,1,S^,R2^,0 -1 -2 1
+begada,cell,beg_c044,"S^ , , ,",1,S^,S^,"0 , , ,"
+begada,cell,beg_c045,P D2 P S^,1,P,S^,0 1 0 3
+begada,cell,beg_c046,N2 S^ G2^ R2^,1,N2,R2^,0 1 3 2
+begada,cell,beg_c047,G2^ M1^ G2^ M1^,1,G2^,M1^,0 1 0 1
+begada,cell,beg_c048,"R2^ , P^ M1^",1,R2^,M1^,"0 , 3 2"
+begada,cell,beg_c049,"R2^ , , R2^",1,R2^,R2^,"0 , , 0"
+begada,cell,beg_c050,S^ N2 D2 D2,1,S^,D2,0 -1 -2 -2
+begada,cell,beg_c051,"P S^ , N2",1,P,N2,"0 3 , 2"
+begada,cell,beg_c052,D2 N2 S^ R2,1,D2,R2,0 1 2 -4
+begada,cell,beg_c053,D2 P D2 M1,1,D2,M1,0 -1 0 -2
+begada,cell,beg_c054,", G2 M1 R2",1,G2,R2,", 0 1 -1"
+begada,cell,beg_c055,"P S^ , P",1,P,P,"0 3 , 0"
+begada,cell,beg_c056,"D2 P N2 ,",1,D2,N2,"0 -1 1 ,"
+begada,cell,beg_c057,"D2 , P M1",1,D2,M1,"0 , -1 -2"
+begada,cell,beg_c058,"G2 R2 , G2",1,G2,G2,"0 -1 , 0"
+begada,cell,beg_c059,"M1 G2 , R2",1,M1,R2,"0 -1 , -2"
+begada,cell,beg_c060,"N2 R2 , S",1,N2,S,"0 -5 , -6"
+begada,cell,beg_c061,G2 R2 P M1,1,G2,M1,0 -1 2 1
+begada,cell,beg_c062,", P G2 R2",1,P,R2,", 0 -2 -3"
+begada,cell,beg_c063,"P N2 , D2",1,P,D2,"0 2 , 1"
+begada,cell,beg_c064,", G2 R2 G2",1,G2,G2,", 0 -1 0"
+begada,cell,beg_c065,M1 P M1 G2,1,M1,G2,0 1 0 -1
+begada,cell,beg_c066,M1 P D2 P,1,M1,P,0 1 2 1
+begada,cell,beg_c067,"S^ , N2 R2^",1,S^,R2^,"0 , -1 1"
+begada,cell,beg_c068,", S^ R2^ N2",1,S^,N2,", 0 1 -1"
+begada,cell,beg_c069,R2^ S^ G2^ R2^,1,R2^,R2^,0 -1 1 0
+begada,cell,beg_c070,"M1^ M1^ , G2^",1,M1^,G2^,"0 0 , -1"
+begada,cell,beg_c071,R2^ S^ N2 N2,1,R2^,N2,0 -1 -2 -2
+begada,cell,beg_c072,"S S^ , R2^",1,S,R2^,"0 7 , 8"
+begada,cell,beg_c073,N2 D2 D2 P,1,N2,P,0 -1 -1 -2
+begada,cell,beg_c074,", G2 M1 P",1,G2,P,", 0 1 2"
+begada,cell,beg_c075,"P , M1 ,",1,P,M1,"0 , -1 ,"
+begada,cell,beg_c076,", , P ,",1,P,P,", , 0 ,"
+begada,cell,beg_c077,", , , ,",1,,,
+begada,cell,beg_c078,"M1 P D2 ,",1,M1,D2,"0 1 2 ,"
+begada,cell,beg_c079,D2 N2 D2 P,1,D2,P,0 1 0 -1
+begada,cell,beg_c080,M1 P G2 M1,1,M1,M1,0 1 -1 0
+begada,cell,beg_c081,"R2 G2 M1 ,",1,R2,M1,"0 1 2 ,"
+begada,cell,beg_c082,", D2 M1 ,",1,D2,M1,", 0 -2 ,"
+begada,cell,beg_c083,", N2 D2 ,",1,N2,D2,", 0 -1 ,"
+begada,cell,beg_c084,"P , , S",1,P,S,"0 , , -4"
+begada,cell,beg_c085,", N2 R2 ,",1,N2,R2,", 0 -5 ,"
+begada,cell,beg_c086,"S G2 , R2",1,S,R2,"0 2 , 1"
+begada,cell,beg_c087,", G2 , M1",1,G2,M1,", 0 , 1"
+begada,cell,beg_c088,P M1 D2 P,1,P,P,0 -1 1 0
+begada,cell,beg_c089,", N2 R2 S",1,N2,S,", 0 -5 -6"
+begada,cell,beg_c090,"P , M1 P",1,P,P,"0 , -1 0"
+begada,cell,beg_c091,"D2 M1 , G2",1,D2,G2,"0 -2 , -3"
+begada,cell,beg_c092,R2 S G2 R2,1,R2,R2,0 -1 1 0
+begada,cell,beg_c093,G2 M1 P M1,1,G2,M1,0 1 2 1
+begada,cell,beg_c094,", R2 G2 M1",1,R2,M1,", 0 1 2"
+begada,cell,beg_c095,M1 G2 M1 P,1,M1,P,0 -1 0 1
+begada,cell,beg_c096,D2 M1 D2 P,1,D2,P,0 -2 0 -1
+begada,cell,beg_c097,M1 G2 R2 G2,1,M1,G2,0 -1 -2 -1
+begada,cell,beg_c098,M1 P S P,1,M1,P,0 1 -3 1
+begada,cell,beg_c099,M1 G2 R2 P,1,M1,P,0 -1 -2 1
+begada,cell,beg_c100,N2 D2 P R2,1,N2,R2,0 -1 -2 -5
+begada,cell,beg_c101,S M1 G2 R2,1,S,R2,0 3 2 1
+begada,cell,beg_c102,P M1 G2 D2,1,P,D2,0 -1 -2 1
+begada,cell,beg_c103,P S^ N2 D2,1,P,D2,0 3 2 1
+begada,cell,beg_c104,R2^ S^ M1^ G2,1,R2^,G2,0 -1 2 -6
+begada,cell,beg_c105,R2^ S^ R2^ N2,1,R2^,N2,0 -1 0 -2
+begada,cell,beg_c106,R2^ S^ P D2,1,R2^,D2,0 -1 -4 -3
+begada,cell,beg_c107,M1 D2 P G2,1,M1,G2,0 2 1 -1
+begada,cell,beg_c108,M1 R2 G2 M1,1,M1,M1,0 -2 -1 0
+begada,cell,beg_c109,"N2 , , ,",1,N2,N2,"0 , , ,"
+begada,cell,beg_c110,", , D2 P",1,D2,P,", , 0 -1"
+begada,cell,beg_c111,"D2 M1 , P",1,D2,P,"0 -2 , -1"
+begada,cell,beg_c112,P D2 M1 D2,1,P,D2,0 1 -1 1
+begada,cell,beg_c113,"N2 , D2 P",1,N2,P,"0 , -1 -2"
+begada,cell,beg_c114,"P , M1 G2",1,P,G2,"0 , -1 -2"
+begada,cell,beg_c115,", R2 P M1",1,R2,M1,", 0 3 2"
+begada,cell,beg_c116,"G2 , R2 S",1,G2,S,"0 , -1 -2"
+begada,cell,beg_c117,", N2 D2 P",1,N2,P,", 0 -1 -2"
+begada,cell,beg_c118,"G2 , , ,",1,G2,G2,"0 , , ,"
+begada,cell,beg_c119,R2 S M1 G2,1,R2,G2,0 -1 2 1
+begada,cell,beg_c120,"P M1 , P",1,P,P,"0 -1 , 0"
+begada,cell,beg_c121,D2 D2 M1 G2,1,D2,G2,0 0 -2 -3
+begada,cell,beg_c122,M1 P M1 P,1,M1,P,0 1 0 1
+begada,cell,beg_c123,"D2 P S^ ,",1,D2,S^,"0 -1 2 ,"
+begada,cell,beg_c124,"N2 D2 , P",1,N2,P,"0 -1 , -2"
+begada,cell,beg_c125,S^ N2 R2^ S^,1,S^,S^,0 -1 1 0
+begada,cell,beg_c126,G2^ R2^ G2^ M1^,1,G2^,M1^,0 -1 0 1
+begada,cell,beg_c127,", G2^ R2^ S^",1,G2^,S^,", 0 -1 -2"
+begada,cell,beg_c128,"R2^ N2 , D2",1,R2^,D2,"0 -2 , -3"
+begada,cell,beg_c129,"R2^ , S^ N2",1,R2^,N2,"0 , -1 -2"
+begada,cell,beg_c130,"D2 P P ,",1,D2,P,"0 -1 -1 ,"
+begada,pair,beg_p000,"D2 P M1 , G2 R2 S ,",1,D2,S,"0 -1 -2 , -3 -4 -5 ,"
+begada,pair,beg_p001,"R2 N2 D2 D2 P P S ,",1,R2,S,"0 5 4 4 3 3 -1 ,"
+begada,pair,beg_p002,"S , N2 S G2 R2 G2 ,",1,S,G2,"0 , 6 0 2 1 2 ,"
+begada,pair,beg_p003,"M1 , M1 , G2 R2 G2 M1",1,M1,M1,"0 , 0 , -1 -2 -1 0"
+begada,pair,beg_p004,"P , M1 D2 , P S^ N2",1,P,N2,"0 , -1 1 , 0 3 2"
+begada,pair,beg_p005,"D2 P S^ N2 D2 R2^ S^ ,",1,D2,S^,"0 -1 2 1 0 3 2 ,"
+begada,pair,beg_p006,"P D2 P N2 , D2 , P",1,P,P,"0 1 0 2 , 1 , 0"
+begada,pair,beg_p007,"M1 , G2 , R2 G2 M1 P",1,M1,P,"0 , -1 , -2 -1 0 1"
+begada,pair,beg_p008,"S , D2 D2 P N2 N2 D2",1,S,D2,"0 , 5 5 4 6 6 5"
+begada,pair,beg_p009,"M1 P D2 N2 D2 P M1 ,",1,M1,M1,"0 1 2 3 2 1 0 ,"
+begada,pair,beg_p010,G2 R2 S M1 G2 M1 R2 G2,1,G2,G2,0 -1 -2 1 0 1 -1 0
+begada,pair,beg_p011,"M1 P P D2 M1 , , ,",1,M1,M1,"0 1 1 2 0 , , ,"
+begada,pair,beg_p012,"P D2 , D2 P M1 M1 P",1,P,P,"0 1 , 1 0 -1 -1 0"
+begada,pair,beg_p013,", P M1 G2 R2 G2 M1 P",1,P,P,", 0 -1 -2 -3 -2 -1 0"
+begada,pair,beg_p014,"M1 D2 , P S^ N2 D2 P",1,M1,P,"0 2 , 1 4 3 2 1"
+begada,pair,beg_p015,"S^ N2 D2 R2^ S^ , , ,",1,S^,S^,"0 -1 -2 1 0 , , ,"
+begada,pair,beg_p016,P D2 P S^ N2 S^ G2^ R2^,1,P,R2^,0 1 0 3 2 3 5 4
+begada,pair,beg_p017,"G2^ M1^ G2^ M1^ R2^ , P^ M1^",1,G2^,M1^,"0 1 0 1 -1 , 2 1"
+begada,pair,beg_p018,"R2^ , , R2^ S^ N2 D2 D2",1,R2^,D2,"0 , , 0 -1 -2 -3 -3"
+begada,pair,beg_p019,"P S^ , N2 D2 N2 S^ R2",1,P,R2,"0 3 , 2 1 2 3 -3"
+begada,pair,beg_p020,"R2^ S^ , N2 D2 P D2 M1",1,R2^,M1,"0 -1 , -2 -3 -4 -3 -5"
+begada,pair,beg_p021,", G2 M1 R2 G2 M1 P D2",1,G2,D2,", 0 1 -1 0 1 2 3"
+begada,pair,beg_p022,"P S^ , P D2 P N2 ,",1,P,N2,"0 3 , 0 1 0 2 ,"
+begada,pair,beg_p023,D2 P M1 G2 R2 G2 M1 P,1,D2,P,0 -1 -2 -3 -4 -3 -2 -1
+begada,pair,beg_p024,"D2 , P M1 , D2 P M1",1,D2,M1,"0 , -1 -2 , 0 -1 -2"
+begada,pair,beg_p025,"G2 R2 , G2 , M1 P D2",1,G2,D2,"0 -1 , 0 , 1 2 3"
+begada,pair,beg_p026,"M1 G2 , R2 S N2 R2 S",1,M1,S,"0 -1 , -2 -3 3 -2 -3"
+begada,pair,beg_p027,", R2 N2 D2 P D2 P S",1,R2,S,", 0 5 4 3 4 3 -1"
+begada,pair,beg_p028,"N2 R2 , S G2 R2 P M1",1,N2,M1,"0 -5 , -6 -4 -5 -2 -3"
+begada,pair,beg_p029,", P G2 R2 G2 M1 P D2",1,P,D2,", 0 -2 -3 -2 -1 0 1"
+begada,pair,beg_p030,"P N2 , D2 P M1 G2 R2",1,P,R2,"0 2 , 1 0 -1 -2 -3"
+begada,pair,beg_p031,"G2 M1 P D2 P , , M1",1,G2,M1,"0 1 2 3 2 , , 1"
+begada,pair,beg_p032,"G2 R2 S , , G2 R2 G2",1,G2,G2,"0 -1 -2 , , 0 -1 0"
+begada,pair,beg_p033,M1 P M1 G2 M1 P D2 P,1,M1,P,0 1 0 -1 0 1 2 1
+begada,pair,beg_p034,"S^ , N2 R2^ , S^ R2^ N2",1,S^,N2,"0 , -1 1 , 0 1 -1"
+begada,pair,beg_p035,D2 P S^ N2 R2^ S^ G2^ R2^,1,D2,R2^,0 -1 2 1 3 2 4 3
+begada,pair,beg_p036,"M1^ M1^ , G2^ R2^ S^ N2 N2",1,M1^,N2,"0 0 , -1 -2 -3 -4 -4"
+begada,pair,beg_p037,", D2 P M1 G2 R2 , S",1,D2,S,", 0 -1 -2 -3 -4 , -5"
+begada,pair,beg_p038,"S S^ , R2^ N2 D2 D2 P",1,S,P,"0 7 , 8 6 5 5 4"
+begada,pair,beg_p039,", M1 G2 R2 , G2 M1 P",1,M1,P,", 0 -1 -2 , -1 0 1"
+begada,pair,beg_p040,"P , M1 , , , P ,",1,P,P,"0 , -1 , , , 0 ,"
+begada,pair,beg_p041,", , , , M1 P D2 ,",1,M1,D2,", , , , 0 1 2 ,"
+begada,pair,beg_p042,"P D2 N2 , D2 N2 D2 P",1,P,P,"0 1 2 , 1 2 1 0"
+begada,pair,beg_p043,"M1 P G2 M1 R2 G2 M1 ,",1,M1,M1,"0 1 -1 0 -2 -1 0 ,"
+begada,pair,beg_p044,"P , , M1 , D2 M1 ,",1,P,M1,"0 , , -1 , 1 -1 ,"
+begada,pair,beg_p045,"G2 R2 , S , N2 D2 ,",1,G2,D2,"0 -1 , -2 , 4 3 ,"
+begada,pair,beg_p046,"P , , S , N2 R2 ,",1,P,R2,"0 , , -4 , 2 -3 ,"
+begada,pair,beg_p047,"S G2 , R2 , G2 , M1",1,S,M1,"0 2 , 1 , 2 , 3"
+begada,pair,beg_p048,"P M1 D2 P , M1 G2 R2",1,P,R2,"0 -1 1 0 , -1 -2 -3"
+begada,pair,beg_p049,"S N2 R2 S , R2 N2 D2",1,S,D2,"0 6 1 0 , 1 6 5"
+begada,pair,beg_p050,"P D2 P S , N2 R2 S",1,P,S,"0 1 0 -4 , 2 -3 -4"
+begada,pair,beg_p051,"G2 R2 G2 M1 P , M1 P",1,G2,P,"0 -1 0 1 2 , 1 2"
+begada,pair,beg_p052,"D2 M1 , G2 R2 S G2 R2",1,D2,R2,"0 -2 , -3 -4 -5 -3 -4"
+begada,pair,beg_p053,G2 M1 P M1 D2 P S^ N2,1,G2,N2,0 1 2 1 3 2 5 4
+begada,pair,beg_p054,"R2^ S^ , N2 P D2 N2 ,",1,R2^,N2,"0 -1 , -2 -4 -3 -2 ,"
+begada,pair,beg_p055,"D2 P M1 G2 , R2 G2 M1",1,D2,M1,"0 -1 -2 -3 , -4 -3 -2"
+begada,pair,beg_p056,M1 G2 M1 P D2 M1 D2 P,1,M1,P,0 -1 0 1 2 0 2 1
+begada,pair,beg_p057,M1 G2 R2 G2 M1 P S P,1,M1,P,0 -1 -2 -1 0 1 -3 1
+begada,pair,beg_p058,M1 G2 R2 P M1 G2 R2 S,1,M1,S,0 -1 -2 1 0 -1 -2 -3
+begada,pair,beg_p059,N2 D2 P R2 S N2 G2 R2,1,N2,R2,0 -1 -2 -5 -6 0 -4 -5
+begada,pair,beg_p060,S M1 G2 R2 P M1 G2 D2,1,S,D2,0 3 2 1 4 3 2 5
+begada,pair,beg_p061,P S^ N2 D2 R2^ S^ M1^ G2,1,P,G2,0 3 2 1 4 3 6 -2
+begada,pair,beg_p062,R2^ S^ R2^ N2 R2^ S^ P D2,1,R2^,D2,0 -1 0 -2 0 -1 -4 -3
+begada,pair,beg_p063,M1 D2 P G2 M1 R2 G2 M1,1,M1,M1,0 2 1 -1 0 -2 -1 0
+begada,pair,beg_p064,"N2 , , , , , D2 P",1,N2,P,"0 , , , , , -1 -2"
+begada,pair,beg_p065,"D2 M1 , P G2 R2 G2 M1",1,D2,M1,"0 -2 , -1 -3 -4 -3 -2"
+begada,pair,beg_p066,"P , , M1 P D2 M1 D2",1,P,D2,"0 , , -1 0 1 -1 1"
+begada,pair,beg_p067,P M1 G2 R2 G2 M1 P D2,1,P,D2,0 -1 -2 -3 -2 -1 0 1
+begada,pair,beg_p068,"N2 , D2 P , M1 P D2",1,N2,D2,"0 , -1 -2 , -3 -2 -1"
+begada,pair,beg_p069,"P , M1 G2 , R2 P M1",1,P,M1,"0 , -1 -2 , -3 0 -1"
+begada,pair,beg_p070,"G2 , R2 S , N2 D2 P",1,G2,P,"0 , -1 -2 , 4 3 2"
+begada,pair,beg_p071,"S N2 G2 R2 G2 , , ,",1,S,G2,"0 6 2 1 2 , , ,"
+begada,pair,beg_p072,"R2 S M1 G2 , M1 G2 R2",1,R2,R2,"0 -1 2 1 , 2 1 0"
+begada,pair,beg_p073,"P M1 , P D2 D2 M1 G2",1,P,G2,"0 -1 , 0 1 1 -1 -2"
+begada,pair,beg_p074,"M1 P M1 P D2 P S^ ,",1,M1,S^,"0 1 0 1 2 1 4 ,"
+begada,pair,beg_p075,"N2 D2 , P S^ N2 R2^ S^",1,N2,S^,"0 -1 , -2 1 0 2 1"
+begada,pair,beg_p076,"G2^ R2^ G2^ M1^ , G2^ R2^ S^",1,G2^,S^,"0 -1 0 1 , 0 -1 -2"
+begada,pair,beg_p077,"R2^ N2 , D2 D2 P S^ N2",1,R2^,N2,"0 -2 , -3 -3 -4 -1 -2"
+begada,pair,beg_p078,"R2^ , S^ N2 D2 P P ,",1,R2^,P,"0 , -1 -2 -3 -4 -4 ,"
+begada,pair,beg_p079,M1 G2 R2 S G2 R2 G2 M1,1,M1,M1,0 -1 -2 -3 -1 -2 -1 0
+begada,half,beg_h000,"D2 P M1 , G2 R2 S , R2 N2 D2 D2 P P S ,",1,D2,S,"0 -1 -2 , -3 -4 -5 , -4 1 0 0 -1 -1 -5 ,"
+begada,half,beg_h001,"S , N2 S G2 R2 G2 , M1 , M1 , G2 R2 G2 M1",1,S,M1,"0 , 6 0 2 1 2 , 3 , 3 , 2 1 2 3"
+begada,half,beg_h002,"P , M1 D2 , P S^ N2 D2 P S^ N2 D2 R2^ S^ ,",1,P,S^,"0 , -1 1 , 0 3 2 1 0 3 2 1 4 3 ,"
+begada,half,beg_h003,"P D2 P N2 , D2 , P M1 , G2 , R2 G2 M1 P",1,P,P,"0 1 0 2 , 1 , 0 -1 , -2 , -3 -2 -1 0"
+begada,half,beg_h004,"S , D2 D2 P N2 N2 D2 M1 P D2 N2 D2 P M1 ,",1,S,M1,"0 , 5 5 4 6 6 5 3 4 5 6 5 4 3 ,"
+begada,half,beg_h005,"G2 R2 S M1 G2 M1 R2 G2 M1 P P D2 M1 , , ,",1,G2,M1,"0 -1 -2 1 0 1 -1 0 1 2 2 3 1 , , ,"
+begada,half,beg_h006,"P D2 , D2 P M1 M1 P , P M1 G2 R2 G2 M1 P",1,P,P,"0 1 , 1 0 -1 -1 0 , 0 -1 -2 -3 -2 -1 0"
+begada,half,beg_h007,"M1 D2 , P S^ N2 D2 P S^ N2 D2 R2^ S^ , , ,",1,M1,S^,"0 2 , 1 4 3 2 1 4 3 2 5 4 , , ,"
+begada,half,beg_h008,"P D2 P S^ N2 S^ G2^ R2^ G2^ M1^ G2^ M1^ R2^ , P^ M1^",1,P,M1^,"0 1 0 3 2 3 5 4 5 6 5 6 4 , 7 6"
+begada,half,beg_h009,"R2^ , , R2^ S^ N2 D2 D2 P S^ , N2 D2 N2 S^ R2",1,R2^,R2,"0 , , 0 -1 -2 -3 -3 -4 -1 , -2 -3 -2 -1 -7"
+begada,half,beg_h010,"R2^ S^ , N2 D2 P D2 M1 , G2 M1 R2 G2 M1 P D2",1,R2^,D2,"0 -1 , -2 -3 -4 -3 -5 , -6 -5 -7 -6 -5 -4 -3"
+begada,half,beg_h011,"P S^ , P D2 P N2 , D2 P M1 G2 R2 G2 M1 P",1,P,P,"0 3 , 0 1 0 2 , 1 0 -1 -2 -3 -2 -1 0"
+begada,half,beg_h012,"D2 , P M1 , D2 P M1 G2 R2 , G2 , M1 P D2",1,D2,D2,"0 , -1 -2 , 0 -1 -2 -3 -4 , -3 , -2 -1 0"
+begada,half,beg_h013,"M1 G2 , R2 S N2 R2 S , R2 N2 D2 P D2 P S",1,M1,S,"0 -1 , -2 -3 3 -2 -3 , -2 3 2 1 2 1 -3"
+begada,half,beg_h014,"N2 R2 , S G2 R2 P M1 , P G2 R2 G2 M1 P D2",1,N2,D2,"0 -5 , -6 -4 -5 -2 -3 , -2 -4 -5 -4 -3 -2 -1"
+begada,half,beg_h015,"P N2 , D2 P M1 G2 R2 G2 M1 P D2 P , , M1",1,P,M1,"0 2 , 1 0 -1 -2 -3 -2 -1 0 1 0 , , -1"
+begada,half,beg_h016,"G2 R2 S , , G2 R2 G2 M1 P M1 G2 M1 P D2 P",1,G2,P,"0 -1 -2 , , 0 -1 0 1 2 1 0 1 2 3 2"
+begada,half,beg_h017,"S^ , N2 R2^ , S^ R2^ N2 D2 P S^ N2 R2^ S^ G2^ R2^",1,S^,R2^,"0 , -1 1 , 0 1 -1 -2 -3 0 -1 1 0 2 1"
+begada,half,beg_h018,"M1^ M1^ , G2^ R2^ S^ N2 N2 , D2 P M1 G2 R2 , S",1,M1^,S,"0 0 , -1 -2 -3 -4 -4 , -5 -6 -7 -8 -9 , -10"
+begada,half,beg_h019,"S S^ , R2^ N2 D2 D2 P , M1 G2 R2 , G2 M1 P",1,S,P,"0 7 , 8 6 5 5 4 , 3 2 1 , 2 3 4"
+begada,half,beg_h020,"P , M1 , , , P , , , , , M1 P D2 ,",1,P,D2,"0 , -1 , , , 0 , , , , , -1 0 1 ,"
+begada,half,beg_h021,"P D2 N2 , D2 N2 D2 P M1 P G2 M1 R2 G2 M1 ,",1,P,M1,"0 1 2 , 1 2 1 0 -1 0 -2 -1 -3 -2 -1 ,"
+begada,half,beg_h022,"P , , M1 , D2 M1 , G2 R2 , S , N2 D2 ,",1,P,D2,"0 , , -1 , 1 -1 , -2 -3 , -4 , 2 1 ,"
+begada,half,beg_h023,"P , , S , N2 R2 , S G2 , R2 , G2 , M1",1,P,M1,"0 , , -4 , 2 -3 , -4 -2 , -3 , -2 , -1"
+begada,half,beg_h024,"P M1 D2 P , M1 G2 R2 S N2 R2 S , R2 N2 D2",1,P,D2,"0 -1 1 0 , -1 -2 -3 -4 2 -3 -4 , -3 2 1"
+begada,half,beg_h025,"P D2 P S , N2 R2 S G2 R2 G2 M1 P , M1 P",1,P,P,"0 1 0 -4 , 2 -3 -4 -2 -3 -2 -1 0 , -1 0"
+begada,half,beg_h026,"D2 M1 , G2 R2 S G2 R2 G2 M1 P M1 D2 P S^ N2",1,D2,N2,"0 -2 , -3 -4 -5 -3 -4 -3 -2 -1 -2 0 -1 2 1"
+begada,half,beg_h027,"R2^ S^ , N2 P D2 N2 , D2 P M1 G2 , R2 G2 M1",1,R2^,M1,"0 -1 , -2 -4 -3 -2 , -3 -4 -5 -6 , -7 -6 -5"
+begada,half,beg_h028,M1 G2 M1 P D2 M1 D2 P M1 G2 R2 G2 M1 P S P,1,M1,P,0 -1 0 1 2 0 2 1 0 -1 -2 -1 0 1 -3 1
+begada,half,beg_h029,M1 G2 R2 P M1 G2 R2 S N2 D2 P R2 S N2 G2 R2,1,M1,R2,0 -1 -2 1 0 -1 -2 -3 3 2 1 -2 -3 3 -1 -2
+begada,half,beg_h030,S M1 G2 R2 P M1 G2 D2 P S^ N2 D2 R2^ S^ M1^ G2,1,S,G2,0 3 2 1 4 3 2 5 4 7 6 5 8 7 10 2
+begada,half,beg_h031,R2^ S^ R2^ N2 R2^ S^ P D2 M1 D2 P G2 M1 R2 G2 M1,1,R2^,M1,0 -1 0 -2 0 -1 -4 -3 -5 -3 -4 -6 -5 -7 -6 -5
+begada,half,beg_h032,"N2 , , , , , D2 P D2 M1 , P G2 R2 G2 M1",1,N2,M1,"0 , , , , , -1 -2 -1 -3 , -2 -4 -5 -4 -3"
+begada,half,beg_h033,"P , , M1 P D2 M1 D2 P M1 G2 R2 G2 M1 P D2",1,P,D2,"0 , , -1 0 1 -1 1 0 -1 -2 -3 -2 -1 0 1"
+begada,half,beg_h034,"N2 , D2 P , M1 P D2 P , M1 G2 , R2 P M1",1,N2,M1,"0 , -1 -2 , -3 -2 -1 -2 , -3 -4 , -5 -2 -3"
+begada,half,beg_h035,"G2 , R2 S , N2 D2 P S N2 G2 R2 G2 , , ,",1,G2,G2,"0 , -1 -2 , 4 3 2 -2 4 0 -1 0 , , ,"
+begada,half,beg_h036,"R2 S M1 G2 , M1 G2 R2 P M1 , P D2 D2 M1 G2",1,R2,G2,"0 -1 2 1 , 2 1 0 3 2 , 3 4 4 2 1"
+begada,half,beg_h037,"M1 P M1 P D2 P S^ , N2 D2 , P S^ N2 R2^ S^",1,M1,S^,"0 1 0 1 2 1 4 , 3 2 , 1 4 3 5 4"
+begada,half,beg_h038,"G2^ R2^ G2^ M1^ , G2^ R2^ S^ R2^ N2 , D2 D2 P S^ N2",1,G2^,N2,"0 -1 0 1 , 0 -1 -2 -1 -3 , -4 -4 -5 -2 -3"
+begada,half,beg_h039,"R2^ , S^ N2 D2 P P , M1 G2 R2 S G2 R2 G2 M1",1,R2^,M1,"0 , -1 -2 -3 -4 -4 , -5 -6 -7 -8 -6 -7 -6 -5"
+kalyani,cell,kal_c000,D2 P M2 G2,4,D2,G2,0 -1 -2 -3
+kalyani,cell,kal_c001,M2 P D2 N2,4,M2,N2,0 1 2 3
+kalyani,cell,kal_c002,S N2 D2 N2,4,S,N2,0 6 5 6
+kalyani,cell,kal_c003,"N2 , , ,",3,N2,N2,"0 , , ,"
+kalyani,cell,kal_c004,D2 N2 S R2,3,D2,R2,0 1 -5 -4
+kalyani,cell,kal_c005,N2 D2 R2 S,2,N2,S,0 -1 -5 -6
+kalyani,cell,kal_c006,P M2 G2 M2,2,P,M2,0 -1 -2 -1
+kalyani,cell,kal_c007,", R2 S N2",2,R2,N2,", 0 -1 5"
+kalyani,cell,kal_c008,S R2 G2 R2,2,S,R2,0 1 2 1
+kalyani,cell,kal_c009,", , S N2",2,S,N2,", , 0 6"
+kalyani,cell,kal_c010,"P , M2 G2",2,P,G2,"0 , -1 -2"
+kalyani,cell,kal_c011,G2 R2 S N2,2,G2,N2,0 -1 -2 4
+kalyani,cell,kal_c012,"P , , ,",2,P,P,"0 , , ,"
+kalyani,cell,kal_c013,"M2 , G2 ,",2,M2,G2,"0 , -1 ,"
+kalyani,cell,kal_c014,", M2 P D2",2,M2,D2,", 0 1 2"
+kalyani,cell,kal_c015,N2 D2 P M2,2,N2,M2,0 -1 -2 -3
+kalyani,cell,kal_c016,G2 M2 P D2,2,G2,D2,0 1 2 3
+kalyani,cell,kal_c017,"S S , S",1,S,S,"0 0 , 0"
+kalyani,cell,kal_c018,N2 N2 D2 D2,1,N2,D2,0 0 -1 -1
+kalyani,cell,kal_c019,P D2 N2 D2,1,P,D2,0 1 2 1
+kalyani,cell,kal_c020,S N2 S R2,1,S,R2,0 6 0 1
+kalyani,cell,kal_c021,S N2 R2 S,1,S,S,0 6 1 0
+kalyani,cell,kal_c022,N2 D2 N2 D2,1,N2,D2,0 -1 0 -1
+kalyani,cell,kal_c023,"N2 D2 , G2",1,N2,G2,"0 -1 , -4"
+kalyani,cell,kal_c024,"D2 P , M2",1,D2,M2,"0 -1 , -2"
+kalyani,cell,kal_c025,S R2 G2 M2,1,S,M2,0 1 2 3
+kalyani,cell,kal_c026,", , G2 M2",1,G2,M2,", , 0 1"
+kalyani,cell,kal_c027,"P G2 , M2",1,P,M2,"0 -2 , -1"
+kalyani,cell,kal_c028,N2 D2 N2 P,1,N2,P,0 -1 0 -2
+kalyani,cell,kal_c029,", S R2 G2",1,S,G2,", 0 1 2"
+kalyani,cell,kal_c030,D2 G2 R2 S,1,D2,S,0 -3 -4 -5
+kalyani,cell,kal_c031,N2 D2 P N2,1,N2,N2,0 -1 -2 0
+kalyani,cell,kal_c032,"S R2 , N2",1,S,N2,"0 1 , 6"
+kalyani,cell,kal_c033,", S N2 D2",1,S,D2,", 0 6 5"
+kalyani,cell,kal_c034,P M2 G2 R2,1,P,R2,0 -1 -2 -3
+kalyani,cell,kal_c035,S R2 S P,1,S,P,0 1 0 4
+kalyani,cell,kal_c036,", M2 D2 ,",1,M2,D2,", 0 2 ,"
+kalyani,cell,kal_c037,P N2 D2 R2,1,P,R2,0 2 1 -3
+kalyani,cell,kal_c038,D2 G2 R2 N2,1,D2,N2,0 -3 -4 1
+kalyani,cell,kal_c039,", R2 N2 ,",1,R2,N2,", 0 5 ,"
+kalyani,cell,kal_c040,"S D2 , N2",1,S,N2,"0 5 , 6"
+kalyani,cell,kal_c041,P D2 N2 S,1,P,S,0 1 2 -4
+kalyani,cell,kal_c042,"G2 R2 S ,",1,G2,S,"0 -1 -2 ,"
+kalyani,cell,kal_c043,"N2 D2 P ,",1,N2,P,"0 -1 -2 ,"
+kalyani,cell,kal_c044,M2 G2 R2 G2,1,M2,G2,0 -1 -2 -1
+kalyani,cell,kal_c045,", , S D2",1,S,D2,", , 0 5"
+kalyani,cell,kal_c046,S N2 D2 P,1,S,P,0 6 5 4
+kalyani,cell,kal_c047,"M2 G2 M2 ,",1,M2,M2,"0 -1 0 ,"
+kalyani,cell,kal_c048,", , M2 P",1,M2,P,", , 0 1"
+kalyani,cell,kal_c049,D2 N2 P D2,1,D2,D2,0 1 -1 0
+kalyani,cell,kal_c050,"R2 , D2 ,",1,R2,D2,"0 , 4 ,"
+kalyani,cell,kal_c051,"R2 , N2 ,",1,R2,N2,"0 , 5 ,"
+kalyani,cell,kal_c052,"S , R2 ,",1,S,R2,"0 , 1 ,"
+kalyani,cell,kal_c053,"G2 , M2 ,",1,G2,M2,"0 , 1 ,"
+kalyani,cell,kal_c054,"P , D2 ,",1,P,D2,"0 , 1 ,"
+kalyani,cell,kal_c055,"P , D2 P",1,P,P,"0 , 1 0"
+kalyani,cell,kal_c056,", M2 G2 M2",1,M2,M2,", 0 -1 0"
+kalyani,cell,kal_c057,"S , R2 N2",1,S,N2,"0 , 1 6"
+kalyani,cell,kal_c058,", S D2 N2",1,S,N2,", 0 5 6"
+kalyani,cell,kal_c059,"S , R2 G2",1,S,G2,"0 , 1 2"
+kalyani,cell,kal_c060,", , S R2",1,S,R2,", , 0 1"
+kalyani,cell,kal_c061,N2 S N2 D2,1,N2,D2,0 -6 0 -1
+kalyani,cell,kal_c062,"P , , D2",1,P,D2,"0 , , 1"
+kalyani,cell,kal_c063,N2 D2 P D2,1,N2,D2,0 -1 -2 -1
+kalyani,cell,kal_c064,P M2 P M2,1,P,M2,0 -1 0 -1
+kalyani,cell,kal_c065,N2 S N2 G2,1,N2,G2,0 -6 0 -4
+kalyani,cell,kal_c066,R2 G2 S R2,1,R2,R2,0 1 -1 0
+kalyani,cell,kal_c067,"N2 S , R2",1,N2,R2,"0 -6 , -5"
+kalyani,cell,kal_c068,S R2 N2 S,1,S,S,0 1 6 0
+kalyani,cell,kal_c069,"D2 N2 , S",1,D2,S,"0 1 , -5"
+kalyani,cell,kal_c070,", N2 G2 R2",1,N2,R2,", 0 -4 -5"
+kalyani,cell,kal_c071,"R2 , , ,",1,R2,R2,"0 , , ,"
+kalyani,cell,kal_c072,", , D2 G2",1,D2,G2,", , 0 -3"
+kalyani,cell,kal_c073,R2 S N2 P,1,R2,P,0 -1 5 3
+kalyani,cell,kal_c074,"S , , ,",1,S,S,"0 , , ,"
+kalyani,cell,kal_c075,"M2 , P D2",1,M2,D2,"0 , 1 2"
+kalyani,cell,kal_c076,"N2 P , D2",1,N2,D2,"0 -2 , -1"
+kalyani,cell,kal_c077,"N2 S R2 ,",1,N2,R2,"0 -6 -5 ,"
+kalyani,cell,kal_c078,"S N2 , D2",1,S,D2,"0 6 , 5"
+kalyani,cell,kal_c079,P D2 P N2,1,P,N2,0 1 0 2
+kalyani,cell,kal_c080,"D2 , , ,",1,D2,D2,"0 , , ,"
+kalyani,cell,kal_c081,R2 G2 G2 M2,1,R2,M2,0 1 1 2
+kalyani,cell,kal_c082,S R2 S N2,1,S,N2,0 1 0 6
+kalyani,cell,kal_c083,D2 S N2 D2,1,D2,D2,0 -5 1 0
+kalyani,cell,kal_c084,P N2 D2 P,1,P,P,0 2 1 0
+kalyani,cell,kal_c085,"M2 G2 , M2",1,M2,M2,"0 -1 , 0"
+kalyani,cell,kal_c086,", P , D2",1,P,D2,", 0 , 1"
+kalyani,pair,kal_p000,D2 P M2 G2 M2 P D2 N2,3,D2,N2,0 -1 -2 -3 -2 -1 0 1
+kalyani,pair,kal_p001,"S S , S N2 D2 R2 S",1,S,S,"0 0 , 0 6 5 1 0"
+kalyani,pair,kal_p002,N2 N2 D2 D2 P M2 G2 M2,1,N2,M2,0 0 -1 -1 -2 -3 -4 -3
+kalyani,pair,kal_p003,"P D2 N2 D2 , R2 S N2",1,P,N2,"0 1 2 1 , -3 -4 2"
+kalyani,pair,kal_p004,S R2 G2 R2 S N2 S R2,1,S,R2,0 1 2 1 0 6 0 1
+kalyani,pair,kal_p005,S N2 R2 S N2 D2 N2 D2,1,S,D2,0 6 1 0 6 5 6 5
+kalyani,pair,kal_p006,"N2 , , , , , S N2",1,N2,N2,"0 , , , , , -6 0"
+kalyani,pair,kal_p007,"P , M2 G2 N2 D2 , G2",1,P,G2,"0 , -1 -2 2 1 , -2"
+kalyani,pair,kal_p008,"D2 P , M2 G2 R2 S N2",1,D2,N2,"0 -1 , -2 -3 -4 -5 1"
+kalyani,pair,kal_p009,"S R2 G2 M2 , , G2 M2",1,S,M2,"0 1 2 3 , , 2 3"
+kalyani,pair,kal_p010,"P G2 , M2 N2 D2 N2 P",1,P,P,"0 -2 , -1 2 1 2 0"
+kalyani,pair,kal_p011,"D2 N2 S R2 , S R2 G2",1,D2,G2,"0 1 -5 -4 , -5 -4 -3"
+kalyani,pair,kal_p012,S R2 G2 R2 S N2 D2 N2,1,S,N2,0 1 2 1 0 6 5 6
+kalyani,pair,kal_p013,D2 G2 R2 S N2 D2 P N2,1,D2,N2,0 -3 -4 -5 1 0 -1 1
+kalyani,pair,kal_p014,"S R2 , N2 S N2 D2 N2",1,S,N2,"0 1 , 6 0 6 5 6"
+kalyani,pair,kal_p015,", S N2 D2 P M2 G2 R2",1,S,R2,", 0 6 5 4 3 2 1"
+kalyani,pair,kal_p016,"S R2 S P , M2 D2 ,",1,S,D2,"0 1 0 4 , 3 5 ,"
+kalyani,pair,kal_p017,P N2 D2 R2 S N2 D2 N2,1,P,N2,0 2 1 -3 -4 2 1 2
+kalyani,pair,kal_p018,"D2 G2 R2 N2 , R2 N2 ,",1,D2,N2,"0 -3 -4 1 , -4 1 ,"
+kalyani,pair,kal_p019,"S D2 , N2 P D2 N2 S",1,S,S,"0 5 , 6 4 5 6 0"
+kalyani,pair,kal_p020,"G2 R2 S , N2 D2 P ,",1,G2,P,"0 -1 -2 , 4 3 2 ,"
+kalyani,pair,kal_p021,M2 G2 R2 G2 M2 P D2 N2,1,M2,N2,0 -1 -2 -1 0 1 2 3
+kalyani,pair,kal_p022,"N2 , , , , , S D2",1,N2,D2,"0 , , , , , -6 -1"
+kalyani,pair,kal_p023,"S N2 D2 P M2 G2 M2 ,",1,S,M2,"0 6 5 4 3 2 3 ,"
+kalyani,pair,kal_p024,"P , , , , , M2 P",1,P,P,"0 , , , , , -1 0"
+kalyani,pair,kal_p025,D2 N2 P D2 N2 D2 R2 S,1,D2,S,0 1 -1 0 1 0 -4 -5
+kalyani,pair,kal_p026,"P , , , M2 , G2 ,",1,P,G2,"0 , , , -1 , -2 ,"
+kalyani,pair,kal_p027,"R2 , D2 , M2 , G2 ,",1,R2,G2,"0 , 4 , 2 , 1 ,"
+kalyani,pair,kal_p028,"R2 , N2 , S , R2 ,",1,R2,R2,"0 , 5 , -1 , 0 ,"
+kalyani,pair,kal_p029,"G2 , M2 , P , D2 ,",1,G2,D2,"0 , 1 , 2 , 3 ,"
+kalyani,pair,kal_p030,"P , D2 P , M2 G2 M2",1,P,M2,"0 , 1 0 , -1 -2 -1"
+kalyani,pair,kal_p031,"P , M2 G2 , R2 S N2",1,P,N2,"0 , -1 -2 , -3 -4 2"
+kalyani,pair,kal_p032,"S , R2 N2 , S D2 N2",1,S,N2,"0 , 1 6 , 0 5 6"
+kalyani,pair,kal_p033,"S , R2 G2 , M2 P D2",1,S,D2,"0 , 1 2 , 3 4 5"
+kalyani,pair,kal_p034,"N2 , , , , , S R2",1,N2,R2,"0 , , , , , -6 -5"
+kalyani,pair,kal_p035,N2 S N2 D2 N2 D2 P M2,1,N2,M2,0 -6 0 -1 0 -1 -2 -3
+kalyani,pair,kal_p036,"P , , D2 N2 D2 P D2",1,P,D2,"0 , , 1 2 1 0 1"
+kalyani,pair,kal_p037,P M2 P M2 G2 M2 P D2,1,P,D2,0 -1 0 -1 -2 -1 0 1
+kalyani,pair,kal_p038,N2 S N2 G2 R2 G2 S R2,1,N2,R2,0 -6 0 -4 -5 -4 -6 -5
+kalyani,pair,kal_p039,"N2 S , R2 S R2 N2 S",1,N2,S,"0 -6 , -5 -6 -5 0 -6"
+kalyani,pair,kal_p040,"D2 N2 , S N2 D2 P M2",1,D2,M2,"0 1 , -5 1 0 -1 -2"
+kalyani,pair,kal_p041,"G2 M2 P D2 , N2 G2 R2",1,G2,R2,"0 1 2 3 , 4 0 -1"
+kalyani,pair,kal_p042,"R2 , , , , , D2 G2",1,R2,G2,"0 , , , , , 4 1"
+kalyani,pair,kal_p043,R2 S N2 P D2 N2 S R2,1,R2,R2,0 -1 5 3 4 5 -1 0
+kalyani,pair,kal_p044,"S , , , , , S N2",1,S,N2,"0 , , , , , 0 6"
+kalyani,pair,kal_p045,"D2 P M2 G2 , M2 P D2",1,D2,D2,"0 -1 -2 -3 , -2 -1 0"
+kalyani,pair,kal_p046,"M2 , P D2 N2 P , D2",1,M2,D2,"0 , 1 2 3 1 , 2"
+kalyani,pair,kal_p047,"N2 S R2 , S N2 D2 N2",1,N2,N2,"0 -6 -5 , -6 0 -1 0"
+kalyani,pair,kal_p048,"S N2 , D2 P M2 G2 M2",1,S,M2,"0 6 , 5 4 3 2 3"
+kalyani,pair,kal_p049,"P D2 P N2 D2 , , ,",1,P,D2,"0 1 0 2 1 , , ,"
+kalyani,pair,kal_p050,D2 N2 S R2 R2 G2 G2 M2,1,D2,M2,0 1 -5 -4 -4 -3 -3 -2
+kalyani,pair,kal_p051,G2 R2 S N2 S R2 S N2,1,G2,N2,0 -1 -2 4 -2 -1 -2 4
+kalyani,pair,kal_p052,D2 S N2 D2 P N2 D2 P,1,D2,P,0 -5 1 0 -1 1 0 -1
+kalyani,pair,kal_p053,"M2 G2 , M2 , P , D2",1,M2,D2,"0 -1 , 0 , 1 , 2"
+kalyani,half,kal_h000,"S S , S N2 D2 R2 S N2 N2 D2 D2 P M2 G2 M2",1,S,M2,"0 0 , 0 6 5 1 0 6 6 5 5 4 3 2 3"
+kalyani,half,kal_h001,"P D2 N2 D2 , R2 S N2 D2 P M2 G2 M2 P D2 N2",1,P,N2,"0 1 2 1 , -3 -4 2 1 0 -1 -2 -1 0 1 2"
+kalyani,half,kal_h002,S R2 G2 R2 S N2 S R2 S N2 R2 S N2 D2 N2 D2,1,S,D2,0 1 2 1 0 6 0 1 0 6 1 0 6 5 6 5
+kalyani,half,kal_h003,"N2 , , , , , S N2 D2 P M2 G2 M2 P D2 N2",1,N2,N2,"0 , , , , , -6 0 -1 -2 -3 -4 -3 -2 -1 0"
+kalyani,half,kal_h004,"P , M2 G2 N2 D2 , G2 D2 P , M2 G2 R2 S N2",1,P,N2,"0 , -1 -2 2 1 , -2 1 0 , -1 -2 -3 -4 2"
+kalyani,half,kal_h005,"S R2 G2 M2 , , G2 M2 P G2 , M2 N2 D2 N2 P",1,S,P,"0 1 2 3 , , 2 3 4 2 , 3 6 5 6 4"
+kalyani,half,kal_h006,"D2 N2 S R2 , S R2 G2 S R2 G2 R2 S N2 D2 N2",1,D2,N2,"0 1 -5 -4 , -5 -4 -3 -5 -4 -3 -4 -5 1 0 1"
+kalyani,half,kal_h007,D2 G2 R2 S N2 D2 P N2 D2 P M2 G2 M2 P D2 N2,1,D2,N2,0 -3 -4 -5 1 0 -1 1 0 -1 -2 -3 -2 -1 0 1
+kalyani,half,kal_h008,"S R2 , N2 S N2 D2 N2 , S N2 D2 P M2 G2 R2",1,S,R2,"0 1 , 6 0 6 5 6 , 0 6 5 4 3 2 1"
+kalyani,half,kal_h009,"S R2 S P , M2 D2 , P N2 D2 R2 S N2 D2 N2",1,S,N2,"0 1 0 4 , 3 5 , 4 6 5 1 0 6 5 6"
+kalyani,half,kal_h010,"D2 G2 R2 N2 , R2 N2 , S D2 , N2 P D2 N2 S",1,D2,S,"0 -3 -4 1 , -4 1 , -5 0 , 1 -1 0 1 -5"
+kalyani,half,kal_h011,"G2 R2 S , N2 D2 P , M2 G2 R2 G2 M2 P D2 N2",1,G2,N2,"0 -1 -2 , 4 3 2 , 1 0 -1 0 1 2 3 4"
+kalyani,half,kal_h012,"N2 , , , , , S D2 S N2 D2 P M2 G2 M2 ,",1,N2,M2,"0 , , , , , -6 -1 -6 0 -1 -2 -3 -4 -3 ,"
+kalyani,half,kal_h013,"P , , , , , M2 P D2 N2 P D2 N2 D2 R2 S",1,P,S,"0 , , , , , -1 0 1 2 0 1 2 1 -3 -4"
+kalyani,half,kal_h014,"P , , , M2 , G2 , R2 , D2 , M2 , G2 ,",1,P,G2,"0 , , , -1 , -2 , -3 , 1 , -1 , -2 ,"
+kalyani,half,kal_h015,"R2 , N2 , S , R2 , G2 , M2 , P , D2 ,",1,R2,D2,"0 , 5 , -1 , 0 , 1 , 2 , 3 , 4 ,"
+kalyani,half,kal_h016,"P , D2 P , M2 G2 M2 P , M2 G2 , R2 S N2",1,P,N2,"0 , 1 0 , -1 -2 -1 0 , -1 -2 , -3 -4 2"
+kalyani,half,kal_h017,"S , R2 N2 , S D2 N2 S , R2 G2 , M2 P D2",1,S,D2,"0 , 1 6 , 0 5 6 0 , 1 2 , 3 4 5"
+kalyani,half,kal_h018,"N2 , , , , , S R2 N2 S N2 D2 N2 D2 P M2",1,N2,M2,"0 , , , , , -6 -5 0 -6 0 -1 0 -1 -2 -3"
+kalyani,half,kal_h019,"P , , D2 N2 D2 P D2 P M2 P M2 G2 M2 P D2",1,P,D2,"0 , , 1 2 1 0 1 0 -1 0 -1 -2 -1 0 1"
+kalyani,half,kal_h020,"N2 S N2 G2 R2 G2 S R2 N2 S , R2 S R2 N2 S",1,N2,S,"0 -6 0 -4 -5 -4 -6 -5 0 -6 , -5 -6 -5 0 -6"
+kalyani,half,kal_h021,"D2 N2 , S N2 D2 P M2 G2 M2 P D2 , N2 G2 R2",1,D2,R2,"0 1 , -5 1 0 -1 -2 -3 -2 -1 0 , 1 -3 -4"
+kalyani,half,kal_h022,"R2 , , , , , D2 G2 R2 S N2 P D2 N2 S R2",1,R2,R2,"0 , , , , , 4 1 0 -1 5 3 4 5 -1 0"
+kalyani,half,kal_h023,"S , , , , , S N2 D2 P M2 G2 , M2 P D2",1,S,D2,"0 , , , , , 0 6 5 4 3 2 , 3 4 5"
+kalyani,half,kal_h024,"M2 , P D2 N2 P , D2 N2 S R2 , S N2 D2 N2",1,M2,N2,"0 , 1 2 3 1 , 2 3 -3 -2 , -3 3 2 3"
+kalyani,half,kal_h025,"S N2 , D2 P M2 G2 M2 P D2 P N2 D2 , , ,",1,S,D2,"0 6 , 5 4 3 2 3 4 5 4 6 5 , , ,"
+kalyani,half,kal_h026,D2 N2 S R2 R2 G2 G2 M2 G2 R2 S N2 S R2 S N2,1,D2,N2,0 1 -5 -4 -4 -3 -3 -2 -3 -4 -5 1 -5 -4 -5 1
+kalyani,half,kal_h027,"D2 S N2 D2 P N2 D2 P M2 G2 , M2 , P , D2",1,D2,D2,"0 -5 1 0 -1 1 0 -1 -2 -3 , -2 , -1 , 0"
+mohanam,cell,moh_c000,G2 R2 S R2,8,G2,R2,0 -1 -2 -1
+mohanam,cell,moh_c001,"G2 , G2 ,",3,G2,G2,"0 , 0 ,"
+mohanam,cell,moh_c002,"R2 , , ,",3,R2,R2,"0 , , ,"
+mohanam,cell,moh_c003,D2 P G2 R2,3,D2,R2,0 -1 -2 -3
+mohanam,cell,moh_c004,"P , , ,",3,P,P,"0 , , ,"
+mohanam,cell,moh_c005,S R2 G2 R2,2,S,R2,0 1 2 1
+mohanam,cell,moh_c006,D2 P D2 S^,2,D2,S^,0 -1 0 1
+mohanam,cell,moh_c007,G2 G2 P P,2,G2,P,0 0 1 1
+mohanam,cell,moh_c008,D2 S^ R2^ S^,2,D2,S^,0 1 2 1
+mohanam,cell,moh_c009,"S , , ,",2,S,S,"0 , , ,"
+mohanam,cell,moh_c010,"P , G2 R2",2,P,R2,"0 , -1 -2"
+mohanam,cell,moh_c011,"S , R2 G2",2,S,G2,"0 , 1 2"
+mohanam,cell,moh_c012,R2^ S^ R2^ S^,2,R2^,S^,0 -1 0 -1
+mohanam,cell,moh_c013,S S R2 R2,1,S,R2,0 0 1 1
+mohanam,cell,moh_c014,G2 G2 R2 R2,1,G2,R2,0 0 -1 -1
+mohanam,cell,moh_c015,S R2 S D2,1,S,D2,0 1 0 4
+mohanam,cell,moh_c016,S R2 G2 P,1,S,P,0 1 2 3
+mohanam,cell,moh_c017,G2 P G2 G2,1,G2,G2,0 1 0 0
+mohanam,cell,moh_c018,R2 S R2 G2,1,R2,G2,0 -1 0 1
+mohanam,cell,moh_c019,R2 R2 S D2,1,R2,D2,0 0 -1 3
+mohanam,cell,moh_c020,G2 P G2 P,1,G2,P,0 1 0 1
+mohanam,cell,moh_c021,D2 D2 P G2,1,D2,G2,0 0 -1 -2
+mohanam,cell,moh_c022,"D2 D2 P ,",1,D2,P,"0 0 -1 ,"
+mohanam,cell,moh_c023,D2 S^ D2 D2,1,D2,D2,0 1 0 0
+mohanam,cell,moh_c024,P G2 D2 P,1,P,P,0 -1 1 0
+mohanam,cell,moh_c025,D2 G2 D2 P,1,D2,P,0 -2 0 -1
+mohanam,cell,moh_c026,"G2^ R2^ , S^",1,G2^,S^,"0 -1 , -2"
+mohanam,cell,moh_c027,", D2 P D2",1,D2,D2,", 0 -1 0"
+mohanam,cell,moh_c028,"S^ D2 , P",1,S^,P,"0 -1 , -2"
+mohanam,cell,moh_c029,"G2 , R2 G2",1,G2,G2,"0 , -1 0"
+mohanam,cell,moh_c030,"R2 S R2 ,",1,R2,R2,"0 -1 0 ,"
+mohanam,cell,moh_c031,S R2 S G2,1,S,G2,0 1 0 2
+mohanam,cell,moh_c032,R2 G2 S R2,1,R2,R2,0 1 -1 0
+mohanam,cell,moh_c033,S D2 S R2,1,S,R2,0 4 0 1
+mohanam,cell,moh_c034,G2 R2 G2 P,1,G2,P,0 -1 0 1
+mohanam,cell,moh_c035,"G2 P D2 ,",1,G2,D2,"0 1 2 ,"
+mohanam,cell,moh_c036,G2 P D2 P,1,G2,P,0 1 2 1
+mohanam,cell,moh_c037,D2 S^ R2^ G2^,1,D2,G2^,0 1 2 3
+mohanam,cell,moh_c038,"R2^ , G2^ S^",1,R2^,S^,"0 , 1 -1"
+mohanam,cell,moh_c039,", R2^ D2 ,",1,R2^,D2,", 0 -2 ,"
+mohanam,cell,moh_c040,"S^ P , D2",1,S^,D2,"0 -2 , -1"
+mohanam,cell,moh_c041,S R2 G2 S,1,S,S,0 1 2 0
+mohanam,cell,moh_c042,", D2 P ,",1,D2,P,", 0 -1 ,"
+mohanam,cell,moh_c043,G2 P G2 R2,1,G2,R2,0 1 0 -1
+mohanam,cell,moh_c044,R2 G2 P G2,1,R2,G2,0 1 2 1
+mohanam,cell,moh_c045,G2 G2 D2 D2,1,G2,D2,0 0 2 2
+mohanam,cell,moh_c046,"P , G2 G2",1,P,G2,"0 , -1 -1"
+mohanam,cell,moh_c047,D2 P G2 P,1,D2,P,0 -1 -2 -1
+mohanam,cell,moh_c048,"G2 , , ,",1,G2,G2,"0 , , ,"
+mohanam,cell,moh_c049,"R2 , S ,",1,R2,S,"0 , -1 ,"
+mohanam,cell,moh_c050,"D2 , , ,",1,D2,D2,"0 , , ,"
+mohanam,cell,moh_c051,"R2 , D2 ,",1,R2,D2,"0 , 3 ,"
+mohanam,cell,moh_c052,"G2 , R2 ,",1,G2,R2,"0 , -1 ,"
+mohanam,cell,moh_c053,"G2 , G2 R2",1,G2,R2,"0 , 0 -1"
+mohanam,cell,moh_c054,"G2 , G2 P",1,G2,P,"0 , 0 1"
+mohanam,cell,moh_c055,D2 D2 S R2,1,D2,R2,0 0 -4 -3
+mohanam,cell,moh_c056,"G2 , G2 G2",1,G2,G2,"0 , 0 0"
+mohanam,cell,moh_c057,"G2 , G2 S^",1,G2,S^,"0 , 0 3"
+mohanam,cell,moh_c058,"P , D2 D2",1,P,D2,"0 , 1 1"
+mohanam,cell,moh_c059,"R2 , S D2",1,R2,D2,"0 , -1 3"
+mohanam,cell,moh_c060,"P , D2 ,",1,P,D2,"0 , 1 ,"
+mohanam,cell,moh_c061,"S^ S^ , D2",1,S^,D2,"0 0 , -1"
+mohanam,cell,moh_c062,"S^ , R2^ G2^",1,S^,G2^,"0 , 1 2"
+mohanam,cell,moh_c063,D2 S^ D2 P,1,D2,P,0 1 0 -1
+mohanam,cell,moh_c064,", , S S",1,S,S,", , 0 0"
+mohanam,cell,moh_c065,R2 R2 G2 G2,1,R2,G2,0 0 1 1
+mohanam,cell,moh_c066,P P D2 D2,1,P,D2,0 0 1 1
+mohanam,cell,moh_c067,S^ R2^ G2^ R2^,1,S^,R2^,0 1 2 1
+mohanam,cell,moh_c068,G2^ R2^ D2 S^,1,G2^,S^,0 -1 -3 -2
+mohanam,cell,moh_c069,P D2 S^ D2,1,P,D2,0 1 2 1
+mohanam,cell,moh_c070,S^ D2 G2 P,1,S^,P,0 -1 -3 -2
+mohanam,cell,moh_c071,D2 P D2 P,1,D2,P,0 -1 0 -1
+mohanam,cell,moh_c072,R2^ S^ D2 P,1,R2^,P,0 -1 -2 -3
+mohanam,pair,moh_p000,"G2 , G2 , R2 , , ,",1,G2,R2,"0 , 0 , -1 , , ,"
+mohanam,pair,moh_p001,S S R2 R2 G2 G2 R2 R2,1,S,R2,0 0 1 1 2 2 1 1
+mohanam,pair,moh_p002,S R2 G2 R2 S R2 S D2,1,S,D2,0 1 2 1 0 1 0 4
+mohanam,pair,moh_p003,S R2 G2 P G2 R2 S R2,1,S,R2,0 1 2 3 2 1 0 1
+mohanam,pair,moh_p004,G2 P G2 G2 R2 S R2 G2,1,G2,G2,0 1 0 0 -1 -2 -1 0
+mohanam,pair,moh_p005,R2 R2 S D2 S R2 G2 R2,1,R2,R2,0 0 -1 3 -1 0 1 0
+mohanam,pair,moh_p006,G2 P G2 P D2 P D2 S^,1,G2,S^,0 1 0 1 2 1 2 3
+mohanam,pair,moh_p007,D2 D2 P G2 D2 P G2 R2,1,D2,R2,0 0 -1 -2 0 -1 -2 -3
+mohanam,pair,moh_p008,"G2 , G2 , P , , ,",1,G2,P,"0 , 0 , 1 , , ,"
+mohanam,pair,moh_p009,"G2 G2 P P D2 D2 P ,",1,G2,P,"0 0 1 1 2 2 1 ,"
+mohanam,pair,moh_p010,D2 S^ D2 D2 P G2 D2 P,1,D2,P,0 1 0 0 -1 -2 0 -1
+mohanam,pair,moh_p011,D2 G2 D2 P G2 R2 S R2,1,D2,R2,0 -2 0 -1 -2 -3 -4 -3
+mohanam,pair,moh_p012,G2 G2 P P D2 P D2 S^,1,G2,S^,0 0 1 1 2 1 2 3
+mohanam,pair,moh_p013,"D2 S^ R2^ S^ G2^ R2^ , S^",1,D2,S^,"0 1 2 1 3 2 , 1"
+mohanam,pair,moh_p014,"D2 S^ R2^ S^ , D2 P D2",1,D2,D2,"0 1 2 1 , 0 -1 0"
+mohanam,pair,moh_p015,"S^ D2 , P G2 R2 S R2",1,S^,R2,"0 -1 , -2 -3 -4 -5 -4"
+mohanam,pair,moh_p016,"G2 , R2 G2 R2 S R2 ,",1,G2,R2,"0 , -1 0 -1 -2 -1 ,"
+mohanam,pair,moh_p017,S R2 S G2 R2 G2 S R2,1,S,R2,0 1 0 2 1 2 0 1
+mohanam,pair,moh_p018,S D2 S R2 G2 R2 G2 P,1,S,P,0 4 0 1 2 1 2 3
+mohanam,pair,moh_p019,"G2 P D2 , P , , ,",1,G2,P,"0 1 2 , 1 , , ,"
+mohanam,pair,moh_p020,G2 P D2 P D2 S^ R2^ G2^,1,G2,G2^,0 1 2 1 2 3 4 5
+mohanam,pair,moh_p021,"R2^ , G2^ S^ , R2^ D2 ,",1,R2^,D2,"0 , 1 -1 , 0 -2 ,"
+mohanam,pair,moh_p022,"S^ P , D2 S R2 G2 S",1,S^,S,"0 -2 , -1 -5 -4 -3 -5"
+mohanam,pair,moh_p023,", D2 P , G2 R2 S R2",1,D2,R2,", 0 -1 , -2 -3 -4 -3"
+mohanam,pair,moh_p024,"G2 , G2 , G2 P G2 R2",1,G2,R2,"0 , 0 , 0 1 0 -1"
+mohanam,pair,moh_p025,"R2 G2 P G2 P , , ,",1,R2,P,"0 1 2 1 2 , , ,"
+mohanam,pair,moh_p026,"G2 G2 D2 D2 P , G2 G2",1,G2,G2,"0 0 2 2 1 , 0 0"
+mohanam,pair,moh_p027,D2 P G2 P G2 R2 S R2,1,D2,R2,0 -1 -2 -1 -2 -3 -4 -3
+mohanam,pair,moh_p028,"G2 , , , R2 , S ,",1,G2,S,"0 , , , -1 , -2 ,"
+mohanam,pair,moh_p029,"R2 , , , D2 , , ,",1,R2,D2,"0 , , , 3 , , ,"
+mohanam,pair,moh_p030,"R2 , D2 , S , , ,",1,R2,S,"0 , 3 , -1 , , ,"
+mohanam,pair,moh_p031,"R2 , , , G2 , R2 ,",1,R2,R2,"0 , , , 1 , 0 ,"
+mohanam,pair,moh_p032,"G2 , G2 R2 G2 R2 S R2",1,G2,R2,"0 , 0 -1 0 -1 -2 -1"
+mohanam,pair,moh_p033,"G2 , G2 P D2 D2 S R2",1,G2,R2,"0 , 0 1 2 2 -2 -1"
+mohanam,pair,moh_p034,"G2 , G2 G2 D2 P G2 R2",1,G2,R2,"0 , 0 0 2 1 0 -1"
+mohanam,pair,moh_p035,"G2 , G2 S^ D2 P G2 R2",1,G2,R2,"0 , 0 3 2 1 0 -1"
+mohanam,pair,moh_p036,"P , D2 D2 P , G2 R2",1,P,R2,"0 , 1 1 0 , -1 -2"
+mohanam,pair,moh_p037,"S , R2 G2 R2 , S D2",1,S,D2,"0 , 1 2 1 , 0 4"
+mohanam,pair,moh_p038,"S , R2 G2 P , D2 ,",1,S,D2,"0 , 1 2 3 , 4 ,"
+mohanam,pair,moh_p039,"S^ S^ , D2 P , G2 R2",1,S^,R2,"0 0 , -1 -2 , -3 -4"
+mohanam,pair,moh_p040,"S^ , R2^ G2^ R2^ S^ R2^ S^",1,S^,S^,"0 , 1 2 1 0 1 0"
+mohanam,pair,moh_p041,D2 S^ D2 P G2 R2 S R2,1,D2,R2,0 1 0 -1 -2 -3 -4 -3
+mohanam,pair,moh_p042,"S , , , , , S S",1,S,S,"0 , , , , , 0 0"
+mohanam,pair,moh_p043,R2 R2 G2 G2 P P D2 D2,1,R2,D2,0 0 1 1 2 2 3 3
+mohanam,pair,moh_p044,S^ R2^ G2^ R2^ G2^ R2^ D2 S^,1,S^,S^,0 1 2 1 2 1 -1 0
+mohanam,pair,moh_p045,R2^ S^ R2^ S^ P D2 S^ D2,1,R2^,D2,0 -1 0 -1 -3 -2 -1 -2
+mohanam,pair,moh_p046,S^ D2 G2 P D2 P D2 P,1,S^,P,0 -1 -3 -2 -1 -2 -1 -2
+mohanam,pair,moh_p047,R2^ S^ D2 P G2 R2 S R2,1,R2^,R2,0 -1 -2 -3 -4 -5 -6 -5
+mohanam,half,moh_h000,"G2 , G2 , R2 , , , S S R2 R2 G2 G2 R2 R2",1,G2,R2,"0 , 0 , -1 , , , -2 -2 -1 -1 0 0 -1 -1"
+mohanam,half,moh_h001,S R2 G2 R2 S R2 S D2 S R2 G2 P G2 R2 S R2,1,S,R2,0 1 2 1 0 1 0 4 0 1 2 3 2 1 0 1
+mohanam,half,moh_h002,G2 P G2 G2 R2 S R2 G2 R2 R2 S D2 S R2 G2 R2,1,G2,R2,0 1 0 0 -1 -2 -1 0 -1 -1 -2 2 -2 -1 0 -1
+mohanam,half,moh_h003,G2 P G2 P D2 P D2 S^ D2 D2 P G2 D2 P G2 R2,1,G2,R2,0 1 0 1 2 1 2 3 2 2 1 0 2 1 0 -1
+mohanam,half,moh_h004,"G2 , G2 , P , , , G2 G2 P P D2 D2 P ,",1,G2,P,"0 , 0 , 1 , , , 0 0 1 1 2 2 1 ,"
+mohanam,half,moh_h005,D2 S^ D2 D2 P G2 D2 P D2 G2 D2 P G2 R2 S R2,1,D2,R2,0 1 0 0 -1 -2 0 -1 0 -2 0 -1 -2 -3 -4 -3
+mohanam,half,moh_h006,"G2 G2 P P D2 P D2 S^ D2 S^ R2^ S^ G2^ R2^ , S^",1,G2,S^,"0 0 1 1 2 1 2 3 2 3 4 3 5 4 , 3"
+mohanam,half,moh_h007,"D2 S^ R2^ S^ , D2 P D2 S^ D2 , P G2 R2 S R2",1,D2,R2,"0 1 2 1 , 0 -1 0 1 0 , -1 -2 -3 -4 -3"
+mohanam,half,moh_h008,"G2 , R2 G2 R2 S R2 , S R2 S G2 R2 G2 S R2",1,G2,R2,"0 , -1 0 -1 -2 -1 , -2 -1 -2 0 -1 0 -2 -1"
+mohanam,half,moh_h009,"S D2 S R2 G2 R2 G2 P G2 P D2 , P , , ,",1,S,P,"0 4 0 1 2 1 2 3 2 3 4 , 3 , , ,"
+mohanam,half,moh_h010,"G2 P D2 P D2 S^ R2^ G2^ R2^ , G2^ S^ , R2^ D2 ,",1,G2,D2,"0 1 2 1 2 3 4 5 4 , 5 3 , 4 2 ,"
+mohanam,half,moh_h011,"S^ P , D2 S R2 G2 S , D2 P , G2 R2 S R2",1,S^,R2,"0 -2 , -1 -5 -4 -3 -5 , -1 -2 , -3 -4 -5 -4"
+mohanam,half,moh_h012,"G2 , G2 , G2 P G2 R2 R2 G2 P G2 P , , ,",1,G2,P,"0 , 0 , 0 1 0 -1 -1 0 1 0 1 , , ,"
+mohanam,half,moh_h013,"G2 G2 D2 D2 P , G2 G2 D2 P G2 P G2 R2 S R2",1,G2,R2,"0 0 2 2 1 , 0 0 2 1 0 1 0 -1 -2 -1"
+mohanam,half,moh_h014,"G2 , , , R2 , S , R2 , , , D2 , , ,",1,G2,D2,"0 , , , -1 , -2 , -1 , , , 2 , , ,"
+mohanam,half,moh_h015,"R2 , D2 , S , , , R2 , , , G2 , R2 ,",1,R2,R2,"0 , 3 , -1 , , , 0 , , , 1 , 0 ,"
+mohanam,half,moh_h016,"G2 , G2 R2 G2 R2 S R2 G2 , G2 P D2 D2 S R2",1,G2,R2,"0 , 0 -1 0 -1 -2 -1 0 , 0 1 2 2 -2 -1"
+mohanam,half,moh_h017,"G2 , G2 G2 D2 P G2 R2 G2 , G2 S^ D2 P G2 R2",1,G2,R2,"0 , 0 0 2 1 0 -1 0 , 0 3 2 1 0 -1"
+mohanam,half,moh_h018,"P , D2 D2 P , G2 R2 S , R2 G2 R2 , S D2",1,P,D2,"0 , 1 1 0 , -1 -2 -3 , -2 -1 -2 , -3 1"
+mohanam,half,moh_h019,"S , R2 G2 P , D2 , S^ S^ , D2 P , G2 R2",1,S,R2,"0 , 1 2 3 , 4 , 5 5 , 4 3 , 2 1"
+mohanam,half,moh_h020,"S^ , R2^ G2^ R2^ S^ R2^ S^ D2 S^ D2 P G2 R2 S R2",1,S^,R2,"0 , 1 2 1 0 1 0 -1 0 -1 -2 -3 -4 -5 -4"
+mohanam,half,moh_h021,"S , , , , , S S R2 R2 G2 G2 P P D2 D2",1,S,D2,"0 , , , , , 0 0 1 1 2 2 3 3 4 4"
+mohanam,half,moh_h022,S^ R2^ G2^ R2^ G2^ R2^ D2 S^ R2^ S^ R2^ S^ P D2 S^ D2,1,S^,D2,0 1 2 1 2 1 -1 0 1 0 1 0 -2 -1 0 -1
+mohanam,half,moh_h023,S^ D2 G2 P D2 P D2 P R2^ S^ D2 P G2 R2 S R2,1,S^,R2,0 -1 -3 -2 -1 -2 -1 -2 1 0 -1 -2 -3 -4 -5 -4
+sahana,cell,sah_c000,M1 G3 M1 R2,5,M1,R2,0 -1 0 -2
+sahana,cell,sah_c001,P M1 G3 M1,4,P,M1,0 -1 -2 -1
+sahana,cell,sah_c002,G3 M1 P M1,4,G3,M1,0 1 2 1
+sahana,cell,sah_c003,"P , M1 ,",3,P,M1,"0 , -1 ,"
+sahana,cell,sah_c004,D2 N2 S R2,3,D2,R2,0 1 -5 -4
+sahana,cell,sah_c005,R2 G3 R2 S,3,R2,S,0 1 0 -1
+sahana,cell,sah_c006,S R2 G3 M1,3,S,M1,0 1 2 3
+sahana,cell,sah_c007,"D2 , N2 D2",3,D2,D2,"0 , 1 0"
+sahana,cell,sah_c008,G3 M1 R2 G3,3,G3,G3,0 1 -1 0
+sahana,cell,sah_c009,R2 S N2 S,2,R2,S,0 -1 5 -1
+sahana,cell,sah_c010,", R2 G3 M1",2,R2,M1,", 0 1 2"
+sahana,cell,sah_c011,P M1 D2 D2,2,P,D2,0 -1 1 1
+sahana,cell,sah_c012,G3 M1 P N2,2,G3,N2,0 1 2 4
+sahana,cell,sah_c013,R2 G3 M1 P,2,R2,P,0 1 2 3
+sahana,cell,sah_c014,"G3 M1 R2 ,",2,G3,R2,"0 1 -1 ,"
+sahana,cell,sah_c015,S R2 N2 S,2,S,S,0 1 6 0
+sahana,cell,sah_c016,"P , , ,",2,P,P,"0 , , ,"
+sahana,cell,sah_c017,"G3 , M1 ,",2,G3,M1,"0 , 1 ,"
+sahana,cell,sah_c018,P D2 M1 P,2,P,P,0 1 -1 0
+sahana,cell,sah_c019,M1 R2 G3 R2,2,M1,R2,0 -2 -1 -2
+sahana,cell,sah_c020,P M1 D2 N2,2,P,N2,0 -1 1 2
+sahana,cell,sah_c021,R2 S N2 R2,2,R2,R2,0 -1 5 0
+sahana,cell,sah_c022,"G3 , G3 ,",1,G3,G3,"0 , 0 ,"
+sahana,cell,sah_c023,"R2 , G3 R2",1,R2,R2,"0 , 1 0"
+sahana,cell,sah_c024,"S , , ,",1,S,S,"0 , , ,"
+sahana,cell,sah_c025,N2_ S R2 G3,1,N2_,G3,0 1 2 3
+sahana,cell,sah_c026,D2 P M1 D2,1,D2,D2,0 -1 -2 0
+sahana,cell,sah_c027,N2 N2 S P,1,N2,P,0 0 -6 -2
+sahana,cell,sah_c028,", R2 G3 G3",1,R2,G3,", 0 1 1"
+sahana,cell,sah_c029,M1 D2 P P,1,M1,P,0 2 1 1
+sahana,cell,sah_c030,D2 N2 D2 D2,1,D2,D2,0 1 0 0
+sahana,cell,sah_c031,P P D2 P,1,P,P,0 0 1 0
+sahana,cell,sah_c032,P M1 D2 P,1,P,P,0 -1 1 0
+sahana,cell,sah_c033,"N2 N2 S ,",1,N2,S,"0 0 -6 ,"
+sahana,cell,sah_c034,", R2 N2 S",1,R2,S,", 0 5 -1"
+sahana,cell,sah_c035,"R2 G3 , M1",1,R2,M1,"0 1 , 2"
+sahana,cell,sah_c036,"R2 N2 , S",1,R2,S,"0 5 , -1"
+sahana,cell,sah_c037,P D2 P P,1,P,P,0 1 0 0
+sahana,cell,sah_c038,"P , , P",1,P,P,"0 , , 0"
+sahana,cell,sah_c039,"M1 G3 M1 ,",1,M1,M1,"0 -1 0 ,"
+sahana,cell,sah_c040,"R2 , , G3",1,R2,G3,"0 , , 1"
+sahana,cell,sah_c041,"D2 N2 S ,",1,D2,S,"0 1 -5 ,"
+sahana,cell,sah_c042,"P , D2 N2",1,P,N2,"0 , 1 2"
+sahana,cell,sah_c043,S N2 S R2,1,S,R2,0 6 0 1
+sahana,cell,sah_c044,G3 R2 S N2,1,G3,N2,0 -1 -2 4
+sahana,cell,sah_c045,", S P D2",1,S,D2,", 0 4 5"
+sahana,cell,sah_c046,"M1 P , N2",1,M1,N2,"0 1 , 3"
+sahana,cell,sah_c047,"D2 , D2 ,",1,D2,D2,"0 , 0 ,"
+sahana,cell,sah_c048,", , N2 ,",1,N2,N2,", , 0 ,"
+sahana,cell,sah_c049,", , N2 S",1,N2,S,", , 0 -6"
+sahana,cell,sah_c050,", , D2 P",1,D2,P,", , 0 -1"
+sahana,cell,sah_c051,", , M1 ,",1,M1,M1,", , 0 ,"
+sahana,cell,sah_c052,", , D2 ,",1,D2,D2,", , 0 ,"
+sahana,cell,sah_c053,"R2 , , ,",1,R2,R2,"0 , , ,"
+sahana,cell,sah_c054,"D2 , P M1",1,D2,M1,"0 , -1 -2"
+sahana,cell,sah_c055,"P , M1 G3",1,P,G3,"0 , -1 -2"
+sahana,cell,sah_c056,", M1 R2 ,",1,M1,R2,", 0 -2 ,"
+sahana,cell,sah_c057,G3 R2 S R2,1,G3,R2,0 -1 -2 -1
+sahana,cell,sah_c058,M1 P M1 G3,1,M1,G3,0 1 0 -1
+sahana,cell,sah_c059,G3 M1 S R2,1,G3,R2,0 1 -2 -1
+sahana,cell,sah_c060,G3 M1 P D2,1,G3,D2,0 1 2 3
+sahana,cell,sah_c061,S R2 S R2,1,S,R2,0 1 0 1
+sahana,cell,sah_c062,N2 S R2 G3,1,N2,G3,0 -6 -5 -4
+sahana,cell,sah_c063,S R2 N2 R2,1,S,R2,0 1 6 1
+sahana,cell,sah_c064,S D2 N2 S,1,S,S,0 5 6 0
+sahana,cell,sah_c065,D2 N2 D2 P,1,D2,P,0 1 0 -1
+sahana,cell,sah_c066,D2 M1 P M1,1,D2,M1,0 -2 -1 -2
+sahana,cell,sah_c067,"N2 , , S",1,N2,S,"0 , , -6"
+sahana,cell,sah_c068,S N2 S N2,1,S,N2,0 6 0 6
+sahana,cell,sah_c069,"P , , R2",1,P,R2,"0 , , -3"
+sahana,cell,sah_c070,", , G3 M1",1,G3,M1,", , 0 1"
+sahana,cell,sah_c071,", P M1 P",1,P,P,", 0 -1 0"
+sahana,cell,sah_c072,"M1 D2 , D2",1,M1,D2,"0 2 , 2"
+sahana,cell,sah_c073,P D2 N2 D2,1,P,D2,0 1 2 1
+sahana,cell,sah_c074,"R2 S R2 ,",1,R2,R2,"0 -1 0 ,"
+sahana,cell,sah_c075,"G3 M1 P ,",1,G3,P,"0 1 2 ,"
+sahana,cell,sah_c076,"R2 , D2 P",1,R2,P,"0 , 4 3"
+sahana,cell,sah_c077,", G3 M1 P",1,G3,P,", 0 1 2"
+sahana,cell,sah_c078,"N2 S , R2",1,N2,R2,"0 -6 , -5"
+sahana,cell,sah_c079,D2 D2 N2 S,1,D2,S,0 0 1 -5
+sahana,cell,sah_c080,"R2 , R2 ,",1,R2,R2,"0 , 0 ,"
+sahana,cell,sah_c081,S N2 S D2,1,S,D2,0 6 0 5
+sahana,cell,sah_c082,"S S , P",1,S,P,"0 0 , 4"
+sahana,cell,sah_c083,"P , R2 R2",1,P,R2,"0 , -3 -3"
+sahana,cell,sah_c084,", N2 S R2",1,N2,R2,", 0 -6 -5"
+sahana,pair,sah_p000,P M1 G3 M1 R2 G3 R2 S,2,P,S,0 -1 -2 -1 -3 -2 -3 -4
+sahana,pair,sah_p001,G3 M1 P N2 S R2 G3 M1,2,G3,M1,0 1 2 4 -2 -1 0 1
+sahana,pair,sah_p002,P D2 M1 P G3 M1 R2 G3,2,P,G3,0 1 -1 0 -2 -1 -3 -2
+sahana,pair,sah_p003,"P , M1 , G3 , G3 ,",1,P,G3,"0 , -1 , -2 , -2 ,"
+sahana,pair,sah_p004,"R2 , G3 R2 S , , ,",1,R2,S,"0 , 1 0 -1 , , ,"
+sahana,pair,sah_p005,N2_ S R2 G3 R2 S N2 S,1,N2_,S,0 1 2 3 2 1 7 1
+sahana,pair,sah_p006,D2 P M1 D2 D2 N2 S R2,1,D2,R2,0 -1 -2 0 0 1 -5 -4
+sahana,pair,sah_p007,", R2 G3 M1 P M1 D2 D2",1,R2,D2,", 0 1 2 3 2 4 4"
+sahana,pair,sah_p008,"N2 N2 S P , R2 G3 G3",1,N2,G3,"0 0 -6 -2 , -5 -4 -4"
+sahana,pair,sah_p009,M1 D2 P P M1 G3 M1 R2,1,M1,R2,0 2 1 1 0 -1 0 -2
+sahana,pair,sah_p010,D2 N2 D2 D2 P P D2 P,1,D2,P,0 1 0 0 -1 -1 0 -1
+sahana,pair,sah_p011,P M1 D2 P M1 G3 M1 R2,1,P,R2,0 -1 1 0 -1 -2 -1 -3
+sahana,pair,sah_p012,"P M1 D2 D2 N2 N2 S ,",1,P,S,"0 -1 1 1 2 2 -4 ,"
+sahana,pair,sah_p013,"D2 N2 S R2 , R2 N2 S",1,D2,S,"0 1 -5 -4 , -4 1 -5"
+sahana,pair,sah_p014,"R2 G3 , M1 R2 G3 R2 S",1,R2,S,"0 1 , 2 0 1 0 -1"
+sahana,pair,sah_p015,"R2 N2 , S D2 , N2 D2",1,R2,D2,"0 5 , -1 4 , 5 4"
+sahana,pair,sah_p016,P D2 P P M1 G3 M1 R2,1,P,R2,0 1 0 0 -1 -2 -1 -3
+sahana,pair,sah_p017,"P , , P M1 G3 M1 ,",1,P,M1,"0 , , 0 -1 -2 -1 ,"
+sahana,pair,sah_p018,", R2 G3 M1 P M1 G3 M1",1,R2,M1,", 0 1 2 3 2 1 2"
+sahana,pair,sah_p019,"R2 , , G3 R2 S N2 S",1,R2,S,"0 , , 1 0 -1 5 -1"
+sahana,pair,sah_p020,"R2 G3 M1 P D2 N2 S ,",1,R2,S,"0 1 2 3 4 5 -1 ,"
+sahana,pair,sah_p021,"P , D2 N2 S N2 S R2",1,P,R2,"0 , 1 2 -4 2 -4 -3"
+sahana,pair,sah_p022,"G3 M1 R2 , G3 R2 S N2",1,G3,N2,"0 1 -1 , 0 -1 -2 4"
+sahana,pair,sah_p023,"S R2 N2 S , S P D2",1,S,D2,"0 1 6 0 , 0 4 5"
+sahana,pair,sah_p024,"M1 P , N2 S R2 G3 M1",1,M1,M1,"0 1 , 3 -3 -2 -1 0"
+sahana,pair,sah_p025,"D2 , D2 , , , N2 ,",1,D2,N2,"0 , 0 , , , 1 ,"
+sahana,pair,sah_p026,", , N2 S D2 , N2 D2",1,N2,D2,", , 0 -6 -1 , 0 -1"
+sahana,pair,sah_p027,"P , , , , , D2 P",1,P,P,"0 , , , , , 1 0"
+sahana,pair,sah_p028,M1 G3 M1 R2 G3 M1 P M1,1,M1,M1,0 -1 0 -2 -1 0 1 0
+sahana,pair,sah_p029,"P , , , , , M1 ,",1,P,M1,"0 , , , , , -1 ,"
+sahana,pair,sah_p030,", , D2 , P , M1 ,",1,D2,M1,", , 0 , -1 , -2 ,"
+sahana,pair,sah_p031,"G3 , M1 , R2 , , ,",1,G3,R2,"0 , 1 , -1 , , ,"
+sahana,pair,sah_p032,"G3 , M1 , P , M1 ,",1,G3,M1,"0 , 1 , 2 , 1 ,"
+sahana,pair,sah_p033,"D2 , P M1 G3 M1 R2 ,",1,D2,R2,"0 , -1 -2 -3 -2 -4 ,"
+sahana,pair,sah_p034,"P , M1 G3 , M1 R2 ,",1,P,R2,"0 , -1 -2 , -1 -3 ,"
+sahana,pair,sah_p035,G3 R2 S R2 G3 M1 P M1,1,G3,M1,0 -1 -2 -1 0 1 2 1
+sahana,pair,sah_p036,M1 P M1 G3 M1 R2 G3 R2,1,M1,R2,0 1 0 -1 0 -2 -1 -2
+sahana,pair,sah_p037,S R2 N2 S D2 N2 S R2,1,S,R2,0 1 6 0 5 6 0 1
+sahana,pair,sah_p038,G3 M1 S R2 G3 M1 P D2,1,G3,D2,0 1 -2 -1 0 1 2 3
+sahana,pair,sah_p039,P M1 D2 N2 S R2 S R2,1,P,R2,0 -1 1 2 -4 -3 -4 -3
+sahana,pair,sah_p040,N2 S R2 G3 M1 R2 G3 R2,1,N2,R2,0 -6 -5 -4 -3 -5 -4 -5
+sahana,pair,sah_p041,S R2 N2 R2 S D2 N2 S,1,S,S,0 1 6 1 0 5 6 0
+sahana,pair,sah_p042,D2 N2 D2 P D2 M1 P M1,1,D2,M1,0 1 0 -1 0 -2 -1 -2
+sahana,pair,sah_p043,"N2 , , S R2 S N2 R2",1,N2,R2,"0 , , -6 -5 -6 0 -5"
+sahana,pair,sah_p044,"S N2 S N2 D2 , N2 D2",1,S,D2,"0 6 0 6 5 , 6 5"
+sahana,pair,sah_p045,"P , , R2 , , G3 M1",1,P,M1,"0 , , -3 , , -2 -1"
+sahana,pair,sah_p046,"R2 G3 M1 P , P M1 P",1,R2,P,"0 1 2 3 , 3 2 3"
+sahana,pair,sah_p047,"M1 D2 , D2 P D2 N2 D2",1,M1,D2,"0 2 , 2 1 2 3 2"
+sahana,pair,sah_p048,"R2 S R2 , G3 M1 P ,",1,R2,P,"0 -1 0 , 1 2 3 ,"
+sahana,pair,sah_p049,"P M1 G3 M1 R2 , D2 P",1,P,P,"0 -1 -2 -1 -3 , 1 0"
+sahana,pair,sah_p050,"M1 G3 M1 R2 , G3 M1 P",1,M1,P,"0 -1 0 -2 , -1 0 1"
+sahana,pair,sah_p051,"N2 S , R2 G3 M1 P M1",1,N2,M1,"0 -6 , -5 -4 -3 -2 -3"
+sahana,pair,sah_p052,"D2 D2 N2 S R2 , R2 ,",1,D2,R2,"0 0 1 -5 -4 , -4 ,"
+sahana,pair,sah_p053,G3 M1 R2 G3 R2 S N2 R2,1,G3,R2,0 1 -1 0 -1 -2 4 -1
+sahana,pair,sah_p054,S N2 S D2 P M1 D2 N2,1,S,N2,0 6 0 5 4 3 5 6
+sahana,pair,sah_p055,"S S , P P , R2 R2",1,S,R2,"0 0 , 4 4 , 1 1"
+sahana,pair,sah_p056,", N2 S R2 G3 M1 P M1",1,N2,M1,", 0 -6 -5 -4 -3 -2 -3"
+sahana,half,sah_h000,"P , M1 , G3 , G3 , R2 , G3 R2 S , , ,",1,P,S,"0 , -1 , -2 , -2 , -3 , -2 -3 -4 , , ,"
+sahana,half,sah_h001,N2_ S R2 G3 R2 S N2 S D2 P M1 D2 D2 N2 S R2,1,N2_,R2,0 1 2 3 2 1 7 1 6 5 4 6 6 7 1 2
+sahana,half,sah_h002,"P M1 G3 M1 R2 G3 R2 S , R2 G3 M1 P M1 D2 D2",1,P,D2,"0 -1 -2 -1 -3 -2 -3 -4 , -3 -2 -1 0 -1 1 1"
+sahana,half,sah_h003,"N2 N2 S P , R2 G3 G3 M1 D2 P P M1 G3 M1 R2",1,N2,R2,"0 0 -6 -2 , -5 -4 -4 -3 -1 -2 -2 -3 -4 -3 -5"
+sahana,half,sah_h004,D2 N2 D2 D2 P P D2 P P M1 D2 P M1 G3 M1 R2,1,D2,R2,0 1 0 0 -1 -1 0 -1 -1 -2 0 -1 -2 -3 -2 -4
+sahana,half,sah_h005,"G3 M1 P N2 S R2 G3 M1 P M1 D2 D2 N2 N2 S ,",1,G3,S,"0 1 2 4 -2 -1 0 1 2 1 3 3 4 4 -2 ,"
+sahana,half,sah_h006,"D2 N2 S R2 , R2 N2 S R2 G3 , M1 R2 G3 R2 S",1,D2,S,"0 1 -5 -4 , -4 1 -5 -4 -3 , -2 -4 -3 -4 -5"
+sahana,half,sah_h007,"R2 N2 , S D2 , N2 D2 P D2 P P M1 G3 M1 R2",1,R2,R2,"0 5 , -1 4 , 5 4 3 4 3 3 2 1 2 0"
+sahana,half,sah_h008,"P , , P M1 G3 M1 , , R2 G3 M1 P M1 G3 M1",1,P,M1,"0 , , 0 -1 -2 -1 , , -3 -2 -1 0 -1 -2 -1"
+sahana,half,sah_h009,"R2 , , G3 R2 S N2 S R2 G3 M1 P D2 N2 S ,",1,R2,S,"0 , , 1 0 -1 5 -1 0 1 2 3 4 5 -1 ,"
+sahana,half,sah_h010,"P , D2 N2 S N2 S R2 G3 M1 R2 , G3 R2 S N2",1,P,N2,"0 , 1 2 -4 2 -4 -3 -2 -1 -3 , -2 -3 -4 2"
+sahana,half,sah_h011,"S R2 N2 S , S P D2 M1 P , N2 S R2 G3 M1",1,S,M1,"0 1 6 0 , 0 4 5 3 4 , 6 0 1 2 3"
+sahana,half,sah_h012,"D2 , D2 , , , N2 , , , N2 S D2 , N2 D2",1,D2,D2,"0 , 0 , , , 1 , , , 1 -5 0 , 1 0"
+sahana,half,sah_h013,"P , , , , , D2 P M1 G3 M1 R2 G3 M1 P M1",1,P,M1,"0 , , , , , 1 0 -1 -2 -1 -3 -2 -1 0 -1"
+sahana,half,sah_h014,"P , , , , , M1 , , , D2 , P , M1 ,",1,P,M1,"0 , , , , , -1 , , , 1 , 0 , -1 ,"
+sahana,half,sah_h015,"G3 , M1 , R2 , , , G3 , M1 , P , M1 ,",1,G3,M1,"0 , 1 , -1 , , , 0 , 1 , 2 , 1 ,"
+sahana,half,sah_h016,"D2 , P M1 G3 M1 R2 , G3 M1 P N2 S R2 G3 M1",1,D2,M1,"0 , -1 -2 -3 -2 -4 , -3 -2 -1 1 -5 -4 -3 -2"
+sahana,half,sah_h017,"P , M1 G3 , M1 R2 , G3 R2 S R2 G3 M1 P M1",1,P,M1,"0 , -1 -2 , -1 -3 , -2 -3 -4 -3 -2 -1 0 -1"
+sahana,half,sah_h018,P D2 M1 P G3 M1 R2 G3 M1 P M1 G3 M1 R2 G3 R2,1,P,R2,0 1 -1 0 -2 -1 -3 -2 -1 0 -1 -2 -1 -3 -2 -3
+sahana,half,sah_h019,S R2 N2 S D2 N2 S R2 G3 M1 S R2 G3 M1 P D2,1,S,D2,0 1 6 0 5 6 0 1 2 3 0 1 2 3 4 5
+sahana,half,sah_h020,P M1 D2 N2 S R2 S R2 N2 S R2 G3 M1 R2 G3 R2,1,P,R2,0 -1 1 2 -4 -3 -4 -3 2 -4 -3 -2 -1 -3 -2 -3
+sahana,half,sah_h021,S R2 N2 R2 S D2 N2 S D2 N2 D2 P D2 M1 P M1,1,S,M1,0 1 6 1 0 5 6 0 5 6 5 4 5 3 4 3
+sahana,half,sah_h022,"N2 , , S R2 S N2 R2 S N2 S N2 D2 , N2 D2",1,N2,D2,"0 , , -6 -5 -6 0 -5 -6 0 -6 0 -1 , 0 -1"
+sahana,half,sah_h023,"P , , R2 , , G3 M1 P M1 G3 M1 R2 G3 R2 S",1,P,S,"0 , , -3 , , -2 -1 0 -1 -2 -1 -3 -2 -3 -4"
+sahana,half,sah_h024,"R2 G3 M1 P , P M1 P M1 D2 , D2 P D2 N2 D2",1,R2,D2,"0 1 2 3 , 3 2 3 2 4 , 4 3 4 5 4"
+sahana,half,sah_h025,"P D2 M1 P G3 M1 R2 G3 R2 S R2 , G3 M1 P ,",1,P,P,"0 1 -1 0 -2 -1 -3 -2 -3 -4 -3 , -2 -1 0 ,"
+sahana,half,sah_h026,"P M1 G3 M1 R2 , D2 P M1 G3 M1 R2 , G3 M1 P",1,P,P,"0 -1 -2 -1 -3 , 1 0 -1 -2 -1 -3 , -2 -1 0"
+sahana,half,sah_h027,"N2 S , R2 G3 M1 P M1 D2 D2 N2 S R2 , R2 ,",1,N2,R2,"0 -6 , -5 -4 -3 -2 -3 -1 -1 0 -6 -5 , -5 ,"
+sahana,half,sah_h028,G3 M1 R2 G3 R2 S N2 R2 S N2 S D2 P M1 D2 N2,1,G3,N2,0 1 -1 0 -1 -2 4 -1 -2 4 -2 3 2 1 3 4
+sahana,half,sah_h029,"S S , P P , R2 R2 , N2 S R2 G3 M1 P M1",1,S,M1,"0 0 , 4 4 , 1 1 , 6 0 1 2 3 4 3"
+saveri,cell,sav_c000,N2 D1 P M1,8,N2,M1,0 -1 -2 -3
+saveri,cell,sav_c001,G2 R1 S D1,6,G2,D1,0 -1 -2 3
+saveri,cell,sav_c002,R1 S N2 D1,5,R1,D1,0 -1 5 4
+saveri,cell,sav_c003,D1 M1 G2 R1,3,D1,R1,0 -2 -3 -4
+saveri,cell,sav_c004,D1 N2 D1 M1,3,D1,M1,0 1 0 -2
+saveri,cell,sav_c005,N2 D1 P D1,3,N2,D1,0 -1 -2 -1
+saveri,cell,sav_c006,P M1 P D1,3,P,D1,0 -1 0 1
+saveri,cell,sav_c007,"S , , ,",3,S,S,"0 , , ,"
+saveri,cell,sav_c008,P D1 S R1,3,P,R1,0 1 -4 -3
+saveri,cell,sav_c009,M1 G2 R1 S,3,M1,S,0 -1 -2 -3
+saveri,cell,sav_c010,S N2 D1 P,3,S,P,0 6 5 4
+saveri,cell,sav_c011,G2 R1 R1 G2,2,G2,G2,0 -1 -1 0
+saveri,cell,sav_c012,"G2 R1 R1 ,",2,G2,R1,"0 -1 -1 ,"
+saveri,cell,sav_c013,"R1 S , N2",2,R1,N2,"0 -1 , 5"
+saveri,cell,sav_c014,S G2 R1 S,2,S,S,0 2 1 0
+saveri,cell,sav_c015,D1 G2 R1 S,2,D1,S,0 -3 -4 -5
+saveri,cell,sav_c016,"G2 R1 , S",2,G2,S,"0 -1 , -2"
+saveri,cell,sav_c017,N2 D1 R1 S,2,N2,S,0 -1 -5 -6
+saveri,cell,sav_c018,S R1 M1 P,2,S,P,0 1 3 4
+saveri,cell,sav_c019,D1 P M1 P,2,D1,P,0 -1 -2 -1
+saveri,cell,sav_c020,", , D1 ,",2,D1,D1,", , 0 ,"
+saveri,cell,sav_c021,"S , R1 ,",1,S,R1,"0 , 1 ,"
+saveri,cell,sav_c022,"G2 , R1 G2",1,G2,G2,"0 , -1 0"
+saveri,cell,sav_c023,"R1 , , ,",1,R1,R1,"0 , , ,"
+saveri,cell,sav_c024,R1 G2 R1 R1,1,R1,R1,0 1 0 0
+saveri,cell,sav_c025,"S , S R1",1,S,R1,"0 , 0 1"
+saveri,cell,sav_c026,"S N2 D1 ,",1,S,D1,"0 6 5 ,"
+saveri,cell,sav_c027,S R1 P M1,1,S,M1,0 1 4 3
+saveri,cell,sav_c028,S D1 S R1,1,S,R1,0 5 0 1
+saveri,cell,sav_c029,M1 P D1 R1,1,M1,R1,0 1 2 -2
+saveri,cell,sav_c030,"S , M1 P",1,S,P,"0 , 3 4"
+saveri,cell,sav_c031,D1 D1 P M1,1,D1,M1,0 0 -1 -2
+saveri,cell,sav_c032,P D1 R1 M1,1,P,M1,0 1 -3 -1
+saveri,cell,sav_c033,"P D1 M1 ,",1,P,M1,"0 1 -1 ,"
+saveri,cell,sav_c034,G2 R1 S R1,1,G2,R1,0 -1 -2 -1
+saveri,cell,sav_c035,D1 P D1 M1,1,D1,M1,0 -1 0 -2
+saveri,cell,sav_c036,", G2 R1 S",1,G2,S,", 0 -1 -2"
+saveri,cell,sav_c037,"S , N2 D1",1,S,D1,"0 , 6 5"
+saveri,cell,sav_c038,"S , R1 G2",1,S,G2,"0 , 1 2"
+saveri,cell,sav_c039,"R1 S R1 ,",1,R1,R1,"0 -1 0 ,"
+saveri,cell,sav_c040,"R1 , S G2",1,R1,G2,"0 , -1 1"
+saveri,cell,sav_c041,R1 G2 S R1,1,R1,R1,0 1 -1 0
+saveri,cell,sav_c042,D1 S R1 M1,1,D1,M1,0 -5 -4 -2
+saveri,cell,sav_c043,"P , , D1",1,P,D1,"0 , , 1"
+saveri,cell,sav_c044,D1 P M1 R1,1,D1,R1,0 -1 -2 -4
+saveri,cell,sav_c045,", M1 P D1",1,M1,D1,", 0 1 2"
+saveri,cell,sav_c046,S R1 S P,1,S,P,0 1 0 4
+saveri,cell,sav_c047,M1 D1 P N2,1,M1,N2,0 2 1 3
+saveri,cell,sav_c048,D1 N2 P D1,1,D1,D1,0 1 -1 0
+saveri,cell,sav_c049,M1 P S R1,1,M1,R1,0 1 -3 -2
+saveri,cell,sav_c050,M1 P D1 N2,1,M1,N2,0 1 2 3
+saveri,cell,sav_c051,"D1 , , ,",1,D1,D1,"0 , , ,"
+saveri,cell,sav_c052,", P S N2",1,P,N2,", 0 -4 2"
+saveri,cell,sav_c053,"D1 P , D1",1,D1,D1,"0 -1 , 0"
+saveri,cell,sav_c054,"P , M1 D1",1,P,D1,"0 , -1 1"
+saveri,cell,sav_c055,", P N2 D1",1,P,D1,", 0 2 1"
+saveri,cell,sav_c056,N2 D1 D1 S,1,N2,S,0 -1 -1 -6
+saveri,cell,sav_c057,"D1 , , M1",1,D1,M1,"0 , , -2"
+saveri,cell,sav_c058,"P D1 S ,",1,P,S,"0 1 -4 ,"
+saveri,cell,sav_c059,"R1 , , R1",1,R1,R1,"0 , , 0"
+saveri,cell,sav_c060,", D1 P N2",1,D1,N2,", 0 -1 1"
+saveri,cell,sav_c061,"D1 , , P",1,D1,P,"0 , , -1"
+saveri,cell,sav_c062,"P , M1 ,",1,P,M1,"0 , -1 ,"
+saveri,cell,sav_c063,"G2 , R1 ,",1,G2,R1,"0 , -1 ,"
+saveri,cell,sav_c064,"M1 , , P",1,M1,P,"0 , , 1"
+saveri,cell,sav_c065,", N2 , D1",1,N2,D1,", 0 , -1"
+saveri,cell,sav_c066,", P , M1",1,P,M1,", 0 , -1"
+saveri,cell,sav_c067,"D1 , N2 P",1,D1,P,"0 , 1 -1"
+saveri,cell,sav_c068,"S , R1 M1",1,S,M1,"0 , 1 3"
+saveri,cell,sav_c069,"M1 P , M1",1,M1,M1,"0 1 , 0"
+saveri,cell,sav_c070,G2 R1 N2 D1,1,G2,D1,0 -1 4 3
+saveri,cell,sav_c071,D1 M1 P D1,1,D1,D1,0 -2 -1 0
+saveri,cell,sav_c072,S N2 D1 R1,1,S,R1,0 6 5 1
+saveri,cell,sav_c073,D1 S R1 G2,1,D1,G2,0 -5 -4 -3
+saveri,cell,sav_c074,D1 S R1 P,1,D1,P,0 -5 -4 -1
+saveri,cell,sav_c075,D1 S M1 P,1,D1,P,0 -5 -2 -1
+saveri,cell,sav_c076,", , R1 S",1,R1,S,", , 0 -1"
+saveri,cell,sav_c077,", , P M1",1,P,M1,", , 0 -1"
+saveri,cell,sav_c078,D1 P N2 D1,1,D1,D1,0 -1 1 0
+saveri,cell,sav_c079,", D1 N2 D1",1,D1,D1,", 0 1 0"
+saveri,cell,sav_c080,"P M1 , P",1,P,P,"0 -1 , 0"
+saveri,cell,sav_c081,", P , D1",1,P,D1,", 0 , 1"
+saveri,cell,sav_c082,", , D1 S",1,D1,S,", , 0 -5"
+saveri,cell,sav_c083,"R1 M1 , P",1,R1,P,"0 2 , 3"
+saveri,cell,sav_c084,R1 M1 P D1,1,R1,D1,0 2 3 4
+saveri,cell,sav_c085,S M1 P D1,1,S,D1,0 3 4 5
+saveri,cell,sav_c086,S R1 G2 R1,1,S,R1,0 1 2 1
+saveri,cell,sav_c087,", S N2 D1",1,S,D1,", 0 6 5"
+saveri,cell,sav_c088,D1 P D1 P,1,D1,P,0 -1 0 -1
+saveri,cell,sav_c089,", M1 G2 R1",1,M1,R1,", 0 -1 -2"
+saveri,cell,sav_c090,M1 P D1 S,1,M1,S,0 1 2 -3
+saveri,cell,sav_c091,R1 G2 R1 S,1,R1,S,0 1 0 -1
+saveri,cell,sav_c092,"N2 D1 P ,",1,N2,P,"0 -1 -2 ,"
+saveri,cell,sav_c093,", R1 M1 P",1,R1,P,", 0 2 3"
+saveri,pair,sav_p000,N2 D1 P M1 G2 R1 S D1,3,N2,D1,0 -1 -2 -3 -4 -5 -6 -1
+saveri,pair,sav_p001,G2 R1 R1 G2 R1 S N2 D1,2,G2,D1,0 -1 -1 0 -1 -2 4 3
+saveri,pair,sav_p002,D1 N2 D1 M1 G2 R1 S D1,2,D1,D1,0 1 0 -2 -3 -4 -5 0
+saveri,pair,sav_p003,"P D1 S R1 G2 R1 R1 ,",2,P,R1,"0 1 -4 -3 -2 -3 -3 ,"
+saveri,pair,sav_p004,"S , R1 , G2 , R1 G2",1,S,G2,"0 , 1 , 2 , 1 2"
+saveri,pair,sav_p005,"R1 , , , R1 G2 R1 R1",1,R1,R1,"0 , , , 0 1 0 0"
+saveri,pair,sav_p006,"S , S R1 S N2 D1 ,",1,S,D1,"0 , 0 1 0 6 5 ,"
+saveri,pair,sav_p007,S R1 P M1 G2 R1 S D1,1,S,D1,0 1 4 3 2 1 0 5
+saveri,pair,sav_p008,D1 M1 G2 R1 S D1 S R1,1,D1,R1,0 -2 -3 -4 -5 0 -5 -4
+saveri,pair,sav_p009,"M1 P D1 R1 S , M1 P",1,M1,P,"0 1 2 -2 -3 , 0 1"
+saveri,pair,sav_p010,D1 D1 P M1 P D1 R1 M1,1,D1,M1,0 0 -1 -2 -1 0 -4 -2
+saveri,pair,sav_p011,"P D1 M1 , G2 R1 S R1",1,P,R1,"0 1 -1 , -2 -3 -4 -3"
+saveri,pair,sav_p012,R1 S N2 D1 N2 D1 P D1,1,R1,D1,0 -1 5 4 5 4 3 4
+saveri,pair,sav_p013,"P M1 P D1 S , , ,",1,P,S,"0 -1 0 1 -4 , , ,"
+saveri,pair,sav_p014,"R1 S , N2 D1 P D1 M1",1,R1,M1,"0 -1 , 5 4 3 4 2"
+saveri,pair,sav_p015,", G2 R1 S S , N2 D1",1,G2,D1,", 0 -1 -2 -2 , 4 3"
+saveri,pair,sav_p016,"S , R1 G2 R1 S R1 ,",1,S,R1,"0 , 1 2 1 0 1 ,"
+saveri,pair,sav_p017,S G2 R1 S N2 D1 P D1,1,S,D1,0 2 1 0 6 5 4 5
+saveri,pair,sav_p018,"R1 , S G2 R1 G2 S R1",1,R1,R1,"0 , -1 1 0 1 -1 0"
+saveri,pair,sav_p019,"D1 S R1 M1 P , , D1",1,D1,D1,"0 -5 -4 -2 -1 , , 0"
+saveri,pair,sav_p020,"D1 P M1 R1 , M1 P D1",1,D1,D1,"0 -1 -2 -4 , -2 -1 0"
+saveri,pair,sav_p021,S R1 S P M1 D1 P N2,1,S,N2,0 1 0 4 3 5 4 6
+saveri,pair,sav_p022,D1 N2 P D1 M1 P S R1,1,D1,R1,0 1 -1 0 -2 -1 -5 -4
+saveri,pair,sav_p023,"M1 P D1 N2 D1 , , ,",1,M1,D1,"0 1 2 3 2 , , ,"
+saveri,pair,sav_p024,"N2 D1 P M1 , P S N2",1,N2,N2,"0 -1 -2 -3 , -2 -6 0"
+saveri,pair,sav_p025,"D1 P , D1 R1 S N2 D1",1,D1,D1,"0 -1 , 0 -4 -5 1 0"
+saveri,pair,sav_p026,"P , M1 D1 , P N2 D1",1,P,D1,"0 , -1 1 , 0 2 1"
+saveri,pair,sav_p027,D1 G2 R1 S N2 D1 D1 S,1,D1,S,0 -3 -4 -5 1 0 0 -5
+saveri,pair,sav_p028,"N2 D1 P M1 G2 R1 , S",1,N2,S,"0 -1 -2 -3 -4 -5 , -6"
+saveri,pair,sav_p029,"G2 R1 , S N2 D1 R1 S",1,G2,S,"0 -1 , -2 4 3 -1 -2"
+saveri,pair,sav_p030,"D1 , , M1 P D1 S ,",1,D1,S,"0 , , -2 -1 0 -5 ,"
+saveri,pair,sav_p031,"R1 , , R1 S R1 M1 P",1,R1,P,"0 , , 0 -1 0 2 3"
+saveri,pair,sav_p032,", D1 P N2 D1 P M1 P",1,D1,P,", 0 -1 1 0 -1 -2 -1"
+saveri,pair,sav_p033,"D1 , , P , , D1 ,",1,D1,D1,"0 , , -1 , , 0 ,"
+saveri,pair,sav_p034,"P , M1 , G2 , R1 ,",1,P,R1,"0 , -1 , -2 , -3 ,"
+saveri,pair,sav_p035,"M1 , , P , , D1 ,",1,M1,D1,"0 , , 1 , , 2 ,"
+saveri,pair,sav_p036,", N2 , D1 , P , M1",1,N2,M1,", 0 , -1 , -2 , -3"
+saveri,pair,sav_p037,"D1 , N2 P D1 P M1 P",1,D1,P,"0 , 1 -1 0 -1 -2 -1"
+saveri,pair,sav_p038,"S , R1 M1 P D1 S R1",1,S,R1,"0 , 1 3 4 5 0 1"
+saveri,pair,sav_p039,"M1 P , M1 N2 D1 P M1",1,M1,M1,"0 1 , 0 3 2 1 0"
+saveri,pair,sav_p040,D1 N2 D1 M1 G2 R1 N2 D1,1,D1,D1,0 1 0 -2 -3 -4 1 0
+saveri,pair,sav_p041,M1 G2 R1 S D1 M1 G2 R1,1,M1,R1,0 -1 -2 -3 2 0 -1 -2
+saveri,pair,sav_p042,S G2 R1 S N2 D1 R1 S,1,S,S,0 2 1 0 6 5 1 0
+saveri,pair,sav_p043,N2 D1 P D1 S R1 M1 P,1,N2,P,0 -1 -2 -1 -6 -5 -3 -2
+saveri,pair,sav_p044,D1 M1 P D1 S N2 D1 R1,1,D1,R1,0 -2 -1 0 -5 1 0 -4
+saveri,pair,sav_p045,S N2 D1 P D1 S R1 G2,1,S,G2,0 6 5 4 5 0 1 2
+saveri,pair,sav_p046,D1 S R1 P D1 S M1 P,1,D1,P,0 -5 -4 -1 0 -5 -2 -1
+saveri,pair,sav_p047,D1 G2 R1 S N2 D1 P M1,1,D1,M1,0 -3 -4 -5 1 0 -1 -2
+saveri,pair,sav_p048,"S , , , , , R1 S",1,S,S,"0 , , , , , 1 0"
+saveri,pair,sav_p049,"S , , , , , P M1",1,S,M1,"0 , , , , , 4 3"
+saveri,pair,sav_p050,D1 P N2 D1 P M1 P D1,1,D1,D1,0 -1 1 0 -1 -2 -1 0
+saveri,pair,sav_p051,"S N2 D1 P , D1 N2 D1",1,S,D1,"0 6 5 4 , 5 6 5"
+saveri,pair,sav_p052,"P M1 , P D1 M1 G2 R1",1,P,R1,"0 -1 , 0 1 -1 -2 -3"
+saveri,pair,sav_p053,N2 D1 P M1 S N2 D1 P,1,N2,P,0 -1 -2 -3 -6 0 -1 -2
+saveri,pair,sav_p054,"R1 S N2 D1 , P , D1",1,R1,D1,"0 -1 5 4 , 3 , 4"
+saveri,pair,sav_p055,"M1 G2 R1 S , , D1 S",1,M1,S,"0 -1 -2 -3 , , 2 -3"
+saveri,pair,sav_p056,"R1 M1 , P R1 M1 P D1",1,R1,D1,"0 2 , 3 0 2 3 4"
+saveri,pair,sav_p057,P M1 P D1 S M1 P D1,1,P,D1,0 -1 0 1 -4 -1 0 1
+saveri,pair,sav_p058,"S R1 G2 R1 , S N2 D1",1,S,D1,"0 1 2 1 , 0 6 5"
+saveri,pair,sav_p059,"R1 S , N2 D1 P D1 P",1,R1,P,"0 -1 , 5 4 3 4 3"
+saveri,pair,sav_p060,", M1 G2 R1 M1 P D1 S",1,M1,S,", 0 -1 -2 0 1 2 -3"
+saveri,pair,sav_p061,"R1 G2 R1 S N2 D1 P ,",1,R1,P,"0 1 0 -1 5 4 3 ,"
+saveri,pair,sav_p062,"M1 G2 R1 S , R1 M1 P",1,M1,P,"0 -1 -2 -3 , -2 0 1"
+saveri,half,sav_h000,"S , R1 , G2 , R1 G2 R1 , , , R1 G2 R1 R1",1,S,R1,"0 , 1 , 2 , 1 2 1 , , , 1 2 1 1"
+saveri,half,sav_h001,"S , S R1 S N2 D1 , G2 R1 R1 G2 R1 S N2 D1",1,S,D1,"0 , 0 1 0 6 5 , 2 1 1 2 1 0 6 5"
+saveri,half,sav_h002,S R1 P M1 G2 R1 S D1 D1 M1 G2 R1 S D1 S R1,1,S,R1,0 1 4 3 2 1 0 5 5 3 2 1 0 5 0 1
+saveri,half,sav_h003,"M1 P D1 R1 S , M1 P D1 N2 D1 M1 G2 R1 S D1",1,M1,D1,"0 1 2 -2 -3 , 0 1 2 3 2 0 -1 -2 -3 2"
+saveri,half,sav_h004,"D1 D1 P M1 P D1 R1 M1 P D1 M1 , G2 R1 S R1",1,D1,R1,"0 0 -1 -2 -1 0 -4 -2 -1 0 -2 , -3 -4 -5 -4"
+saveri,half,sav_h005,"R1 S N2 D1 N2 D1 P D1 P M1 P D1 S , , ,",1,R1,S,"0 -1 5 4 5 4 3 4 3 2 3 4 -1 , , ,"
+saveri,half,sav_h006,"P D1 S R1 G2 R1 R1 , G2 R1 R1 G2 R1 S N2 D1",1,P,D1,"0 1 -4 -3 -2 -3 -3 , -2 -3 -3 -2 -3 -4 2 1"
+saveri,half,sav_h007,"R1 S , N2 D1 P D1 M1 , G2 R1 S S , N2 D1",1,R1,D1,"0 -1 , 5 4 3 4 2 , 1 0 -1 -1 , 5 4"
+saveri,half,sav_h008,"S , R1 G2 R1 S R1 , S G2 R1 S N2 D1 P D1",1,S,D1,"0 , 1 2 1 0 1 , 0 2 1 0 6 5 4 5"
+saveri,half,sav_h009,"R1 , S G2 R1 G2 S R1 D1 S R1 M1 P , , D1",1,R1,D1,"0 , -1 1 0 1 -1 0 4 -1 0 2 3 , , 4"
+saveri,half,sav_h010,"D1 P M1 R1 , M1 P D1 S R1 S P M1 D1 P N2",1,D1,N2,"0 -1 -2 -4 , -2 -1 0 -5 -4 -5 -1 -2 0 -1 1"
+saveri,half,sav_h011,"D1 N2 P D1 M1 P S R1 M1 P D1 N2 D1 , , ,",1,D1,D1,"0 1 -1 0 -2 -1 -5 -4 -2 -1 0 1 0 , , ,"
+saveri,half,sav_h012,"N2 D1 P M1 , P S N2 D1 P , D1 R1 S N2 D1",1,N2,D1,"0 -1 -2 -3 , -2 -6 0 -1 -2 , -1 -5 -6 0 -1"
+saveri,half,sav_h013,"P , M1 D1 , P N2 D1 P D1 S R1 G2 R1 R1 ,",1,P,R1,"0 , -1 1 , 0 2 1 0 1 -4 -3 -2 -3 -3 ,"
+saveri,half,sav_h014,"D1 G2 R1 S N2 D1 D1 S N2 D1 P M1 G2 R1 , S",1,D1,S,"0 -3 -4 -5 1 0 0 -5 1 0 -1 -2 -3 -4 , -5"
+saveri,half,sav_h015,"G2 R1 , S N2 D1 R1 S N2 D1 P M1 G2 R1 S D1",1,G2,D1,"0 -1 , -2 4 3 -1 -2 4 3 2 1 0 -1 -2 3"
+saveri,half,sav_h016,"D1 , , M1 P D1 S , N2 D1 P M1 G2 R1 S D1",1,D1,D1,"0 , , -2 -1 0 -5 , 1 0 -1 -2 -3 -4 -5 0"
+saveri,half,sav_h017,"R1 , , R1 S R1 M1 P , D1 P N2 D1 P M1 P",1,R1,P,"0 , , 0 -1 0 2 3 , 4 3 5 4 3 2 3"
+saveri,half,sav_h018,"D1 , , P , , D1 , P , M1 , G2 , R1 ,",1,D1,R1,"0 , , -1 , , 0 , -1 , -2 , -3 , -4 ,"
+saveri,half,sav_h019,"M1 , , P , , D1 , , N2 , D1 , P , M1",1,M1,M1,"0 , , 1 , , 2 , , 3 , 2 , 1 , 0"
+saveri,half,sav_h020,"D1 , N2 P D1 P M1 P D1 N2 D1 M1 G2 R1 S D1",1,D1,D1,"0 , 1 -1 0 -1 -2 -1 0 1 0 -2 -3 -4 -5 0"
+saveri,half,sav_h021,"S , R1 M1 P D1 S R1 M1 P , M1 N2 D1 P M1",1,S,M1,"0 , 1 3 4 5 0 1 3 4 , 3 6 5 4 3"
+saveri,half,sav_h022,D1 N2 D1 M1 G2 R1 N2 D1 M1 G2 R1 S D1 M1 G2 R1,1,D1,R1,0 1 0 -2 -3 -4 1 0 -2 -3 -4 -5 0 -2 -3 -4
+saveri,half,sav_h023,S G2 R1 S N2 D1 R1 S N2 D1 P D1 S R1 M1 P,1,S,P,0 2 1 0 6 5 1 0 6 5 4 5 0 1 3 4
+saveri,half,sav_h024,D1 M1 P D1 S N2 D1 R1 S N2 D1 P D1 S R1 G2,1,D1,G2,0 -2 -1 0 -5 1 0 -4 -5 1 0 -1 0 -5 -4 -3
+saveri,half,sav_h025,D1 S R1 P D1 S M1 P D1 G2 R1 S N2 D1 P M1,1,D1,M1,0 -5 -4 -1 0 -5 -2 -1 0 -3 -4 -5 1 0 -1 -2
+saveri,half,sav_h026,"S , , , , , R1 S N2 D1 P M1 G2 R1 S D1",1,S,D1,"0 , , , , , 1 0 6 5 4 3 2 1 0 5"
+saveri,half,sav_h027,"S , , , , , P M1 D1 P N2 D1 P M1 P D1",1,S,D1,"0 , , , , , 4 3 5 4 6 5 4 3 4 5"
+saveri,half,sav_h028,"S N2 D1 P , D1 N2 D1 P M1 , P D1 M1 G2 R1",1,S,R1,"0 6 5 4 , 5 6 5 4 3 , 4 5 3 2 1"
+saveri,half,sav_h029,"N2 D1 P M1 S N2 D1 P R1 S N2 D1 , P , D1",1,N2,D1,"0 -1 -2 -3 -6 0 -1 -2 -5 -6 0 -1 , -2 , -1"
+saveri,half,sav_h030,"M1 G2 R1 S , , D1 S R1 M1 , P R1 M1 P D1",1,M1,D1,"0 -1 -2 -3 , , 2 -3 -2 0 , 1 -2 0 1 2"
+saveri,half,sav_h031,"P M1 P D1 S M1 P D1 S R1 G2 R1 , S N2 D1",1,P,D1,"0 -1 0 1 -4 -1 0 1 -4 -3 -2 -3 , -4 2 1"
+saveri,half,sav_h032,"R1 S , N2 D1 P D1 P , M1 G2 R1 M1 P D1 S",1,R1,S,"0 -1 , 5 4 3 4 3 , 2 1 0 2 3 4 -1"
+saveri,half,sav_h033,"R1 G2 R1 S N2 D1 P , M1 G2 R1 S , R1 M1 P",1,R1,P,"0 1 0 -1 5 4 3 , 2 1 0 -1 , 0 2 3"
+sri,cell,sri_c000,R2 M1 P N2,14,R2,N2,0 2 3 5
+sri,cell,sri_c001,R2 G2 R2 S,9,R2,S,0 1 0 -1
+sri,cell,sri_c002,"S , , ,",7,S,S,"0 , , ,"
+sri,cell,sri_c003,P N2 S R2,6,P,R2,0 2 -4 -3
+sri,cell,sri_c004,"N2 , S R2",5,N2,R2,"0 , -6 -5"
+sri,cell,sri_c005,"S N2 , P",4,S,P,"0 6 , 4"
+sri,cell,sri_c006,", , S N2",4,S,N2,", , 0 6"
+sri,cell,sri_c007,R2 R2 G2 R2,3,R2,R2,0 0 1 0
+sri,cell,sri_c008,"N2 , P M1",3,N2,M1,"0 , -2 -3"
+sri,cell,sri_c009,M1 R2 G2 R2,2,M1,R2,0 -2 -1 -2
+sri,cell,sri_c010,", , N2 S",2,N2,S,", , 0 -6"
+sri,cell,sri_c011,"R2 G2 , R2",2,R2,R2,"0 1 , 0"
+sri,cell,sri_c012,N2 S R2 G2,2,N2,G2,0 -6 -5 -4
+sri,cell,sri_c013,"R2 S , N2",2,R2,N2,"0 -1 , 5"
+sri,cell,sri_c014,"G2 R2 , S",2,G2,S,"0 -1 , -2"
+sri,cell,sri_c015,"N2 , , ,",2,N2,N2,"0 , , ,"
+sri,cell,sri_c016,"P M1 , R2",2,P,R2,"0 -1 , -3"
+sri,cell,sri_c017,G2 R2 S R2,2,G2,R2,0 -1 -2 -1
+sri,cell,sri_c018,P M1 N2 P,2,P,P,0 -1 2 0
+sri,cell,sri_c019,D N2 P M1,2,D,M1,0 1 -1 -2
+sri,cell,sri_c020,R2 S S N2,2,R2,N2,0 -1 -1 5
+sri,cell,sri_c021,"S , N2 S",2,S,S,"0 , 6 0"
+sri,cell,sri_c022,P M1 R2 G2,2,P,G2,0 -1 -3 -2
+sri,cell,sri_c023,M1 P R2 G2,2,M1,G2,0 1 -2 -1
+sri,cell,sri_c024,"R2 N2 , S",2,R2,S,"0 5 , -1"
+sri,cell,sri_c025,"P , , P",1,P,P,"0 , , 0"
+sri,cell,sri_c026,N2 S R2 N2,1,N2,N2,0 -6 -5 0
+sri,cell,sri_c027,"P M1 , N2",1,P,N2,"0 -1 , 2"
+sri,cell,sri_c028,P N2 P M1,1,P,M1,0 2 0 -1
+sri,cell,sri_c029,", , M1 R2",1,M1,R2,", , 0 -2"
+sri,cell,sri_c030,S N2 P M1,1,S,M1,0 6 4 3
+sri,cell,sri_c031,", R2 S R2",1,R2,R2,", 0 -1 0"
+sri,cell,sri_c032,"N2 S , N2",1,N2,N2,"0 -6 , 0"
+sri,cell,sri_c033,"P , P M1",1,P,M1,"0 , 0 -1"
+sri,cell,sri_c034,N2 P N2 N2,1,N2,N2,0 -2 0 0
+sri,cell,sri_c035,"S , S N2",1,S,N2,"0 , 0 6"
+sri,cell,sri_c036,N2 P N2 S,1,N2,S,0 -2 0 -6
+sri,cell,sri_c037,S N2 R2 S,1,S,S,0 6 1 0
+sri,cell,sri_c038,G2 R2 S N2,1,G2,N2,0 -1 -2 4
+sri,cell,sri_c039,"N2 P , M1",1,N2,M1,"0 -2 , -3"
+sri,cell,sri_c040,", , R2 ,",1,R2,R2,", , 0 ,"
+sri,cell,sri_c041,"N2 , P ,",1,N2,P,"0 , -2 ,"
+sri,cell,sri_c042,"M1 , , R2",1,M1,R2,"0 , , -2"
+sri,cell,sri_c043,"G2 , R2 ,",1,G2,R2,"0 , -1 ,"
+sri,cell,sri_c044,"S , S ,",1,S,S,"0 , 0 ,"
+sri,cell,sri_c045,"R2 , M1 ,",1,R2,M1,"0 , 2 ,"
+sri,cell,sri_c046,"P , N2 ,",1,P,N2,"0 , 2 ,"
+sri,cell,sri_c047,P M1 P N2,1,P,N2,0 -1 0 2
+sri,cell,sri_c048,S R2 N2 S,1,S,S,0 1 6 0
+sri,cell,sri_c049,"M1 , , ,",1,M1,M1,"0 , , ,"
+sri,cell,sri_c050,", , P N2",1,P,N2,", , 0 2"
+sri,cell,sri_c051,G2 R2 R2 G2,1,G2,G2,0 -1 -1 0
+sri,cell,sri_c052,R2 R2 S N2,1,R2,N2,0 0 -1 5
+sri,cell,sri_c053,"P N2 S ,",1,P,S,"0 2 -4 ,"
+sri,cell,sri_c054,"R2 , N2 ,",1,R2,N2,"0 , 5 ,"
+sri,cell,sri_c055,R2 S N2 S,1,R2,S,0 -1 5 -1
+sri,cell,sri_c056,G2 R2 R2 S,1,G2,S,0 -1 -1 -2
+sri,cell,sri_c057,P M1 R2 S,1,P,S,0 -1 -3 -4
+sri,cell,sri_c058,M1 P N2 P,1,M1,P,0 1 3 1
+sri,cell,sri_c059,N2 S N2 P,1,N2,P,0 -6 0 -2
+sri,cell,sri_c060,", , S R2",1,S,R2,", , 0 1"
+sri,cell,sri_c061,N2 S P N2,1,N2,N2,0 -6 -2 0
+sri,cell,sri_c062,"S R2 S ,",1,S,S,"0 1 0 ,"
+sri,cell,sri_c063,N2 N2 S R2,1,N2,R2,0 0 -6 -5
+sri,cell,sri_c064,S R2 M1 R2,1,S,R2,0 1 3 1
+sri,cell,sri_c065,S R2 G2 N2,1,S,N2,0 1 2 6
+sri,cell,sri_c066,S R2 P N2,1,S,N2,0 1 4 6
+sri,cell,sri_c067,S M1 P N2,1,S,N2,0 3 4 6
+sri,cell,sri_c068,R2 M1 P S,1,R2,S,0 2 3 -1
+sri,cell,sri_c069,R2 M1 N2 S,1,R2,S,0 2 5 -1
+sri,cell,sri_c070,S R2 G2 R2,1,S,R2,0 1 2 1
+sri,cell,sri_c071,P N2 M1 P,1,P,P,0 2 -1 0
+sri,cell,sri_c072,"N2 M1 , P",1,N2,P,"0 -3 , -2"
+sri,cell,sri_c073,N2 S R2 S,1,N2,S,0 -6 -5 -6
+sri,pair,sri_p000,R2 G2 R2 S R2 M1 P N2,7,R2,N2,0 1 0 -1 0 2 3 5
+sri,pair,sri_p001,"S , , , , , N2 S",2,S,S,"0 , , , , , 6 0"
+sri,pair,sri_p002,"N2 , , , , , S N2",2,N2,N2,"0 , , , , , -6 0"
+sri,pair,sri_p003,"P M1 , R2 G2 R2 S R2",2,P,R2,"0 -1 , -3 -2 -3 -4 -3"
+sri,pair,sri_p004,"S N2 , P D N2 P M1",2,S,M1,"0 6 , 4 5 6 4 3"
+sri,pair,sri_p005,"P , , P M1 R2 G2 R2",1,P,R2,"0 , , 0 -1 -3 -2 -3"
+sri,pair,sri_p006,"S N2 , P N2 S R2 N2",1,S,N2,"0 6 , 4 6 0 1 6"
+sri,pair,sri_p007,"P M1 , N2 P N2 P M1",1,P,M1,"0 -1 , 2 0 2 0 -1"
+sri,pair,sri_p008,"R2 G2 , R2 N2 S R2 G2",1,R2,G2,"0 1 , 0 5 -1 0 1"
+sri,pair,sri_p009,"R2 S , N2 P N2 S R2",1,R2,R2,"0 -1 , 5 3 5 -1 0"
+sri,pair,sri_p010,"G2 R2 , S R2 M1 P N2",1,G2,N2,"0 -1 , -2 -1 1 2 4"
+sri,pair,sri_p011,"S , , , , , M1 R2",1,S,R2,"0 , , , , , 3 1"
+sri,pair,sri_p012,P M1 N2 P S N2 P M1,1,P,M1,0 -1 2 0 -4 2 0 -1
+sri,pair,sri_p013,"N2 S R2 G2 , R2 S R2",1,N2,R2,"0 -6 -5 -4 , -5 -6 -5"
+sri,pair,sri_p014,"N2 S , N2 P N2 S R2",1,N2,R2,"0 -6 , 0 -2 0 -6 -5"
+sri,pair,sri_p015,"P , P M1 R2 R2 G2 R2",1,P,R2,"0 , 0 -1 -3 -3 -2 -3"
+sri,pair,sri_p016,R2 S S N2 N2 P N2 N2,1,R2,N2,0 -1 -1 5 5 3 5 5
+sri,pair,sri_p017,"S , S N2 N2 P N2 S",1,S,S,"0 , 0 6 6 4 6 0"
+sri,pair,sri_p018,P M1 N2 P S N2 R2 S,1,P,S,0 -1 2 0 -4 2 -3 -4
+sri,pair,sri_p019,G2 R2 S N2 P N2 S R2,1,G2,R2,0 -1 -2 4 2 4 -2 -1
+sri,pair,sri_p020,"G2 R2 , S N2 P , M1",1,G2,M1,"0 -1 , -2 4 2 , 1"
+sri,pair,sri_p021,"S , , , , , S N2",1,S,N2,"0 , , , , , 0 6"
+sri,pair,sri_p022,"S , , , S , N2 S",1,S,S,"0 , , , 0 , 6 0"
+sri,pair,sri_p023,"S , , , , , R2 ,",1,S,R2,"0 , , , , , 1 ,"
+sri,pair,sri_p024,"N2 , P , M1 , , R2",1,N2,R2,"0 , -2 , -3 , , -5"
+sri,pair,sri_p025,"G2 , R2 , S , S ,",1,G2,S,"0 , -1 , -2 , -2 ,"
+sri,pair,sri_p026,"R2 , M1 , P , N2 ,",1,R2,N2,"0 , 2 , 3 , 5 ,"
+sri,pair,sri_p027,"P M1 R2 G2 R2 S , N2",1,P,N2,"0 -1 -3 -2 -3 -4 , 2"
+sri,pair,sri_p028,", , S N2 P M1 P N2",1,S,N2,", , 0 6 4 3 4 6"
+sri,pair,sri_p029,S R2 N2 S R2 M1 P N2,1,S,N2,0 1 6 0 1 3 4 6
+sri,pair,sri_p030,"M1 , , , , , P N2",1,M1,N2,"0 , , , , , 1 3"
+sri,pair,sri_p031,M1 P R2 G2 R2 R2 G2 R2,1,M1,R2,0 1 -2 -1 -2 -2 -1 -2
+sri,pair,sri_p032,P N2 S R2 G2 R2 R2 G2,1,P,G2,0 2 -4 -3 -2 -3 -3 -2
+sri,pair,sri_p033,"R2 R2 S N2 P N2 S ,",1,R2,S,"0 0 -1 5 3 5 -1 ,"
+sri,pair,sri_p034,"R2 , N2 , P M1 R2 G2",1,R2,G2,"0 , 5 , 3 2 0 1"
+sri,pair,sri_p035,R2 S N2 S R2 M1 P N2,1,R2,N2,0 -1 5 -1 0 2 3 5
+sri,pair,sri_p036,"N2 , P M1 R2 G2 R2 S",1,N2,S,"0 , -2 -3 -5 -4 -5 -6"
+sri,pair,sri_p037,"N2 , P M1 P N2 S R2",1,N2,R2,"0 , -2 -3 -2 0 -6 -5"
+sri,pair,sri_p038,"N2 , S R2 G2 R2 R2 S",1,N2,S,"0 , -6 -5 -4 -5 -5 -6"
+sri,pair,sri_p039,"N2 , S R2 M1 R2 G2 R2",1,N2,R2,"0 , -6 -5 -3 -5 -4 -5"
+sri,pair,sri_p040,"N2 , S R2 P M1 R2 S",1,N2,S,"0 , -6 -5 -2 -3 -5 -6"
+sri,pair,sri_p041,"N2 , S R2 M1 P N2 P",1,N2,P,"0 , -6 -5 -3 -2 0 -2"
+sri,pair,sri_p042,"N2 , S R2 N2 S N2 P",1,N2,P,"0 , -6 -5 0 -6 0 -2"
+sri,pair,sri_p043,"N2 , P M1 R2 M1 P N2",1,N2,N2,"0 , -2 -3 -5 -3 -2 0"
+sri,pair,sri_p044,"S , , , , , S R2",1,S,R2,"0 , , , , , 0 1"
+sri,pair,sri_p045,N2 S P N2 M1 P R2 G2,1,N2,G2,0 -6 -2 0 -3 -2 -5 -4
+sri,pair,sri_p046,"R2 R2 G2 R2 S , N2 S",1,R2,S,"0 0 1 0 -1 , 5 -1"
+sri,pair,sri_p047,"R2 G2 , R2 S R2 S ,",1,R2,S,"0 1 , 0 -1 0 -1 ,"
+sri,pair,sri_p048,"S N2 , P N2 N2 S R2",1,S,R2,"0 6 , 4 6 6 0 1"
+sri,pair,sri_p049,S R2 M1 R2 R2 M1 P N2,1,S,N2,0 1 3 1 1 3 4 6
+sri,pair,sri_p050,S R2 G2 N2 S R2 P N2,1,S,N2,0 1 2 6 0 1 4 6
+sri,pair,sri_p051,S M1 P N2 R2 M1 P S,1,S,S,0 3 4 6 1 3 4 0
+sri,pair,sri_p052,R2 M1 N2 S R2 M1 P N2,1,R2,N2,0 2 5 -1 0 2 3 5
+sri,pair,sri_p053,S R2 G2 R2 R2 S S N2,1,S,N2,0 1 2 1 1 0 0 6
+sri,pair,sri_p054,"R2 N2 , S P N2 M1 P",1,R2,P,"0 5 , -1 3 5 2 3"
+sri,pair,sri_p055,"N2 M1 , P R2 G2 R2 S",1,N2,S,"0 -3 , -2 -5 -4 -5 -6"
+sri,pair,sri_p056,"R2 N2 , S P N2 S R2",1,R2,R2,"0 5 , -1 3 5 -1 0"
+sri,pair,sri_p057,N2 S R2 S R2 M1 P N2,1,N2,N2,0 -6 -5 -6 -5 -3 -2 0
+sri,half,sri_h000,"S , , , , , N2 S R2 G2 R2 S R2 M1 P N2",2,S,N2,"0 , , , , , 6 0 1 2 1 0 1 3 4 6"
+sri,half,sri_h001,"P , , P M1 R2 G2 R2 S N2 , P N2 S R2 N2",1,P,N2,"0 , , 0 -1 -3 -2 -3 -4 2 , 0 2 -4 -3 2"
+sri,half,sri_h002,"P M1 , N2 P N2 P M1 R2 G2 , R2 N2 S R2 G2",1,P,G2,"0 -1 , 2 0 2 0 -1 -3 -2 , -3 2 -4 -3 -2"
+sri,half,sri_h003,"R2 S , N2 P N2 S R2 G2 R2 , S R2 M1 P N2",1,R2,N2,"0 -1 , 5 3 5 -1 0 1 0 , -1 0 2 3 5"
+sri,half,sri_h004,"N2 , , , , , S N2 P M1 , R2 G2 R2 S R2",1,N2,R2,"0 , , , , , -6 0 -2 -3 , -5 -4 -5 -6 -5"
+sri,half,sri_h005,"S , , , , , M1 R2 P M1 N2 P S N2 P M1",1,S,M1,"0 , , , , , 3 1 4 3 6 4 0 6 4 3"
+sri,half,sri_h006,"N2 S R2 G2 , R2 S R2 N2 S , N2 P N2 S R2",1,N2,R2,"0 -6 -5 -4 , -5 -6 -5 0 -6 , 0 -2 0 -6 -5"
+sri,half,sri_h007,"S N2 , P D N2 P M1 R2 G2 R2 S R2 M1 P N2",1,S,N2,"0 6 , 4 5 6 4 3 1 2 1 0 1 3 4 6"
+sri,half,sri_h008,"P , P M1 R2 R2 G2 R2 R2 S S N2 N2 P N2 N2",1,P,N2,"0 , 0 -1 -3 -3 -2 -3 -3 -4 -4 2 2 0 2 2"
+sri,half,sri_h009,"S , S N2 N2 P N2 S R2 G2 R2 S R2 M1 P N2",1,S,N2,"0 , 0 6 6 4 6 0 1 2 1 0 1 3 4 6"
+sri,half,sri_h010,P M1 N2 P S N2 R2 S G2 R2 S N2 P N2 S R2,1,P,R2,0 -1 2 0 -4 2 -3 -4 -2 -3 -4 2 0 2 -4 -3
+sri,half,sri_h011,"G2 R2 , S N2 P , M1 R2 G2 R2 S R2 M1 P N2",1,G2,N2,"0 -1 , -2 4 2 , 1 -1 0 -1 -2 -1 1 2 4"
+sri,half,sri_h012,"S , , , , , S N2 P M1 , R2 G2 R2 S R2",1,S,R2,"0 , , , , , 0 6 4 3 , 1 2 1 0 1"
+sri,half,sri_h013,"S , , , S , N2 S R2 G2 R2 S R2 M1 P N2",1,S,N2,"0 , , , 0 , 6 0 1 2 1 0 1 3 4 6"
+sri,half,sri_h014,"S , , , , , R2 , N2 , P , M1 , , R2",1,S,R2,"0 , , , , , 1 , 6 , 4 , 3 , , 1"
+sri,half,sri_h015,"G2 , R2 , S , S , R2 , M1 , P , N2 ,",1,G2,N2,"0 , -1 , -2 , -2 , -1 , 1 , 2 , 4 ,"
+sri,half,sri_h016,"N2 , , , , , S N2 P M1 R2 G2 R2 S , N2",1,N2,N2,"0 , , , , , -6 0 -2 -3 -5 -4 -5 -6 , 0"
+sri,half,sri_h017,", , S N2 P M1 P N2 S R2 N2 S R2 M1 P N2",1,S,N2,", , 0 6 4 3 4 6 0 1 6 0 1 3 4 6"
+sri,half,sri_h018,"M1 , , , , , P N2 M1 P R2 G2 R2 R2 G2 R2",1,M1,R2,"0 , , , , , 1 3 0 1 -2 -1 -2 -2 -1 -2"
+sri,half,sri_h019,"P N2 S R2 G2 R2 R2 G2 R2 R2 S N2 P N2 S ,",1,P,S,"0 2 -4 -3 -2 -3 -3 -2 -3 -3 -4 2 0 2 -4 ,"
+sri,half,sri_h020,"R2 , N2 , P M1 R2 G2 R2 S N2 S R2 M1 P N2",1,R2,N2,"0 , 5 , 3 2 0 1 0 -1 5 -1 0 2 3 5"
+sri,half,sri_h021,"N2 , P M1 R2 G2 R2 S N2 , P M1 P N2 S R2",1,N2,R2,"0 , -2 -3 -5 -4 -5 -6 0 , -2 -3 -2 0 -6 -5"
+sri,half,sri_h022,"N2 , S R2 G2 R2 R2 S N2 , S R2 M1 R2 G2 R2",1,N2,R2,"0 , -6 -5 -4 -5 -5 -6 0 , -6 -5 -3 -5 -4 -5"
+sri,half,sri_h023,"N2 , S R2 P M1 R2 S N2 , S R2 M1 P N2 P",1,N2,P,"0 , -6 -5 -2 -3 -5 -6 0 , -6 -5 -3 -2 0 -2"
+sri,half,sri_h024,"N2 , S R2 N2 S N2 P N2 , P M1 R2 M1 P N2",1,N2,N2,"0 , -6 -5 0 -6 0 -2 0 , -2 -3 -5 -3 -2 0"
+sri,half,sri_h025,"S , , , , , S R2 N2 S P N2 M1 P R2 G2",1,S,G2,"0 , , , , , 0 1 6 0 4 6 3 4 1 2"
+sri,half,sri_h026,"R2 R2 G2 R2 S , N2 S R2 G2 R2 S R2 M1 P N2",1,R2,N2,"0 0 1 0 -1 , 5 -1 0 1 0 -1 0 2 3 5"
+sri,half,sri_h027,"S N2 , P D N2 P M1 R2 G2 , R2 S R2 S ,",1,S,S,"0 6 , 4 5 6 4 3 1 2 , 1 0 1 0 ,"
+sri,half,sri_h028,"S N2 , P N2 N2 S R2 S R2 M1 R2 R2 M1 P N2",1,S,N2,"0 6 , 4 6 6 0 1 0 1 3 1 1 3 4 6"
+sri,half,sri_h029,S R2 G2 N2 S R2 P N2 S M1 P N2 R2 M1 P S,1,S,S,0 1 2 6 0 1 4 6 0 3 4 6 1 3 4 0
+sri,half,sri_h030,R2 M1 N2 S R2 M1 P N2 S R2 G2 R2 R2 S S N2,1,R2,N2,0 2 5 -1 0 2 3 5 -1 0 1 0 0 -1 -1 5
+sri,half,sri_h031,"R2 N2 , S P N2 M1 P N2 M1 , P R2 G2 R2 S",1,R2,S,"0 5 , -1 3 5 2 3 5 2 , 3 0 1 0 -1"
+sri,half,sri_h032,"R2 N2 , S P N2 S R2 N2 S R2 S R2 M1 P N2",1,R2,N2,"0 5 , -1 3 5 -1 0 5 -1 0 -1 0 2 3 5"

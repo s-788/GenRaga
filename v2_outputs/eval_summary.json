@@ -1,0 +1,15 @@
+{
+ "pieces": 18,
+ "pitch_err_median_cents": 0.8242334188600119,
+ "pitch_err_p90": 8.643541669105774,
+ "pitch_acc_within_50c": 0.9746283876306365,
+ "voiced": 0.975772862501617,
+ "length_ratio": 1.0251428571428571,
+ "id40_tracked": 0.9444444444444444,
+ "id3_tracked": 1.0,
+ "id3_intended": 1.0,
+ "new_3cell_windows": 0.2777777777777778,
+ "longest_verbatim_cells_mean": 11.277777777777779,
+ "longest_verbatim_cells_max": 16,
+ "cells_per_piece": 56.0
+}

@@ -1,0 +1,4 @@
+# abhogi C-MODE seed0  {'f1_raga': np.float64(0.987), 'f2_gamaka_proxy': np.float64(0.979), 'f3_tala': np.float64(0.869), 'f4_diversity': np.float64(0.969)}
+# one line per avartanam (Adi tala, | = akshara)
+S   R2  S   S   | S   R2  S   S   | S   R2  G1  M1  | D2  S^  R2^ S^  | D2  M1  G1  R2  | G1  R2^ S^  R2^ | S^  D2  ,   M1  | ,   M1  R2  G1 
+R2  ,   S   ,   | ,   ,   R2  ,   | G1  M1  D2  S^  | R2^ G1^ R2^ R2^ | S^  G1^ R2^ S^  | S^  D2  M1  D2  | D2  M1  D2  ,   | ,   ,   S   ,  

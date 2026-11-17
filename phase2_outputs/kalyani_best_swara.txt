@@ -1,0 +1,4 @@
+# kalyani C-MODE seed0  {'f1_raga': np.float64(0.784), 'f2_gamaka_proxy': np.float64(0.991), 'f3_tala': np.float64(0.978), 'f4_diversity': np.float64(1.0)}
+# one line per avartanam (Adi tala, | = akshara)
+P   N2  D2  P   | M2  G2  M2  G2  | ,   M2  D2  ,   | ,   R2  S   N2  | P   ,   M2  G2  | D2  ,   ,   ,   | S   ,   ,   ,   | ,   ,   S   D2 
+M2  G2  R2  G2  | M2  G2  R2  S   | D2  P   D2  M2  | G2  R2  S   N2  | D2  N2  P   D2  | P   N2  D2  R2  | N2  S   ,   R2  | R2  S   N2  P  

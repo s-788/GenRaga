@@ -1,0 +1,90 @@
+{
+  "operation": "Descriptive reanalysis of saved records; no model runs",
+  "standard_deviation": "Sample SD, ddof=1, across five seeds",
+  "sources_sha256": {
+    "v2_outputs/v2_runs.csv": "3a8afdaa2b9bf4b12a0fe017fc70b72185d90090901db0b4a43990af7774b9cc",
+    "v2_outputs/eval_pieces.csv": "b97ecc27e3c841a3d179242f9b8ce1b34cf0b00a77a420d0659400582701402b",
+    "v2_outputs/eval_summary.json": "183f0b44e03758d26776d0a47349ed7a24b3060b97ea863fad11cd457a1a3679",
+    "corpus_data/alignment_report.json": "46fac74683cd0c6c5d711699a7fab6a205ecf184ba79b9dd1c7582368fe14b47",
+    "corpus_data/gamaka_eval.json": "12b408fe2ba38323df230c2f96c5d4fd64d15b24af711c9f8d9c73c1762f5cdf",
+    "carnatic_unified/recordings.csv": "e1cf1686fa95fade2cd7781468195db381e095626889125f5234500c2e68f4cc",
+    "phase1_outputs/phase1_metrics.csv": "f1fdf36c8572d3fafe1a426186b48cb6f9f6445cc420da5998dca8b4dd95a19f"
+  },
+  "comparisons": [
+    {
+      "raga": "mohanam",
+      "mode": "strict",
+      "relative_hv_gain_over_random_percent": -1.4816181278137996,
+      "wins_over_random": 1,
+      "wins_over_ga": 5
+    },
+    {
+      "raga": "kalyani",
+      "mode": "strict",
+      "relative_hv_gain_over_random_percent": -2.7730539918583985,
+      "wins_over_random": 0,
+      "wins_over_ga": 5
+    },
+    {
+      "raga": "abhogi",
+      "mode": "strict",
+      "relative_hv_gain_over_random_percent": 3.2968003350540176,
+      "wins_over_random": 5,
+      "wins_over_ga": 5
+    },
+    {
+      "raga": "mohanam",
+      "mode": "balanced",
+      "relative_hv_gain_over_random_percent": 8.082197606631802,
+      "wins_over_random": 5,
+      "wins_over_ga": 4
+    },
+    {
+      "raga": "kalyani",
+      "mode": "balanced",
+      "relative_hv_gain_over_random_percent": 7.963953873325202,
+      "wins_over_random": 5,
+      "wins_over_ga": 1
+    },
+    {
+      "raga": "abhogi",
+      "mode": "balanced",
+      "relative_hv_gain_over_random_percent": 7.88674266393754,
+      "wins_over_random": 5,
+      "wins_over_ga": 4
+    }
+  ],
+  "audio": [
+    {
+      "raga": "mohanam",
+      "n": 6,
+      "correct_full_classifier": 5,
+      "mean_piece_median_error_cents": 0.7898388247125278,
+      "mean_piece_p90_error_cents": 8.18847874530823,
+      "mean_pitch_accuracy_50c": 0.9755758819360356,
+      "mean_new_3cell": 0.30246913580246915,
+      "max_verbatim_cells": 10
+    },
+    {
+      "raga": "kalyani",
+      "n": 6,
+      "correct_full_classifier": 6,
+      "mean_piece_median_error_cents": 0.7900569109702266,
+      "mean_piece_p90_error_cents": 8.264720218539377,
+      "mean_pitch_accuracy_50c": 0.9751676181224788,
+      "mean_new_3cell": 0.22530864197530864,
+      "max_verbatim_cells": 9
+    },
+    {
+      "raga": "abhogi",
+      "n": 6,
+      "correct_full_classifier": 6,
+      "mean_piece_median_error_cents": 0.8928045208972814,
+      "mean_piece_p90_error_cents": 9.477426043469713,
+      "mean_pitch_accuracy_50c": 0.9731416628333951,
+      "mean_new_3cell": 0.3055555555555555,
+      "max_verbatim_cells": 16
+    }
+  ],
+  "overall_pitch_error_mean_of_piece_medians": 0.8242334188600119
+}

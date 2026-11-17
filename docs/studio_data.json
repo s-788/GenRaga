@@ -1,0 +1,142 @@
+{
+  "mohanam": {
+    "violin": {
+      "audio_file": "audio/mohanam_violin.mp3",
+      "swara_text": "G2  ,   G2  ,   | G2  P   G2  R2  | R2  G2  P   G2  | P   ,   ,   ,   | G2  P   D2  P   | D2  S^  R2^ G2^ | R2^ ,   G2^ S^  | ,   R2^ D2  ,  \nS^  P   ,   D2  | S   R2  G2  S   | ,   D2  P   ,   | G2  R2  S   R2  | G2  G2  P   P   | D2  P   D2  S^  | D2  D2  P   G2  | D2  P   G2  R2 \nG2  ,   G2  ,   | G2  P   G2  R2  | R2  G2  P   G2  | P   ,   ,   ,   | G2  G2  D2  D2  | P   ,   G2  G2  | D2  P   G2  P   | G2  R2  S   R2 \nS   ,   ,   ,   | R2  ,   ,   ,   | S   S   R2  R2  | G2  G2  R2  R2  | S   R2  G2  R2  | S   R2  S   D2  | S   R2  G2  P   | G2  R2  S   R2 \nG2  ,   R2  G2  | R2  S   R2  ,   | S   R2  S   G2  | R2  G2  S   R2  | S   D2  S   R2  | G2  R2  G2  P   | G2  P   D2  ,   | P   ,   ,   ,  \nG2  G2  P   P   | D2  P   D2  S^  | D2  S^  R2^ S^  | G2^ R2^ ,   S^  | D2  S^  R2^ S^  | ,   D2  P   D2  | S^  D2  ,   P   | G2  R2  S   R2 \nG2  ,   G2  ,   | R2  ,   ,   ,   | S   S   R2  R2  | G2  G2  R2  R2  | S   R2  G2  R2  | S   R2  S   D2  | S   R2  G2  P   | G2  R2  S   R2 ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    },
+    "veena": {
+      "audio_file": "audio/mohanam_veena.mp3",
+      "swara_text": "G2  ,   G2  ,   | G2  P   G2  R2  | R2  G2  P   G2  | P   ,   ,   ,   | G2  P   D2  P   | D2  S^  R2^ G2^ | R2^ ,   G2^ S^  | ,   R2^ D2  ,  \nS^  P   ,   D2  | S   R2  G2  S   | ,   D2  P   ,   | G2  R2  S   R2  | G2  G2  P   P   | D2  P   D2  S^  | D2  D2  P   G2  | D2  P   G2  R2 \nG2  ,   G2  ,   | G2  P   G2  R2  | R2  G2  P   G2  | P   ,   ,   ,   | G2  G2  D2  D2  | P   ,   G2  G2  | D2  P   G2  P   | G2  R2  S   R2 \nS   ,   ,   ,   | R2  ,   ,   ,   | S   S   R2  R2  | G2  G2  R2  R2  | S   R2  G2  R2  | S   R2  S   D2  | S   R2  G2  P   | G2  R2  S   R2 \nG2  ,   R2  G2  | R2  S   R2  ,   | S   R2  S   G2  | R2  G2  S   R2  | S   D2  S   R2  | G2  R2  G2  P   | G2  P   D2  ,   | P   ,   ,   ,  \nG2  G2  P   P   | D2  P   D2  S^  | D2  S^  R2^ S^  | G2^ R2^ ,   S^  | D2  S^  R2^ S^  | ,   D2  P   D2  | S^  D2  ,   P   | G2  R2  S   R2 \nG2  ,   G2  ,   | R2  ,   ,   ,   | S   S   R2  R2  | G2  G2  R2  R2  | S   R2  G2  R2  | S   R2  S   D2  | S   R2  G2  P   | G2  R2  S   R2 ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    },
+    "tone": {
+      "audio_file": "audio/mohanam_tone.mp3",
+      "swara_text": "G2  ,   G2  ,   | G2  P   G2  R2  | R2  G2  P   G2  | P   ,   ,   ,   | G2  P   D2  P   | D2  S^  R2^ G2^ | R2^ ,   G2^ S^  | ,   R2^ D2  ,  \nS^  P   ,   D2  | S   R2  G2  S   | ,   D2  P   ,   | G2  R2  S   R2  | G2  G2  P   P   | D2  P   D2  S^  | D2  D2  P   G2  | D2  P   G2  R2 \nG2  ,   G2  ,   | G2  P   G2  R2  | R2  G2  P   G2  | P   ,   ,   ,   | G2  G2  D2  D2  | P   ,   G2  G2  | D2  P   G2  P   | G2  R2  S   R2 \nS   ,   ,   ,   | R2  ,   ,   ,   | S   S   R2  R2  | G2  G2  R2  R2  | S   R2  G2  R2  | S   R2  S   D2  | S   R2  G2  P   | G2  R2  S   R2 \nG2  ,   R2  G2  | R2  S   R2  ,   | S   R2  S   G2  | R2  G2  S   R2  | S   D2  S   R2  | G2  R2  G2  P   | G2  P   D2  ,   | P   ,   ,   ,  \nG2  G2  P   P   | D2  P   D2  S^  | D2  S^  R2^ S^  | G2^ R2^ ,   S^  | D2  S^  R2^ S^  | ,   D2  P   D2  | S^  D2  ,   P   | G2  R2  S   R2 \nG2  ,   G2  ,   | R2  ,   ,   ,   | S   S   R2  R2  | G2  G2  R2  R2  | S   R2  G2  R2  | S   R2  S   D2  | S   R2  G2  P   | G2  R2  S   R2 ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    }
+  },
+  "kalyani": {
+    "violin": {
+      "audio_file": "audio/kalyani_violin.mp3",
+      "swara_text": "S   S   ,   S   | N2  D2  R2  S   | N2  N2  D2  D2  | P   M2  G2  M2  | P   D2  N2  D2  | ,   R2  S   N2  | D2  P   M2  G2  | ,   M2  P   D2 \nM2  ,   P   D2  | N2  P   ,   D2  | N2  S   R2  ,   | S   N2  D2  N2  | D2  G2  R2  S   | N2  D2  P   N2  | D2  P   M2  G2  | M2  P   D2  N2 \nP   ,   M2  G2  | ,   R2  S   N2  | D2  P   M2  G2  | ,   M2  P   D2  | M2  ,   P   D2  | N2  P   ,   D2  | N2  S   R2  ,   | S   N2  D2  N2 \nD2  G2  R2  N2  | ,   R2  N2  ,   | S   D2  ,   N2  | P   D2  N2  S   | G2  R2  S   ,   | N2  D2  P   ,   | M2  G2  R2  G2  | M2  P   D2  N2 \nN2  ,   ,   ,   | ,   ,   S   N2  | D2  P   M2  G2  | ,   M2  P   D2  | M2  ,   P   D2  | N2  P   ,   D2  | N2  S   R2  ,   | S   N2  D2  N2 \nD2  G2  R2  N2  | ,   R2  N2  ,   | S   D2  ,   N2  | P   D2  N2  S   | G2  R2  S   ,   | N2  D2  P   ,   | M2  G2  R2  G2  | M2  P   D2  N2 \nN2  ,   ,   ,   | ,   ,   S   D2  | S   N2  D2  P   | M2  G2  M2  ,   | P   ,   ,   ,   | ,   ,   M2  P   | D2  N2  P   D2  | N2  D2  R2  S  ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    },
+    "veena": {
+      "audio_file": "audio/kalyani_veena.mp3",
+      "swara_text": "S   S   ,   S   | N2  D2  R2  S   | N2  N2  D2  D2  | P   M2  G2  M2  | P   D2  N2  D2  | ,   R2  S   N2  | D2  P   M2  G2  | ,   M2  P   D2 \nM2  ,   P   D2  | N2  P   ,   D2  | N2  S   R2  ,   | S   N2  D2  N2  | D2  G2  R2  S   | N2  D2  P   N2  | D2  P   M2  G2  | M2  P   D2  N2 \nP   ,   M2  G2  | ,   R2  S   N2  | D2  P   M2  G2  | ,   M2  P   D2  | M2  ,   P   D2  | N2  P   ,   D2  | N2  S   R2  ,   | S   N2  D2  N2 \nD2  G2  R2  N2  | ,   R2  N2  ,   | S   D2  ,   N2  | P   D2  N2  S   | G2  R2  S   ,   | N2  D2  P   ,   | M2  G2  R2  G2  | M2  P   D2  N2 \nN2  ,   ,   ,   | ,   ,   S   N2  | D2  P   M2  G2  | ,   M2  P   D2  | M2  ,   P   D2  | N2  P   ,   D2  | N2  S   R2  ,   | S   N2  D2  N2 \nD2  G2  R2  N2  | ,   R2  N2  ,   | S   D2  ,   N2  | P   D2  N2  S   | G2  R2  S   ,   | N2  D2  P   ,   | M2  G2  R2  G2  | M2  P   D2  N2 \nN2  ,   ,   ,   | ,   ,   S   D2  | S   N2  D2  P   | M2  G2  M2  ,   | P   ,   ,   ,   | ,   ,   M2  P   | D2  N2  P   D2  | N2  D2  R2  S  ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    },
+    "tone": {
+      "audio_file": "audio/kalyani_tone.mp3",
+      "swara_text": "S   S   ,   S   | N2  D2  R2  S   | N2  N2  D2  D2  | P   M2  G2  M2  | P   D2  N2  D2  | ,   R2  S   N2  | D2  P   M2  G2  | ,   M2  P   D2 \nM2  ,   P   D2  | N2  P   ,   D2  | N2  S   R2  ,   | S   N2  D2  N2  | D2  G2  R2  S   | N2  D2  P   N2  | D2  P   M2  G2  | M2  P   D2  N2 \nP   ,   M2  G2  | ,   R2  S   N2  | D2  P   M2  G2  | ,   M2  P   D2  | M2  ,   P   D2  | N2  P   ,   D2  | N2  S   R2  ,   | S   N2  D2  N2 \nD2  G2  R2  N2  | ,   R2  N2  ,   | S   D2  ,   N2  | P   D2  N2  S   | G2  R2  S   ,   | N2  D2  P   ,   | M2  G2  R2  G2  | M2  P   D2  N2 \nN2  ,   ,   ,   | ,   ,   S   N2  | D2  P   M2  G2  | ,   M2  P   D2  | M2  ,   P   D2  | N2  P   ,   D2  | N2  S   R2  ,   | S   N2  D2  N2 \nD2  G2  R2  N2  | ,   R2  N2  ,   | S   D2  ,   N2  | P   D2  N2  S   | G2  R2  S   ,   | N2  D2  P   ,   | M2  G2  R2  G2  | M2  P   D2  N2 \nN2  ,   ,   ,   | ,   ,   S   D2  | S   N2  D2  P   | M2  G2  M2  ,   | P   ,   ,   ,   | ,   ,   M2  P   | D2  N2  P   D2  | N2  D2  R2  S  ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    }
+  },
+  "abhogi": {
+    "violin": {
+      "audio_file": "audio/abhogi_violin.mp3",
+      "swara_text": "R2  ,   G1  ,   | G1  R2  S   ,   | S   R2  S   S   | D2  M1  D2  ,   | M1  D2  S   D2  | ,   S   D2  S   | R2  G1  ,   M1  | G1  G1  R2  S  \nR2  G1  M1  G1  | ,   M1  R2  G1  | S   R2  ,   D2  | S   R2  G1  M1  | D2  M1  D2  S^  | ,   S^  D2  S^  | D2  M1  ,   G1  | M1  G1  R2  S  \nS^  S^  D2  D2  | ,   M1  D2  D2  | M1  G1  ,   R2  | G1  M1  R2  G1  | S   R2  G1  M1  | D2  M1  D2  S^  | ,   S^  D2  S^  | D2  M1  ,   G1 \nM1  G1  R2  S   | R2  G1  M1  G1  | ,   M1  R2  G1  | S   R2  ,   D2  | S   R2  G1  M1  | ,   M1  D2  M1  | G1  R2  ,   G1  | M1  G1  R2  S  \nM1^ G1^ R2^ G1^ | ,   R2^ S^  D2  | R2^ S^  ,   D2  | M1  G1  R2  S   | R2  G1  M1  G1  | ,   M1  D2  M1  | G1  R2  G1  M1  | D2  D2  S^  ,  \nD2  S^  R2^ S^  | ,   R2^ G1  M1^ | R2^ G1^ ,   M1  | G1^ G1^ R2^ S^  | R2^ G1^ R2^ S^  | R2^ D2  R2^ S^  | S^  D2  M1  D2  | M1  G1  R2  S  \nG1  S   R2  S   | R2  G1  M1  D2  | ,   S^  R2^ G1^ | S^  R2^ ,   R2^ | S^  D2  M1  D2  | M1  G1  R2  S   | R2  G1  M1  G1  | ,   M1  R2  G1 ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    },
+    "veena": {
+      "audio_file": "audio/abhogi_veena.mp3",
+      "swara_text": "R2  ,   G1  ,   | G1  R2  S   ,   | S   R2  S   S   | D2  M1  D2  ,   | M1  D2  S   D2  | ,   S   D2  S   | R2  G1  ,   M1  | G1  G1  R2  S  \nR2  G1  M1  G1  | ,   M1  R2  G1  | S   R2  ,   D2  | S   R2  G1  M1  | D2  M1  D2  S^  | ,   S^  D2  S^  | D2  M1  ,   G1  | M1  G1  R2  S  \nS^  S^  D2  D2  | ,   M1  D2  D2  | M1  G1  ,   R2  | G1  M1  R2  G1  | S   R2  G1  M1  | D2  M1  D2  S^  | ,   S^  D2  S^  | D2  M1  ,   G1 \nM1  G1  R2  S   | R2  G1  M1  G1  | ,   M1  R2  G1  | S   R2  ,   D2  | S   R2  G1  M1  | ,   M1  D2  M1  | G1  R2  ,   G1  | M1  G1  R2  S  \nM1^ G1^ R2^ G1^ | ,   R2^ S^  D2  | R2^ S^  ,   D2  | M1  G1  R2  S   | R2  G1  M1  G1  | ,   M1  D2  M1  | G1  R2  G1  M1  | D2  D2  S^  ,  \nD2  S^  R2^ S^  | ,   R2^ G1  M1^ | R2^ G1^ ,   M1  | G1^ G1^ R2^ S^  | R2^ G1^ R2^ S^  | R2^ D2  R2^ S^  | S^  D2  M1  D2  | M1  G1  R2  S  \nG1  S   R2  S   | R2  G1  M1  D2  | ,   S^  R2^ G1^ | S^  R2^ ,   R2^ | S^  D2  M1  D2  | M1  G1  R2  S   | R2  G1  M1  G1  | ,   M1  R2  G1 ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    },
+    "tone": {
+      "audio_file": "audio/abhogi_tone.mp3",
+      "swara_text": "R2  ,   G1  ,   | G1  R2  S   ,   | S   R2  S   S   | D2  M1  D2  ,   | M1  D2  S   D2  | ,   S   D2  S   | R2  G1  ,   M1  | G1  G1  R2  S  \nR2  G1  M1  G1  | ,   M1  R2  G1  | S   R2  ,   D2  | S   R2  G1  M1  | D2  M1  D2  S^  | ,   S^  D2  S^  | D2  M1  ,   G1  | M1  G1  R2  S  \nS^  S^  D2  D2  | ,   M1  D2  D2  | M1  G1  ,   R2  | G1  M1  R2  G1  | S   R2  G1  M1  | D2  M1  D2  S^  | ,   S^  D2  S^  | D2  M1  ,   G1 \nM1  G1  R2  S   | R2  G1  M1  G1  | ,   M1  R2  G1  | S   R2  ,   D2  | S   R2  G1  M1  | ,   M1  D2  M1  | G1  R2  ,   G1  | M1  G1  R2  S  \nM1^ G1^ R2^ G1^ | ,   R2^ S^  D2  | R2^ S^  ,   D2  | M1  G1  R2  S   | R2  G1  M1  G1  | ,   M1  D2  M1  | G1  R2  G1  M1  | D2  D2  S^  ,  \nD2  S^  R2^ S^  | ,   R2^ G1  M1^ | R2^ G1^ ,   M1  | G1^ G1^ R2^ S^  | R2^ G1^ R2^ S^  | R2^ D2  R2^ S^  | S^  D2  M1  D2  | M1  G1  R2  S  \nG1  S   R2  S   | R2  G1  M1  D2  | ,   S^  R2^ G1^ | S^  R2^ ,   R2^ | S^  D2  M1  D2  | M1  G1  R2  S   | R2  G1  M1  G1  | ,   M1  R2  G1 ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    }
+  },
+  "begada": {
+    "violin": {
+      "audio_file": "audio/begada_violin.mp3",
+      "swara_text": "S   ,   D2  D2  | P   N2  N2  D2  | M1  P   D2  N2  | D2  P   M1  ,   | G2  R2  S   ,   | ,   G2  R2  G2  | M1  P   M1  G2  | M1  P   D2  P  \nS^  ,   N2  R2^ | ,   S^  R2^ N2  | D2  P   S^  N2  | D2  R2^ S^  ,   | P   D2  P   N2  | ,   D2  ,   P   | M1  ,   G2  ,   | R2  G2  M1  P  \nS   ,   D2  D2  | P   N2  N2  D2  | M1  P   D2  N2  | D2  P   M1  ,   | G2  R2  S   ,   | ,   G2  R2  G2  | M1  P   M1  G2  | M1  P   D2  P  \nS^  ,   N2  R2^ | ,   S^  R2^ N2  | D2  P   S^  N2  | D2  R2^ S^  ,   | P   D2  P   N2  | ,   D2  ,   P   | M1  ,   G2  ,   | R2  G2  M1  P  \nM1  D2  ,   P   | S^  N2  D2  P   | S^  N2  D2  R2^ | S^  ,   ,   ,   | P   D2  P   S^  | N2  S^  G2^ R2^ | G2^ M1^ G2^ M1^ | R2^ ,   P^  M1^\nR2^ ,   ,   R2^ | S^  N2  D2  D2  | P   S^  ,   N2  | D2  N2  S^  R2  | R2^ S^  ,   N2  | P   D2  N2  ,   | D2  P   M1  G2  | R2  G2  M1  P  \nR2^ S^  N2  N2  | ,   D2  P   M1  | G2  R2  ,   G2  | ,   M1  P   D2  | P   ,   M1  G2  | ,   R2  P   M1  | G2  ,   R2  S   | ,   N2  D2  P  \nS   N2  G2  R2  | G2  ,   ,   ,   | R2  S   M1  G2  | ,   M1  G2  R2  | S   N2  R2  S   | ,   R2  N2  D2  | P   D2  P   S   | ,   N2  R2  S  \nG2  R2  G2  M1  | P   ,   ,   M1  | G2  R2  S   ,   | R2  N2  D2  D2  | P   P   S   ,   | S   ,   N2  S   | G2  R2  G2  ,   | M1  ,   M1  ,  \nG2  R2  G2  M1  | P   ,   M1  D2  | ,   P   S^  N2  | D2  P   S^  N2  | R2^ ,   S^  N2  | D2  P   P   ,   | M1  G2  R2  S   | N2  D2  P   R2 \nG2  M1  P   M1  | D2  P   S^  N2  | R2^ ,   S^  N2  | D2  P   P   ,   | M1  G2  R2  S   | G2  R2  G2  M1  | P   ,   ,   M1  | ,   D2  M1  ,  ",
+      "tokens_count": 352,
+      "curve_coverage": 99.7
+    },
+    "veena": {
+      "audio_file": "audio/begada_veena.mp3",
+      "swara_text": "S   ,   D2  D2  | P   N2  N2  D2  | M1  P   D2  N2  | D2  P   M1  ,   | G2  R2  S   ,   | ,   G2  R2  G2  | M1  P   M1  G2  | M1  P   D2  P  \nS^  ,   N2  R2^ | ,   S^  R2^ N2  | D2  P   S^  N2  | D2  R2^ S^  ,   | P   D2  P   N2  | ,   D2  ,   P   | M1  ,   G2  ,   | R2  G2  M1  P  \nS   ,   D2  D2  | P   N2  N2  D2  | M1  P   D2  N2  | D2  P   M1  ,   | G2  R2  S   ,   | ,   G2  R2  G2  | M1  P   M1  G2  | M1  P   D2  P  \nS^  ,   N2  R2^ | ,   S^  R2^ N2  | D2  P   S^  N2  | D2  R2^ S^  ,   | P   D2  P   N2  | ,   D2  ,   P   | M1  ,   G2  ,   | R2  G2  M1  P  \nM1  D2  ,   P   | S^  N2  D2  P   | S^  N2  D2  R2^ | S^  ,   ,   ,   | P   D2  P   S^  | N2  S^  G2^ R2^ | G2^ M1^ G2^ M1^ | R2^ ,   P^  M1^\nR2^ ,   ,   R2^ | S^  N2  D2  D2  | P   S^  ,   N2  | D2  N2  S^  R2  | R2^ S^  ,   N2  | P   D2  N2  ,   | D2  P   M1  G2  | R2  G2  M1  P  \nR2^ S^  N2  N2  | ,   D2  P   M1  | G2  R2  ,   G2  | ,   M1  P   D2  | P   ,   M1  G2  | ,   R2  P   M1  | G2  ,   R2  S   | ,   N2  D2  P  \nS   N2  G2  R2  | G2  ,   ,   ,   | R2  S   M1  G2  | ,   M1  G2  R2  | S   N2  R2  S   | ,   R2  N2  D2  | P   D2  P   S   | ,   N2  R2  S  \nG2  R2  G2  M1  | P   ,   ,   M1  | G2  R2  S   ,   | R2  N2  D2  D2  | P   P   S   ,   | S   ,   N2  S   | G2  R2  G2  ,   | M1  ,   M1  ,  \nG2  R2  G2  M1  | P   ,   M1  D2  | ,   P   S^  N2  | D2  P   S^  N2  | R2^ ,   S^  N2  | D2  P   P   ,   | M1  G2  R2  S   | N2  D2  P   R2 \nG2  M1  P   M1  | D2  P   S^  N2  | R2^ ,   S^  N2  | D2  P   P   ,   | M1  G2  R2  S   | G2  R2  G2  M1  | P   ,   ,   M1  | ,   D2  M1  ,  ",
+      "tokens_count": 352,
+      "curve_coverage": 99.7
+    },
+    "tone": {
+      "audio_file": "audio/begada_tone.mp3",
+      "swara_text": "S   ,   D2  D2  | P   N2  N2  D2  | M1  P   D2  N2  | D2  P   M1  ,   | G2  R2  S   ,   | ,   G2  R2  G2  | M1  P   M1  G2  | M1  P   D2  P  \nS^  ,   N2  R2^ | ,   S^  R2^ N2  | D2  P   S^  N2  | D2  R2^ S^  ,   | P   D2  P   N2  | ,   D2  ,   P   | M1  ,   G2  ,   | R2  G2  M1  P  \nS   ,   D2  D2  | P   N2  N2  D2  | M1  P   D2  N2  | D2  P   M1  ,   | G2  R2  S   ,   | ,   G2  R2  G2  | M1  P   M1  G2  | M1  P   D2  P  \nS^  ,   N2  R2^ | ,   S^  R2^ N2  | D2  P   S^  N2  | D2  R2^ S^  ,   | P   D2  P   N2  | ,   D2  ,   P   | M1  ,   G2  ,   | R2  G2  M1  P  \nM1  D2  ,   P   | S^  N2  D2  P   | S^  N2  D2  R2^ | S^  ,   ,   ,   | P   D2  P   S^  | N2  S^  G2^ R2^ | G2^ M1^ G2^ M1^ | R2^ ,   P^  M1^\nR2^ ,   ,   R2^ | S^  N2  D2  D2  | P   S^  ,   N2  | D2  N2  S^  R2  | R2^ S^  ,   N2  | P   D2  N2  ,   | D2  P   M1  G2  | R2  G2  M1  P  \nR2^ S^  N2  N2  | ,   D2  P   M1  | G2  R2  ,   G2  | ,   M1  P   D2  | P   ,   M1  G2  | ,   R2  P   M1  | G2  ,   R2  S   | ,   N2  D2  P  \nS   N2  G2  R2  | G2  ,   ,   ,   | R2  S   M1  G2  | ,   M1  G2  R2  | S   N2  R2  S   | ,   R2  N2  D2  | P   D2  P   S   | ,   N2  R2  S  \nG2  R2  G2  M1  | P   ,   ,   M1  | G2  R2  S   ,   | R2  N2  D2  D2  | P   P   S   ,   | S   ,   N2  S   | G2  R2  G2  ,   | M1  ,   M1  ,  \nG2  R2  G2  M1  | P   ,   M1  D2  | ,   P   S^  N2  | D2  P   S^  N2  | R2^ ,   S^  N2  | D2  P   P   ,   | M1  G2  R2  S   | N2  D2  P   R2 \nG2  M1  P   M1  | D2  P   S^  N2  | R2^ ,   S^  N2  | D2  P   P   ,   | M1  G2  R2  S   | G2  R2  G2  M1  | P   ,   ,   M1  | ,   D2  M1  ,  ",
+      "tokens_count": 352,
+      "curve_coverage": 99.7
+    }
+  },
+  "sahana": {
+    "violin": {
+      "audio_file": "audio/sahana_violin.mp3",
+      "swara_text": "P   ,   ,   ,   | ,   ,   D2  P   | M1  G3  M1  R2  | ,   G3  M1  P   | N2  S   ,   R2  | G3  M1  P   M1  | D2  D2  N2  S   | R2  ,   R2  ,  \nG3  M1  R2  G3  | M1  P   M1  G3  | M1  R2  G3  R2  | S   R2  N2  S   | D2  N2  S   R2  | P   M1  G3  M1  | R2  ,   D2  P   | M1  G3  M1  R2 \nD2  N2  D2  D2  | P   P   D2  P   | P   M1  D2  P   | M1  G3  M1  R2  | G3  M1  P   M1  | D2  D2  N2  S   | R2  ,   R2  ,   | G3  M1  R2  G3 \nR2  S   N2  R2  | S   N2  S   N2  | D2  ,   N2  D2  | P   ,   ,   R2  | ,   ,   G3  M1  | P   M1  G3  M1  | R2  ,   D2  P   | M1  G3  M1  R2 \nP   ,   R2  R2  | ,   N2  S   R2  | G3  M1  P   M1  | D2  D2  N2  S   | R2  ,   R2  ,   | G3  M1  R2  G3  | R2  S   R2  ,   | G3  M1  P   ,  \nP   M1  G3  M1  | R2  G3  R2  S   | ,   R2  G3  M1  | P   M1  G3  M1  | R2  ,   D2  P   | M1  G3  M1  R2  | G3  M1  P   N2  | S   R2  G3  M1 \nP   ,   ,   P   | M1  G3  M1  ,   | ,   R2  G3  M1  | P   M1  G3  M1  | R2  ,   D2  P   | M1  G3  M1  R2  | G3  M1  P   M1  | D2  D2  N2  S  ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    },
+    "veena": {
+      "audio_file": "audio/sahana_veena.mp3",
+      "swara_text": "P   ,   ,   ,   | ,   ,   D2  P   | M1  G3  M1  R2  | ,   G3  M1  P   | N2  S   ,   R2  | G3  M1  P   M1  | D2  D2  N2  S   | R2  ,   R2  ,  \nG3  M1  R2  G3  | M1  P   M1  G3  | M1  R2  G3  R2  | S   R2  N2  S   | D2  N2  S   R2  | P   M1  G3  M1  | R2  ,   D2  P   | M1  G3  M1  R2 \nD2  N2  D2  D2  | P   P   D2  P   | P   M1  D2  P   | M1  G3  M1  R2  | G3  M1  P   M1  | D2  D2  N2  S   | R2  ,   R2  ,   | G3  M1  R2  G3 \nR2  S   N2  R2  | S   N2  S   N2  | D2  ,   N2  D2  | P   ,   ,   R2  | ,   ,   G3  M1  | P   M1  G3  M1  | R2  ,   D2  P   | M1  G3  M1  R2 \nP   ,   R2  R2  | ,   N2  S   R2  | G3  M1  P   M1  | D2  D2  N2  S   | R2  ,   R2  ,   | G3  M1  R2  G3  | R2  S   R2  ,   | G3  M1  P   ,  \nP   M1  G3  M1  | R2  G3  R2  S   | ,   R2  G3  M1  | P   M1  G3  M1  | R2  ,   D2  P   | M1  G3  M1  R2  | G3  M1  P   N2  | S   R2  G3  M1 \nP   ,   ,   P   | M1  G3  M1  ,   | ,   R2  G3  M1  | P   M1  G3  M1  | R2  ,   D2  P   | M1  G3  M1  R2  | G3  M1  P   M1  | D2  D2  N2  S  ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    },
+    "tone": {
+      "audio_file": "audio/sahana_tone.mp3",
+      "swara_text": "P   ,   ,   ,   | ,   ,   D2  P   | M1  G3  M1  R2  | ,   G3  M1  P   | N2  S   ,   R2  | G3  M1  P   M1  | D2  D2  N2  S   | R2  ,   R2  ,  \nG3  M1  R2  G3  | M1  P   M1  G3  | M1  R2  G3  R2  | S   R2  N2  S   | D2  N2  S   R2  | P   M1  G3  M1  | R2  ,   D2  P   | M1  G3  M1  R2 \nD2  N2  D2  D2  | P   P   D2  P   | P   M1  D2  P   | M1  G3  M1  R2  | G3  M1  P   M1  | D2  D2  N2  S   | R2  ,   R2  ,   | G3  M1  R2  G3 \nR2  S   N2  R2  | S   N2  S   N2  | D2  ,   N2  D2  | P   ,   ,   R2  | ,   ,   G3  M1  | P   M1  G3  M1  | R2  ,   D2  P   | M1  G3  M1  R2 \nP   ,   R2  R2  | ,   N2  S   R2  | G3  M1  P   M1  | D2  D2  N2  S   | R2  ,   R2  ,   | G3  M1  R2  G3  | R2  S   R2  ,   | G3  M1  P   ,  \nP   M1  G3  M1  | R2  G3  R2  S   | ,   R2  G3  M1  | P   M1  G3  M1  | R2  ,   D2  P   | M1  G3  M1  R2  | G3  M1  P   N2  | S   R2  G3  M1 \nP   ,   ,   P   | M1  G3  M1  ,   | ,   R2  G3  M1  | P   M1  G3  M1  | R2  ,   D2  P   | M1  G3  M1  R2  | G3  M1  P   M1  | D2  D2  N2  S  ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    }
+  },
+  "saveri": {
+    "violin": {
+      "audio_file": "audio/saveri_violin.mp3",
+      "swara_text": "S   ,   R1  ,   | G2  ,   R1  G2  | R1  ,   ,   ,   | R1  G2  R1  R1  | S   ,   S   R1  | S   N2  D1  ,   | G2  R1  R1  G2  | R1  S   N2  D1 \nS   R1  P   M1  | G2  R1  S   D1  | S   ,   R1  M1  | P   D1  S   R1  | G2  R1  R1  ,   | D1  G2  R1  S   | N2  D1  P   M1  | G2  R1  S   D1 \nD1  D1  P   M1  | P   D1  R1  M1  | P   D1  M1  ,   | G2  R1  S   R1  | R1  S   N2  D1  | R1  S   ,   N2  | D1  P   D1  P   | ,   M1  G2  R1 \nM1  P   D1  S   | R1  G2  R1  S   | N2  D1  P   ,   | M1  G2  R1  S   | D1  M1  G2  R1  | S   D1  S   R1  | M1  P   D1  R1  | S   ,   M1  P  \nS   ,   R1  G2  | R1  S   R1  ,   | S   G2  R1  S   | N2  D1  P   D1  | P   M1  P   D1  | S   N2  D1  P   | R1  S   N2  D1  | S   R1  P   M1 \nG2  R1  S   D1  | R1  ,   ,   R1  | S   R1  M1  P   | D1  M1  P   D1  | S   N2  D1  R1  | S   N2  D1  P   | ,   D1  N2  D1  | P   M1  ,   P  \nD1  M1  G2  R1  | N2  D1  P   M1  | G2  R1  S   D1  | S   ,   R1  M1  | P   D1  S   R1  | M1  P   ,   M1  | N2  D1  P   M1  | G2  R1  S   D1 \nS   ,   R1  M1  | P   D1  S   R1  | M1  P   ,   M1  | N2  D1  P   M1  | G2  R1  S   D1  | D1  M1  G2  R1  | N2  D1  P   M1  | G2  R1  S   D1 \nD1  ,   ,   M1  | P   D1  S   ,   | N2  D1  P   M1  | G2  R1  ,   S   | N2  D1  R1  S   | N2  D1  P   D1  | P   M1  P   D1  | S   M1  P   D1 ",
+      "tokens_count": 288,
+      "curve_coverage": 100.0
+    },
+    "veena": {
+      "audio_file": "audio/saveri_veena.mp3",
+      "swara_text": "S   ,   R1  ,   | G2  ,   R1  G2  | R1  ,   ,   ,   | R1  G2  R1  R1  | S   ,   S   R1  | S   N2  D1  ,   | G2  R1  R1  G2  | R1  S   N2  D1 \nS   R1  P   M1  | G2  R1  S   D1  | S   ,   R1  M1  | P   D1  S   R1  | G2  R1  R1  ,   | D1  G2  R1  S   | N2  D1  P   M1  | G2  R1  S   D1 \nD1  D1  P   M1  | P   D1  R1  M1  | P   D1  M1  ,   | G2  R1  S   R1  | R1  S   N2  D1  | R1  S   ,   N2  | D1  P   D1  P   | ,   M1  G2  R1 \nM1  P   D1  S   | R1  G2  R1  S   | N2  D1  P   ,   | M1  G2  R1  S   | D1  M1  G2  R1  | S   D1  S   R1  | M1  P   D1  R1  | S   ,   M1  P  \nS   ,   R1  G2  | R1  S   R1  ,   | S   G2  R1  S   | N2  D1  P   D1  | P   M1  P   D1  | S   N2  D1  P   | R1  S   N2  D1  | S   R1  P   M1 \nG2  R1  S   D1  | R1  ,   ,   R1  | S   R1  M1  P   | D1  M1  P   D1  | S   N2  D1  R1  | S   N2  D1  P   | ,   D1  N2  D1  | P   M1  ,   P  \nD1  M1  G2  R1  | N2  D1  P   M1  | G2  R1  S   D1  | S   ,   R1  M1  | P   D1  S   R1  | M1  P   ,   M1  | N2  D1  P   M1  | G2  R1  S   D1 \nS   ,   R1  M1  | P   D1  S   R1  | M1  P   ,   M1  | N2  D1  P   M1  | G2  R1  S   D1  | D1  M1  G2  R1  | N2  D1  P   M1  | G2  R1  S   D1 \nD1  ,   ,   M1  | P   D1  S   ,   | N2  D1  P   M1  | G2  R1  ,   S   | N2  D1  R1  S   | N2  D1  P   D1  | P   M1  P   D1  | S   M1  P   D1 ",
+      "tokens_count": 288,
+      "curve_coverage": 100.0
+    },
+    "tone": {
+      "audio_file": "audio/saveri_tone.mp3",
+      "swara_text": "S   ,   R1  ,   | G2  ,   R1  G2  | R1  ,   ,   ,   | R1  G2  R1  R1  | S   ,   S   R1  | S   N2  D1  ,   | G2  R1  R1  G2  | R1  S   N2  D1 \nS   R1  P   M1  | G2  R1  S   D1  | S   ,   R1  M1  | P   D1  S   R1  | G2  R1  R1  ,   | D1  G2  R1  S   | N2  D1  P   M1  | G2  R1  S   D1 \nD1  D1  P   M1  | P   D1  R1  M1  | P   D1  M1  ,   | G2  R1  S   R1  | R1  S   N2  D1  | R1  S   ,   N2  | D1  P   D1  P   | ,   M1  G2  R1 \nM1  P   D1  S   | R1  G2  R1  S   | N2  D1  P   ,   | M1  G2  R1  S   | D1  M1  G2  R1  | S   D1  S   R1  | M1  P   D1  R1  | S   ,   M1  P  \nS   ,   R1  G2  | R1  S   R1  ,   | S   G2  R1  S   | N2  D1  P   D1  | P   M1  P   D1  | S   N2  D1  P   | R1  S   N2  D1  | S   R1  P   M1 \nG2  R1  S   D1  | R1  ,   ,   R1  | S   R1  M1  P   | D1  M1  P   D1  | S   N2  D1  R1  | S   N2  D1  P   | ,   D1  N2  D1  | P   M1  ,   P  \nD1  M1  G2  R1  | N2  D1  P   M1  | G2  R1  S   D1  | S   ,   R1  M1  | P   D1  S   R1  | M1  P   ,   M1  | N2  D1  P   M1  | G2  R1  S   D1 \nS   ,   R1  M1  | P   D1  S   R1  | M1  P   ,   M1  | N2  D1  P   M1  | G2  R1  S   D1  | D1  M1  G2  R1  | N2  D1  P   M1  | G2  R1  S   D1 \nD1  ,   ,   M1  | P   D1  S   ,   | N2  D1  P   M1  | G2  R1  ,   S   | N2  D1  R1  S   | N2  D1  P   D1  | P   M1  P   D1  | S   M1  P   D1 ",
+      "tokens_count": 288,
+      "curve_coverage": 100.0
+    }
+  },
+  "sri": {
+    "violin": {
+      "audio_file": "audio/sri_violin.mp3",
+      "swara_text": "P   ,   ,   P   | M1  R2  G2  R2  | N2  ,   S   R2  | N2  S   N2  P   | N2  ,   P   M1  | P   N2  S   R2  | S   N2  ,   P   | N2  S   R2  N2 \nS   ,   ,   ,   | ,   ,   S   R2  | N2  S   P   N2  | M1  P   R2  G2  | R2  R2  G2  R2  | S   ,   N2  S   | R2  G2  R2  S   | R2  M1  P   N2 \nN2  ,   ,   ,   | ,   ,   S   N2  | P   M1  R2  G2  | R2  S   N2  S   | R2  M1  P   N2  | P   N2  S   R2  | S   N2  ,   P   | N2  S   R2  N2 \nS   ,   ,   ,   | ,   ,   N2  S   | R2  G2  R2  S   | N2  ,   P   M1  | R2  M1  P   N2  | P   N2  S   R2  | G2  R2  ,   S   | R2  M1  P   N2 \nP   ,   P   M1  | R2  R2  G2  R2  | R2  S   S   N2  | R2  N2  ,   S   | P   N2  S   R2  | S   N2  ,   P   | N2  N2  S   R2  | S   R2  M1  R2 \nR2  M1  P   N2  | S   R2  G2  R2  | R2  S   S   N2  | N2  P   N2  N2  | S   ,   S   N2  | N2  P   N2  S   | R2  G2  R2  S   | R2  M1  P   N2 \nR2  ,   N2  ,   | P   M1  R2  G2  | R2  S   ,   N2  | P   N2  S   R2  | S   N2  ,   P   | N2  N2  S   R2  | S   R2  M1  R2  | R2  M1  P   N2 ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    },
+    "veena": {
+      "audio_file": "audio/sri_veena.mp3",
+      "swara_text": "P   ,   ,   P   | M1  R2  G2  R2  | N2  ,   S   R2  | N2  S   N2  P   | N2  ,   P   M1  | P   N2  S   R2  | S   N2  ,   P   | N2  S   R2  N2 \nS   ,   ,   ,   | ,   ,   S   R2  | N2  S   P   N2  | M1  P   R2  G2  | R2  R2  G2  R2  | S   ,   N2  S   | R2  G2  R2  S   | R2  M1  P   N2 \nN2  ,   ,   ,   | ,   ,   S   N2  | P   M1  R2  G2  | R2  S   N2  S   | R2  M1  P   N2  | P   N2  S   R2  | S   N2  ,   P   | N2  S   R2  N2 \nS   ,   ,   ,   | ,   ,   N2  S   | R2  G2  R2  S   | N2  ,   P   M1  | R2  M1  P   N2  | P   N2  S   R2  | G2  R2  ,   S   | R2  M1  P   N2 \nP   ,   P   M1  | R2  R2  G2  R2  | R2  S   S   N2  | R2  N2  ,   S   | P   N2  S   R2  | S   N2  ,   P   | N2  N2  S   R2  | S   R2  M1  R2 \nR2  M1  P   N2  | S   R2  G2  R2  | R2  S   S   N2  | N2  P   N2  N2  | S   ,   S   N2  | N2  P   N2  S   | R2  G2  R2  S   | R2  M1  P   N2 \nR2  ,   N2  ,   | P   M1  R2  G2  | R2  S   ,   N2  | P   N2  S   R2  | S   N2  ,   P   | N2  N2  S   R2  | S   R2  M1  R2  | R2  M1  P   N2 ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    },
+    "tone": {
+      "audio_file": "audio/sri_tone.mp3",
+      "swara_text": "P   ,   ,   P   | M1  R2  G2  R2  | N2  ,   S   R2  | N2  S   N2  P   | N2  ,   P   M1  | P   N2  S   R2  | S   N2  ,   P   | N2  S   R2  N2 \nS   ,   ,   ,   | ,   ,   S   R2  | N2  S   P   N2  | M1  P   R2  G2  | R2  R2  G2  R2  | S   ,   N2  S   | R2  G2  R2  S   | R2  M1  P   N2 \nN2  ,   ,   ,   | ,   ,   S   N2  | P   M1  R2  G2  | R2  S   N2  S   | R2  M1  P   N2  | P   N2  S   R2  | S   N2  ,   P   | N2  S   R2  N2 \nS   ,   ,   ,   | ,   ,   N2  S   | R2  G2  R2  S   | N2  ,   P   M1  | R2  M1  P   N2  | P   N2  S   R2  | G2  R2  ,   S   | R2  M1  P   N2 \nP   ,   P   M1  | R2  R2  G2  R2  | R2  S   S   N2  | R2  N2  ,   S   | P   N2  S   R2  | S   N2  ,   P   | N2  N2  S   R2  | S   R2  M1  R2 \nR2  M1  P   N2  | S   R2  G2  R2  | R2  S   S   N2  | N2  P   N2  N2  | S   ,   S   N2  | N2  P   N2  S   | R2  G2  R2  S   | R2  M1  P   N2 \nR2  ,   N2  ,   | P   M1  R2  G2  | R2  S   ,   N2  | P   N2  S   R2  | S   N2  ,   P   | N2  N2  S   R2  | S   R2  M1  R2  | R2  M1  P   N2 ",
+      "tokens_count": 224,
+      "curve_coverage": 100.0
+    }
+  }
+}

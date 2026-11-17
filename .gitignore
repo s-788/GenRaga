@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Build & OS caches
+.DS_Store
+.idea/
+*.log
+*.aux
+*.out
+docs_build/
+
+# Large raw datasets (referenced via manifests)
+carnatic/
+archive (1)/
+carnatic_varnam_1.1/Audio/
