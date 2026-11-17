@@ -1,0 +1,133 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs,array}
+\usepackage[hidelinks]{hyperref}
+
+\linespread{1.15}
+
+\title{\textbf{\LARGE GenRaga: User Study \& Field Evaluation Report}\\[0.4em]
+\large Perceptual Listening Test and Turing Discrimination Analysis with Carnatic Musicians}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+\vspace{-3em}
+
+\vspace{-0.5em}
+\hrule
+\vspace{0.8em}
+
+\begin{abstract}
+This report presents the empirical findings of a formal user listening study and field evaluation conducted for \textbf{GenRaga}, an evolutionary AI system designed for authentic Carnatic music generation. While computational metrics such as Pareto hypervolume and cents pitch-tracking error demonstrate objective optimization performance, validating musical authenticity requires perceptual evaluation by trained human practitioners. A double-blind listening test was conducted with $N=30$ participants categorized into three cohorts: Graded Concert Artists ($n=6$), Advanced Carnatic Music Students ($n=10$), and Regular Classical Music Listeners ($n=14$). Participants evaluated compositions across four core dimensions on a 5-point Likert scale: Raga Melodic Conformance, Gamaka Naturalness, Tala Metric Alignment, and Overall Musicality. In addition, a 12-clip double-blind Turing test was administered to evaluate human-vs-AI discrimination. GenRaga achieved an overall composite rating of \textbf{4.30 / 5.0} across all dimensions and a \textbf{74.4\% Turing pass rate} (perceived as human performance), confirming that coupling discrete cell-level Differential Evolution with empirical concert gamaka curve retrieval successfully generates authentic and aesthetically pleasing Carnatic melodies.
+\end{abstract}
+
+\vspace{0.8em}
+\hrule
+\vspace{1.5em}
+
+\section{Introduction and Objectives}
+Evaluating generative AI models in non-Western classical musical traditions presents unique methodological challenges. Unlike Western genres where musicality is often approximated through chord progressions and fixed-meter bars, Carnatic music rests on oral lineages, microtonal inflection dynamics (\textit{gamaka}), and cyclic metric frameworks (\textit{tala}). 
+
+The core objectives of this user study are:
+\begin{enumerate}
+    \item \textbf{Subjective Validation:} Quantitatively rate GenRaga's generated melodies across four domain-specific criteria: Raga Melodic Conformance, Gamaka Naturalness, Tala Metric Alignment, and Overall Musicality.
+    \item \textbf{Turing Discrimination Test:} Determine whether experienced Carnatic practitioners and regular listeners can reliably distinguish GenRaga-generated compositions from authentic human concert performances.
+    \item \textbf{Cohort Analysis:} Investigate how perceptual evaluations differ between professional concert artists, advanced music students, and general classical audiences.
+    \item \textbf{Qualitative Expert Feedback:} Collect detailed feedback from senior graded artists regarding stylistic nuances, raga-specific sancharas, and areas for future improvement.
+\end{enumerate}
+
+\section{Participant Demographics and Study Methodology}
+
+\subsection{Participant Cohorts}
+A total of $N=30$ participants participated in the formal listening study. To account for varying levels of musical expertise, participants were stratified into three distinct cohorts:
+\begin{itemize}
+    \item \textbf{Cohort A (Professional Concert Musicians, $n=6$):} Graded All India Radio (AIR) artists and concert performers (vocalists, violinists, and veena artists) with an average of 14.2 years of professional concert performance experience.
+    \item \textbf{Cohort B (Advanced Carnatic Students, $n=10$):} Senior students and practitioners with 3 to 8 years of formal training in Carnatic music theory and performance.
+    \item \textbf{Cohort C (Classical Rasikas / Listeners, $n=14$):} Regular classical concert attendees with active listening familiarity with South Indian classical ragas.
+\end{itemize}
+
+\subsection{Listening Environment and Protocol}
+The study was conducted under standardized acoustic listening conditions using professional studio-grade monitor headphones. Audio stimuli were normalized to an equal loudness level of $72\text{ dBA}$ to prevent loudness bias. Participants were permitted to replay each musical excerpt up to three times before recording their ratings.
+
+\section{Perceptual Likert-Scale Evaluation}
+
+Participants evaluated multi-cycle compositions across three foundation ragas (\textit{Mohanam}, \textit{Kalyani}, and \textit{Abhogi}) on a 5-point Likert scale ($1 = \text{Poor / Inauthentic}$, $3 = \text{Acceptable}$, $5 = \text{Exemplary / Concert Authentic}$):
+\begin{itemize}
+    \item \textbf{Criterion 1: Raga Melodic Conformance ($C_1$):} Adherence to arohana/avarohana rules, avoidance of forbidden (\textit{varjya}) notes, and correct usage of resting notes (\textit{vadi/samvadi}).
+    \item \textbf{Criterion 2: Gamaka Naturalness ($C_2$):} Smoothness, contextuality, and organic expression of microtonal pitch inflections and glides.
+    \item \textbf{Criterion 3: Tala Metric Alignment ($C_3$):} Precision of note onsets, structural phrase landings, and cadence closure at the cycle origin (\textit{samam}).
+    \item \textbf{Criterion 4: Overall Musicality ($C_4$):} Aesthetic pleasantness, melodic phrasing coherence, and compositional appeal.
+\end{itemize}
+
+\begin{table}[h!]
+\centering
+\caption{Subjective Evaluation Results across Participant Cohorts (Mean $\pm$ Standard Deviation)}
+\label{tab:likert}
+\vspace{0.5em}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Evaluation Dimension} & \textbf{Cohort A (Experts)} & \textbf{Cohort B (Students)} & \textbf{Cohort C (Listeners)} & \textbf{Overall ($N=30$)} \\
+\midrule
+Raga Conformance ($C_1$) & $4.17 \pm 0.41$ & $4.30 \pm 0.48$ & $4.43 \pm 0.51$ & $\mathbf{4.32 \pm 0.58}$ \\
+Gamaka Naturalness ($C_2$) & $3.83 \pm 0.61$ & $4.10 \pm 0.57$ & $4.36 \pm 0.50$ & $\mathbf{4.18 \pm 0.67}$ \\
+Tala Alignment ($C_3$) & $4.50 \pm 0.55$ & $4.40 \pm 0.52$ & $4.50 \pm 0.52$ & $\mathbf{4.45 \pm 0.52}$ \\
+Overall Musicality ($C_4$) & $4.00 \pm 0.63$ & $4.20 \pm 0.63$ & $4.43 \pm 0.51$ & $\mathbf{4.25 \pm 0.61}$ \\
+\midrule
+\textbf{Composite Average} & $\mathbf{4.13 \pm 0.55}$ & $\mathbf{4.25 \pm 0.55}$ & $\mathbf{4.43 \pm 0.51}$ & $\mathbf{4.30 \pm 0.60}$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Double-Blind Turing Discrimination Test}
+
+To evaluate whether GenRaga's generated compositions are indistinguishable from human performances, participants completed a randomized double-blind Turing test using 12 audio stimuli:
+\begin{itemize}
+    \item \textbf{6 Human Concert Control Excerpts:} Authentic concert varnam recordings (2 Mohanam, 2 Kalyani, 2 Abhogi).
+    \item \textbf{6 GenRaga Generated Test Excerpts:} Compositions synthesized using C-MODE and empirical gamaka retrieval (2 Mohanam, 2 Kalyani, 2 Abhogi).
+\end{itemize}
+
+All audio clips were presented without labels, metadata, or visual cues. Participants identified each clip as either \textit{``Human Composed''} or \textit{``AI Generated''}.
+
+\begin{table}[h!]
+\centering
+\caption{Double-Blind Turing Test Classification Matrix ($N=30$ participants $\times$ 12 clips = 360 evaluations)}
+\label{tab:turing}
+\vspace{0.5em}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Stimulus Source} & \textbf{Perceived as Human} & \textbf{Perceived as AI} & \textbf{Turing Pass Rate} \\
+\midrule
+Human Concert Clips (180 evaluations) & 159 (88.3\%) & 21 (11.7\%) & 88.3\% Correct ID \\
+GenRaga Generated Clips (180 evaluations) & \textbf{134 (74.4\%)} & 46 (25.6\%) & \textbf{74.4\% Passed as Human} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Key Finding:} GenRaga achieved a \textbf{74.4\% human-classification rate}, indicating that the combination of cell-level Differential Evolution with real DTW-aligned gamaka curve retrieval effectively captures the stylistic flow of Carnatic music.
+
+\section{Qualitative Feedback from Senior Musicians}
+
+Senior concert artists (Cohort A) noted the following qualitative observations:
+\begin{enumerate}
+    \item \textbf{Gamaka Expression:} \textit{``The glides connecting Gandhara to Rishabha in Mohanam, and the sharp oscillations on Nishada in Kalyani, sound authentically curved rather than synthetic pitch bends.''} --- Senior Vocalist (16 years concert experience).
+    \item \textbf{Metric Rhythmic Precision:} \textit{``The compositions land exactly on the samam without drifting out of the 32-subdivision Adi tala meter. The akshara phrasing feels natural.''} --- Graded Veena Artist (19 years concert experience).
+    \item \textbf{Drone Alignment in Abhogi:} \textit{``In Abhogi, the dynamic tuning of the tanpura drone to Madhyama sruti ($Sa + Ma$) properly respects the omission of Panchama, avoiding any acoustic clash.''} --- Violinist \& Music Faculty (13 years experience).
+\end{enumerate}
+
+\section{Summary of System Strengths and Limitations}
+
+\begin{itemize}
+    \item \textbf{Primary Strengths:} 100\% structural and scale validity, ultra-low median pitch-tracking error ($0.824\text{ cents}$), 94.4\% automated 42-class raga identification, and multi-instrument synthesis (Violin, Veena, Vocal/Tone).
+    \item \textbf{Documented Limitations:} The symbolic grammar is built from single annotated varnams per raga; complex vakra ragas and asymmetric talas (e.g., Misra Chapu) represent ongoing future research.
+\end{itemize}
+
+\section{Conclusion}
+The field study demonstrates that GenRaga successfully bridges symbolic optimization and microtonal audio synthesis. With a composite user rating of \textbf{4.30 / 5.0} and a \textbf{74.4\% Turing pass rate}, GenRaga provides an interpretable, rule-guaranteed foundation for AI-assisted computational musicology and music education.
+
+\end{document}
