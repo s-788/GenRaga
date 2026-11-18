@@ -1,0 +1,43 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation and Problem Statement}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Research Objectives}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Key Contributions}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Thesis Organization}{3}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Literature Survey}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Evolutionary Algorithms in Music Composition}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Indian Classical and Carnatic Music Computation}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Microtonal Gamaka Synthesis and Continuous Pitch Modeling}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Research Gaps and Motivation}{6}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Proposed System Architecture}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}System Overview and Pipeline Design}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Dataset Curation and Preprocessing}{7}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Hierarchical Musical Representation}{9}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Context-Free Grammar and Move Graph Construction}{9}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Request Routing and Retrieval}{10}{section.3.5}%
+\contentsline {chapter}{\numberline {4}C-MODE Algorithmic Formulations}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}9-Dimensional Cell Feature Embedding}{11}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Feature-Space Differential Evolution Mutation and Crossover}{11}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Nearest-Neighbor Legal Snapping and Join Repair}{12}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Strict Transition Mode}{12}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Balanced Transition Mode}{12}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Formulation of the Five Musical Objective Functions}{12}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Raga-Related Melodic Fidelity ($f_1$)}{12}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Gamaka Readiness ($f_2$)}{13}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Tala Alignment ($f_3$)}{13}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Melodic Diversity ($f_4$)}{13}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5}Section and Register Structure ($f_5$)}{13}{subsection.4.4.5}%
+\contentsline {section}{\numberline {4.5}NSGA-II Selection and Candidate Archiving}{13}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Dynamic Time Warping and Gamaka Retrieval}{13}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Implementation and Experimental Evaluation}{15}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Experimental Setup and Target Raga Modalities}{15}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Baseline Methods and Equal Evaluation Budget Protocol}{15}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Multi-Objective Hypervolume Optimization Benchmark Results}{16}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Theoretical and Empirical Analysis: C-MODE vs. Weighted GA}{16}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Structural Validity, Melodic Novelty, and Verbatim Reuse}{17}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Audio Pitch Tracking and 42-Class Raga Classification Checks}{18}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Documented Negative Experimental Results}{18}{section.5.7}%
+\contentsline {chapter}{\numberline {6}Conclusion and Future Scope}{20}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Summary of Contributions}{20}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Practical Implications}{20}{section.6.2}%
+\contentsline {section}{\numberline {6.3}System Limitations}{21}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Directions for Future Research}{21}{section.6.4}%

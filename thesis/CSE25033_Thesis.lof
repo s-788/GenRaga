@@ -1,0 +1,11 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces GenRaga system architecture: decoupling discrete structural optimization from continuous microtonal pitch synthesis.}}{8}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Data preprocessing pipeline: isolating symbolic phrase tokens from pitch normalization and DTW-aligned gamaka contour extraction.}}{9}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Query routing architecture separating archival retrieval from C-MODE generation.}}{10}{figure.3.3}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces C-MODE evolutionary search loop with join repair and Pareto selection.}}{14}{figure.4.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Hypervolume performance comparing C-MODE, Random Walk, and Weighted GA under Strict vs. Balanced constraint topologies (error bars denote $\pm 1$ sample SD over 5 seeds).}}{17}{figure.5.1}%
+\addvspace {10\p@ }
